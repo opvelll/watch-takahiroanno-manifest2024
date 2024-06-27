@@ -1,10 +1,11 @@
+import repoData from "./assets/repo.json"
 
 function App() {
 
   return (
     <>
       <div className="text-3xl">
-        hello
+        {repoData.name}
       </div>
     </>
   )

@@ -7,7 +7,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "github/dist"
+    "outDir": "script/dist"
   },
-  "include": ["github/fetchData.ts"]
+  "include": ["script/fetchData.ts"]
 }

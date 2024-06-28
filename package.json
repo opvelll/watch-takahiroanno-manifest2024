@@ -8,10 +8,12 @@
     "build": "tsc -b && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "fetchData": "node src/github/fetchData.js",
+    "fetchData": "tsc --project tsconfig.fetch.json && node github/dist/github/fetchData.js",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@octokit/types": "^13.5.0",
+    "@types/node": "^20.14.9",
     "octokit": "^4.0.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -30,7 +32,8 @@
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4",
-    "typescript": "^5.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2",
     "vite": "^5.3.1"
   },
   "volta": {

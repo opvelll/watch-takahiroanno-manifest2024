@@ -16,7 +16,7 @@ export async function fetchIssuesWithLabels(): Promise<void> {
       `
   query($owner: String!, $repo: String!, $labels: [String!]) {
     repository(owner:$owner, name: $repo) {
-      issues(last: 20, labels: $labels) {
+      issues(labels: $labels) {
         totalCount
         nodes {
           title
@@ -24,6 +24,12 @@ export async function fetchIssuesWithLabels(): Promise<void> {
           url
           state
           body
+          comments {
+            totalCount
+          }
+          reactions(content: THUMBS_UP) {
+            totalCount
+          }
           labels(first: 5) {
             nodes {
               name

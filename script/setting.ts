@@ -5,7 +5,14 @@ import path from "path";
 //.envファイルを読み込む
 dotenv.config();
 export const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+//__dirnameを定義
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
+//ファイルパスを定義
 export const filePath = (fileName: string) =>
   path.resolve(__dirname, `../../../src/assets/${fileName}.json`);
-export const targetRepository = { owner: "octocat", repo: "Spoon-Knife" };
+//リポジトリ情報を定義
+export const targetRepository = {
+  owner: "takahiroanno2024",
+  repo: "election2024",
+  path: "docs/manifest",
+};

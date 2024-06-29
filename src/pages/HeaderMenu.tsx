@@ -6,7 +6,12 @@ const { Header, Footer } = Layout;
 export default function HeaderMenu() {
     const location = useLocation();
     const navigate = useNavigate();
-    const items = [{ key: '/commits', label: '経過' }, { key: '/issues', label: '議論(Issue)' }]
+
+    const items = [
+        { key: '/', label: 'このサイトについて' },
+        { key: '/commits', label: '履歴' },
+        { key: '/issues', label: '議論(Issue)' }]
+
     const handleMenuClick: MenuProps['onClick'] = (e) => {
         navigate(e.key);
     }

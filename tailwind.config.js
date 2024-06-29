@@ -7,6 +7,7 @@ export default {
   theme: {
     extend: {},
   },
+  // eslint-disable-next-line no-undef
   plugins: [require('@digital-go-jp/tailwind-theme-plugin')],
 }
 

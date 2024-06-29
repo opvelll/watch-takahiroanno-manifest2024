@@ -7,6 +7,6 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [require('@digital-go-jp/tailwind-theme-plugin')],
 }
 

@@ -1,702 +1,294 @@
 [
   {
-    "title": "Needs moar pun",
-    "createdAt": "2011-02-25T23:35:50Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/1",
+    "title": "教育の費用「貸与」から「付与」の所得制限について",
+    "createdAt": "2024-06-27T10:17:58Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/202",
     "state": "CLOSED",
-    "body": "Seriously. Not punny enough.\n"
+    "body": "### 政策ビジョン\r\n\r\n教育・子育て\r\n\r\n### 政策\r\n\r\nマニフェストP.46 教育費\r\n中学3年生・高校3年生の塾代や受験料の「貸与」について、こちらは現行の「受験生チャレンジ支援貸与」のアップグレードでしょうか？\r\nhttps://www.fukushi.metro.tokyo.lg.jp/seikatsu/teisyotokusyataisaku/jukenseichallenge.html\r\n\r\nなぜこの制度のアップグレードが必要なのか根拠が薄いかと思います。せめて「所得制限に応じて」の表記を変更すべきではないでしょうか。\r\n具体的な世帯収入を示すか、「所得制限」ではなく他の方法でバーを設けることはできないでしょうか。\r\n\r\n### 必要だと思ったきっかけ\r\n\r\n現在、中〜高所得世帯は国の数ある所得制限によって悉く受給対象から外れているため、「所得制限」のキーワードに敏感になっています。ここで更に所得制限をマニフェストとして掲げられると、どのバーで切られるのかと正直疑心暗鬼になってしまう有権者が多いのではないかと懸念します。\r\n\r\n### なぜ必要か\r\n\r\n教育費がかかるのはどこの世帯も同じです。\r\n高校授業料や大学費用ではなく、塾代・受験料に焦点を当ててそこに所得制限を設ける根拠がないと「高所得差別」と誤解を招く可能性があるため、必要と思いました。、\r\n\r\n### この Issue で議論したいこと\r\n\r\nもしどうしても「所得制限を設ける」とマニフェストに明記する必要がある場合、\r\n・「付与」の線引きは世帯年収で考えているのか(現行の制度から変えないのであれば、現行の制度の明確と踏襲する理由)\r\n・その試算根拠は何か\r\n(・これまで数々の仕打ちを受けてきた高所得世帯が納得できるのか)\r\nをマニフェストに加えることはできないでしょうか。\r\n\r\n\r\n### 調べたこと（裏付けとなる事実・ファクト）\r\n\r\nhttps://www.fukushi.metro.tokyo.lg.jp/seikatsu/teisyotokusyataisaku/jukenseichallenge.html\r\n上記施策をアップグレードするのが今回のマニフェストの内容と理解しております。\r\n\r\nhttps://x.com/nikiuo11/status/1806213608269058502?s=46\r\n↑マニフェスト内に所得制限があることへの不安の声です\r\n\r\n### 自由記述欄\r\n\r\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "教育・子育て"
+        }
+      ]
+    }
   },
   {
-    "title": "Image rating",
-    "createdAt": "2011-03-01T19:59:56Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/2",
-    "state": "CLOSED",
-    "body": "Rule 34 fulfilled; so do we need to make this rated PG? :P\n"
-  },
-  {
-    "title": "Can I just test this here?",
-    "createdAt": "2011-03-20T04:38:50Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/5",
-    "state": "CLOSED",
-    "body": "Amazing\n"
-  },
-  {
-    "title": "#test testing",
-    "createdAt": "2011-03-27T17:14:17Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/7",
-    "state": "CLOSED",
-    "body": "How do you create labels?\n"
-  },
-  {
-    "title": "how to create new dialect for new database",
-    "createdAt": "2011-04-08T05:48:30Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/10",
-    "state": "CLOSED",
-    "body": ""
-  },
-  {
-    "title": "Vital Task !",
-    "createdAt": "2011-04-11T00:35:57Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/11",
-    "state": "CLOSED",
-    "body": "Someone fix me !\n"
-  },
-  {
-    "title": "Need more review",
-    "createdAt": "2011-04-20T09:03:22Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/14",
-    "state": "CLOSED",
-    "body": ""
-  },
-  {
-    "title": "553c2077f0edc3d5dc5d17262f6aa498e69d6f8e",
-    "createdAt": "2011-04-23T00:08:55Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/15",
-    "state": "CLOSED",
-    "body": ""
-  },
-  {
-    "title": "coding is interesting",
-    "createdAt": "2011-04-29T13:14:34Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/18",
-    "state": "CLOSED",
-    "body": "i like coding \n"
-  },
-  {
-    "title": "Bag: some",
-    "createdAt": "2011-06-06T00:56:22Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/24",
-    "state": "CLOSED",
-    "body": "test\n"
-  },
-  {
-    "title": "eventmachine installation",
-    "createdAt": "2011-06-22T22:51:43Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/30",
-    "state": "CLOSED",
-    "body": "Please how can I install eventmachine 0.12.10 on window. Whenever I try to install it, I usually get the message shown below:\n\n$ gem install eventmachine\nTemporarily enhancing PATH to include DevKit...\nBuilding native extensions.  This could take a while...\nERROR:  Error installing eventmachine:\n        ERROR: Failed to build gem native extension.\n\nc:/Ruby192/bin/ruby.exe extconf.rb\nchecking for rb_trap_immediate in ruby.h,rubysig.h... no\nchecking for rb_thread_blocking_region()... yes\nchecking for inotify_init() in sys/inotify.h... no\nchecking for __NR_inotify_init in sys/syscall.h... no\nchecking for writev() in sys/uio.h... no\nchecking for rb_thread_check_ints()... yes\n"
-  },
-  {
-    "title": "Test the SK",
-    "createdAt": "2011-06-25T21:28:52Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/31",
-    "state": "CLOSED",
-    "body": "is there a way to set a time for SK to STOP?\n"
-  },
-  {
-    "title": "Issue list too disorganized",
-    "createdAt": "2011-06-29T02:22:02Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/32",
-    "state": "CLOSED",
-    "body": "The issues list is full of \"testing 1-2-3\" stuff and one-line pull requests which aren't actually bugs at all. Right now there are 1896 watchers, all of which will see anything you post here. Please do not waste any more of our precious time by adding more irrelevant comments.\n"
-  },
-  {
-    "title": "Better test than ever",
-    "createdAt": "2011-07-26T14:06:17Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/44",
-    "state": "CLOSED",
-    "body": "yep...\n"
-  },
-  {
-    "title": "for test",
-    "createdAt": "2011-07-31T13:40:28Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/47",
-    "state": "CLOSED",
-    "body": "haha,fire Issues!\n"
-  },
-  {
-    "title": "test",
-    "createdAt": "2011-08-01T18:45:32Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/49",
-    "state": "CLOSED",
-    "body": "test\n"
-  },
-  {
-    "title": "Badabada",
-    "createdAt": "2011-08-10T23:29:01Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/53",
-    "state": "CLOSED",
-    "body": "hu ?\n"
-  },
-  {
-    "title": "test",
-    "createdAt": "2011-08-11T04:28:45Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/54",
-    "state": "CLOSED",
-    "body": "test issue\n"
-  },
-  {
-    "title": "no idea how to add a label",
-    "createdAt": "2011-08-20T08:58:32Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/57",
-    "state": "CLOSED",
-    "body": ""
-  },
-  {
-    "title": "Hi there",
-    "createdAt": "2011-08-26T21:07:07Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/61",
-    "state": "CLOSED",
-    "body": "r u octopus or cat or both?\n"
-  },
-  {
-    "title": "bug no10989789793729479",
-    "createdAt": "2011-08-29T09:50:02Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/64",
-    "state": "CLOSED",
-    "body": "# Big bug ....\n\nDo sth\n"
-  },
-  {
-    "title": "Blah",
-    "createdAt": "2011-08-30T06:30:46Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/65",
-    "state": "CLOSED",
-    "body": "De blah!\n"
-  },
-  {
-    "title": "add shorewall service",
-    "createdAt": "2011-09-06T22:20:10Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/71",
-    "state": "CLOSED",
-    "body": "shorewall.service:\n\n<pre><code>\n[Unit]\nDescription=shorewall\nAfter=syslog.target\n\n[Service]\nType=oneshot\nExecStart=/sbin/shorewall $OPTIONS start\nExecStop=/sbin/shorewall $OPTIONS stop\nRemainAfterExit=yes\n\n[Install]\nWantedBy=multi-user.target\n</code></pre>\n"
-  },
-  {
-    "title": "learnig",
-    "createdAt": "2011-09-09T04:52:44Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/72",
-    "state": "CLOSED",
-    "body": "m lerning creating isuess..plz help me to leran it\n"
-  },
-  {
-    "title": "newer for test",
-    "createdAt": "2011-09-10T16:24:41Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/73",
-    "state": "CLOSED",
-    "body": "for test\n"
-  },
-  {
-    "title": "hello issue",
-    "createdAt": "2011-09-21T16:37:54Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/83",
-    "state": "CLOSED",
-    "body": "from qianru\n"
-  },
-  {
-    "title": "no issues here",
-    "createdAt": "2011-09-30T23:38:57Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/90",
-    "state": "CLOSED",
-    "body": "testing etc\n"
-  },
-  {
-    "title": "Have an issue",
-    "createdAt": "2011-10-04T05:12:17Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/91",
-    "state": "CLOSED",
-    "body": "I need people for my project. It's about making the best hello world program that ever existed HAHA.\n"
-  },
-  {
-    "title": "Im going Forkin'",
-    "createdAt": "2011-10-06T02:36:29Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/92",
-    "state": "CLOSED",
-    "body": "Fork It\n"
-  },
-  {
-    "title": "non-issue with the code tag",
-    "createdAt": "2011-10-08T03:30:12Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/93",
-    "state": "CLOSED",
-    "body": "Hi,\n\nI'd like to start describing my issue with the following line(s) of code.   \n\n<code>$my_prompt> ls <BR> public class myPublicClass {} <BR> what does this mean </code>\n\nI hope this code makes it clear.  \n\nThank you\n"
-  },
-  {
-    "title": "Banging on the system",
-    "createdAt": "2011-10-13T02:18:19Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/97",
-    "state": "CLOSED",
-    "body": "Just testing\n"
-  },
-  {
-    "title": "new version",
-    "createdAt": "2011-10-13T20:27:12Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/98",
-    "state": "CLOSED",
-    "body": "Customer is waiting for a new version. plz do it faster. can't wait!!\n"
-  },
-  {
-    "title": "Test issue",
-    "createdAt": "2011-10-19T20:52:35Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/100",
-    "state": "CLOSED",
-    "body": "1\n2\n3\n4\n"
-  },
-  {
-    "title": "Test",
-    "createdAt": "2011-10-30T22:26:54Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/108",
+    "title": "東京を日本のハブに",
+    "createdAt": "2024-06-27T12:11:29Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/206",
     "state": "OPEN",
-    "body": "Just a test\n"
+    "body": "### 政策ビジョン\n\n経済\n\n### 政策\n\n東京には全ての新幹線が繋がっている。\r\nこれに対してストロー現象が言われる事があるが逆である。\r\nむしろ地方とダイレクトにつながり一体化して課題解決にあたる事が可能である。地方の文化や伝統産業に直に触れ、相互に人的交流や助け合う事ができる。\r\nリニアが開通すれば名古屋、岐阜、南信、山梨と一体化し、静岡ののぞみ停車も増える。\r\n羽田から飛行機で北海道、九州、能登とも1時間前後である。図らずも実現した世界で頭抜けた、この交通インフラを活かさない手はない。\r\nストロー現象ではなく、スプレー効果と呼ぼう。\n\n### 必要だと思ったきっかけ\n\nすでにある東京の強みを活かすため。\n\n### なぜ必要か\n\n東京だけでは限界があり、地方も豊かにならなければ東京の発展もない。\n\n### この Issue で議論したいこと\n\n日本の交通インフラをもっと活かしたい。\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n鉄道、航空網、高速道路\n\n### 自由記述欄\n\n鉄道好きです",
+    "labels": {
+      "nodes": [
+        {
+          "name": "duplicated"
+        },
+        {
+          "name": "経済"
+        }
+      ]
+    }
   },
   {
-    "title": "test",
-    "createdAt": "2011-10-31T04:56:31Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/109",
-    "state": "CLOSED",
-    "body": "test\n"
-  },
-  {
-    "title": "ciao raga",
-    "createdAt": "2011-11-02T16:01:58Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/113",
+    "title": "路面電車復活",
+    "createdAt": "2024-06-27T12:40:10Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/207",
     "state": "OPEN",
-    "body": "tutto rego?\n"
+    "body": "### 政策ビジョン\r\n\r\n経済\r\n\r\n### 政策\r\n\r\n　路面電車を復活してはいかがでしょうか?\r\n吉見俊哉先生が提案していることですが利点が多くあります。ただ復活させるのではなく、新しい街のインフラとして再定義し、様々な社会実験を行う。\r\n　首都高速の高架を廃止する道路とかが使えますが、東京は広いので探せば使える場所はあると思います。運転手不足で需要があっても廃止されるバス路線の代替にもなります。また、鉄道よりも低コストで街の付加価値が上げられるので先行投資としても有効。\r\n　EVにすれば架線が必要無く、始発駅での短時間充電に特化した電池システムでコストダウンと軽量化が可能。\r\n　バスよりも自動運転の親和性が高く、運転手不足や人件費削減に対応できる。\r\n　運賃は顔認証キャッシュレス決済。サブスクにも対応。徹底的な省人化とコストダウン。\r\n　車内カメラとマイクに繋がったAI車掌で人間に出来ないような、車内の状況に常に対応しつつ、複数の乗客のあらゆる質問に答え、街を案内し、緊急対応も行う。疑似人格を持ち、時に車内を盛り上げたり、話し相手にもなる。\r\n　のんびりゆっくりの路面電車の特性を最大限に活かします。\r\n　地方にも展開し、将来的にはシステム毎輸出する。\r\n\r\n### 必要だと思ったきっかけ\r\n\r\n第三の交通で街をもっと楽しみたい。\r\n\r\n### なぜ必要か\r\n\r\n先端テクノロジーを身近な生活向上に役立てる。\r\n\r\n### この Issue で議論したいこと\r\n\r\n都市にふさわしい交通とは?\r\n\r\n### 調べたこと（裏付けとなる事実・ファクト）\r\n\r\n吉見 俊哉\r\n東京裏返し 社会学的街歩きガイド (集英社新書)\r\n\r\n### 自由記述欄\r\n\r\nのんびり街を見て歩きたいです。",
+    "labels": {
+      "nodes": [
+        {
+          "name": "経済"
+        }
+      ]
+    }
   },
   {
-    "title": "new Test",
-    "createdAt": "2011-11-04T04:24:23Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/114",
+    "title": "大規模災害時の通信インフラ維持",
+    "createdAt": "2024-06-27T13:08:09Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/208",
     "state": "OPEN",
-    "body": "Yes it is!\n"
+    "body": "### 政策ビジョン\n\n医療・防災\n\n### 政策\n\nNTTの空中基地局に出資し大規模災害時の通信環境維持を実現する。\n\n### 必要だと思ったきっかけ\n\n大規模災害時は通信の確保が身を守るために必要。\n\n### なぜ必要か\n\n大規模災害時の停電で地上の基地局がダウンするため。\n\n### この Issue で議論したいこと\n\n災害時の通信確保。\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n宇宙RANにおけるHAPS実用化に向けた取り組み\r\nhttps://journal.ntt.co.jp/article/19880\n\n### 自由記述欄\n\n情報は大事",
+    "labels": {
+      "nodes": [
+        {
+          "name": "医療・防災"
+        }
+      ]
+    }
   },
   {
-    "title": "test",
-    "createdAt": "2011-11-12T04:23:32Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/120",
+    "title": "ICT等に苦手意識のある方々への配慮(いわゆるデジタルディバイドの問題)",
+    "createdAt": "2024-06-27T13:21:20Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/209",
     "state": "OPEN",
-    "body": "testtest\n"
+    "body": "### 政策ビジョン\n\n行政\n\n### 政策\n\n行政のDXの推進は必要なことですし、安野さんにはぜひ進めていただければと思いますが、それと同時に、ICT機器の操作が苦手だったり、不安だったりする方々が果たして賛同してくれるのか、と考えると不安に感じます。そのため、既存の申請や都との連絡手段を残した上でDXを進めるのであれば、その内容を明確に示した方がよいかと考えIssueを投稿させていただきます。\n\n### 必要だと思ったきっかけ\n\nデジタルネイティブでない高齢者の方々も都民の中には多くおり、そうした方々にも賛同していただけた方が円滑に進められると考えた。\n\n### なぜ必要か\n\nデジタルネイティブでない都民の方々をも取り残さないようにするため。\n\n### この Issue で議論したいこと\n\n「デジタルネイティブでない方々にどの程度譲歩するか」という点です。譲歩しすぎると安野さんの政策の良さが薄れてしまうため、その部分は考える必要があるかと存じます。\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n_No response_\n\n### 自由記述欄\n\nIssueを投稿するのが初めてのため、不慣れな部分がございます。ご容赦ください。",
+    "labels": {
+      "nodes": [
+        {
+          "name": "行政"
+        }
+      ]
+    }
   },
   {
-    "title": "just a test ",
-    "createdAt": "2011-11-13T14:05:25Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/121",
+    "title": "島嶼部への離島留学の仕組みを作る",
+    "createdAt": "2024-06-27T13:40:21Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/210",
     "state": "OPEN",
-    "body": "test \n"
+    "body": "### 政策ビジョン\n\n教育・子育て\n\n### 政策\n\nYouTube Liveのコメントより\r\n\r\n「それこそ島しょ部の場合はほぼ実質小中高一貫のようになっているので、そこも結びつけて離島留学だったりを取り入れてもらいたいです」\n\n### 必要だと思ったきっかけ\n\n1. [地域みらい留学](https://c-mirai.jp/)の仕組みがあり、実際に2023年度は744名が新規に留学をしているが、東京都では受け入れの学校がない。\r\n2. 島嶼部は、豊かな自然と地域コミュニティが存在することから、地域みらい留学の受け入れ先としてニーズがあり、また島嶼部の子どもたちへの刺激にもなる。\n\n### なぜ必要か\n\n_No response_\n\n### この Issue で議論したいこと\n\n_No response_\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n[地域みらい留学](https://c-mirai.jp/)では実際に2023年度は744名が新規に留学をしている（累計2376人)が、東京都では受け入れの学校がない。\n\n### 自由記述欄\n\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "教育・子育て"
+        }
+      ]
+    }
   },
   {
-    "title": "Test Entry",
-    "createdAt": "2011-11-14T10:22:24Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/123",
-    "state": "CLOSED",
-    "body": "Blah blah\n"
-  },
-  {
-    "title": "short test ",
-    "createdAt": "2011-11-15T17:05:39Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/124",
+    "title": "女性がさらに活躍できる社会へ",
+    "createdAt": "2024-06-27T14:12:32Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/211",
     "state": "OPEN",
-    "body": "hello this is a test by me\n"
+    "body": "### 政策ビジョン\n\n経済\n\n### 政策\n\n・女性管理職比率の公表を国に先駆けて条例で定める\r\n・男女の賃金格差の原因を深掘り調査\n\n### 必要だと思ったきっかけ\n\n自分自身が女で、前職の管理職に女性が少なくロールモデル不足に悩んでいたこと。\n\n### なぜ必要か\n\n女性の社会参加が加速することで、労働人口が増加し、経済の発展に寄与できる可能性があるから。\n\n### この Issue で議論したいこと\n\n・女性管理職比率の公表・賃金格差の深掘り調査以外に、女性の活躍を加速させる方法がないか。\r\n・(悲しいことに)女性の社会参加が進むことで少子化が進んできた面があるという言説もあるが、少子化対策とどう両立させるか。\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n・女性管理職比率、公表へ\r\nhttps://www.tokyo-np.co.jp/article/336330?rct=politics\r\n\r\n・女性の賃金は男性より3割安く、半分は「説明できない格差」\r\nhttps://www.tokyo-np.co.jp/article/313743\n\n### 自由記述欄\n\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "経済"
+        }
+      ]
+    }
   },
   {
-    "title": "a test",
-    "createdAt": "2011-11-22T03:40:26Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/129",
-    "state": "CLOSED",
-    "body": "a test\n"
-  },
-  {
-    "title": "Test Issue Please Ignore",
-    "createdAt": "2011-11-24T07:38:21Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/131",
+    "title": "子育てにかかる経済的負担への支援の見直し（所得制限の見直し）",
+    "createdAt": "2024-06-27T14:31:47Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/212",
     "state": "OPEN",
-    "body": "Meh!\n"
+    "body": "### 政策ビジョン\r\n\r\n教育・子育て\r\n\r\n### 政策\r\n\r\n１）民間の教育費負担（塾代や課外活動など）に対する5000円/月の教育バウチャーを実施（中学3年生・高校生3年生など対象時期を区切る）\r\n２）高校受験料を助成する\r\n３）所得制限の言及は削除\r\n４）第一子保育料無償化（0-2歳も含む）\r\n５）018サポート（月5000円の手当）などは踏襲\r\n\r\n### 必要だと思ったきっかけ\r\n\r\n\r\nTalk to the cityから、所得制限に対する懸念が見られました。\r\n\r\n> #元のコメント:\"安野たかひろ氏のマニフェストを見た。 教育についてはインター中高一貫、トップ大学誘致とか大規模なものより公立校のエアコンやトイレ改修、教職員待遇改善を行ってほしい。教師のリスキリングは皆さん過労死寸前で無理じゃないかな。 あと絶対所得制限はやめてほしい #TOKYOAI\"\r\nhttps://x.com/shirai3des/status/1806259942749520376\r\n\r\nまた、類似のイシュー（#202, #32 ）も見られる\r\n\r\n### なぜ必要か\r\n\r\n安野たかひろの公約においては、東京での子育てにかかる費用を問題としている。\r\n全国比2.3倍ある開きを是正する政策は必要と考えている。\r\nまた、所得制限は誤解を招く表現だったため、削除する。\r\n加えて、第一子の保育料無償化や018サポートなど、現知事による政策や公約は踏襲する。\r\n\r\nまた、所得制限なく施策を実施することで行政事務が大幅に減る副次的効果も期待できる。\r\n\r\n### この Issue で議論したいこと\r\n\r\nさらなる支援の余地がどのようなところにあるか。\r\n\r\n### 調べたこと（裏付けとなる事実・ファクト）\r\n- 元となる声\r\n    - https://x.com/shirai3des/status/1806259942749520376 \r\n    - https://github.com/takahiroanno2024/election2024/issues/202\r\n    - https://github.com/takahiroanno2024/election2024/issues/32\r\n- 018サポート\r\n    - https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/018/index.html\r\n- 小池都知事公約\r\n    - https://www.tokyo-np.co.jp/article/334293\r\n\r\n### 自由記述欄\r\n\r\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "duplicated"
+        },
+        {
+          "name": "教育・子育て"
+        }
+      ]
+    }
   },
   {
-    "title": "Test issue",
-    "createdAt": "2011-11-25T01:28:27Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/133",
+    "title": "働き方改革2.0",
+    "createdAt": "2024-06-27T14:33:18Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/213",
     "state": "OPEN",
-    "body": "This is a _test_ issue.\n"
+    "body": "### 政策ビジョン\n\n経済\n\n### 政策\n\n週休3日や1日の労働時間6時間のような企業を増やす\n\n### 必要だと思ったきっかけ\n\n趣味を楽しむため、なるべく働く時間を減らしたいが、正社員の求人はほとんどが週休2日×8時間勤務+残業、となっている。\r\nAIや自動化などで人間が楽できるようになっているはずなのに実感がわかない。\r\nもっと労働時間の選択肢を増やし、ライフエクスペリエンスを向上させてほしい。\n\n### なぜ必要か\n\n人生を豊かにするため。\n\n### この Issue で議論したいこと\n\n週休3日や1日の労働時間6時間のような企業はなぜ少ないのか。\r\nそういった企業を増やすためにはどのような働きかけが必要か。\r\n(非正規雇用やパート、アルバイトであれば現時点でもこういった働き方が可能だが、正社員でもできるようにしてほしい。)\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n転職エージェントに週休3日や1日の労働時間6時間のような企業がないか聞いたところ、ほとんどないという回答だった。\n\n### 自由記述欄\n\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "経済"
+        }
+      ]
+    }
   },
   {
-    "title": "Test post for Issues.",
-    "createdAt": "2011-11-25T11:20:58Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/136",
+    "title": "延床面積に応じた住宅支援制度の創設",
+    "createdAt": "2024-06-28T00:48:40Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/214",
     "state": "OPEN",
-    "body": "thx octocat :-)\n"
+    "body": "### 政策ビジョン\r\n\r\n教育・子育て\r\n\r\n### 政策\r\n\r\n子育て世帯向けに、持ち家・賃貸問わず階段を除いた延床面積・部屋数に応じた住宅支援制度を創設する\r\n\r\n### 必要だと思ったきっかけ\r\n\r\n東京都内のパワーカップルの子育て世帯でも十分な広さの家に住めていないケースが多いため\r\n\r\n### なぜ必要か\r\n\r\n都内勤務地で共働きを求められると都心から離れたところには住めず、また都内に住むと金銭的にも広い家には住めない。\r\n例えば、パワービルダーが需要に合わせた家を建ててもペンシルハウスになり、居住空間で家族構成が決まる状況になる。\r\n人口減少を解決するには3人以上子どもを育てる必要があるが、そもそもそんな環境には住めないケースが多いのではないかと考えた。\r\n\r\n### この Issue で議論したいこと\r\n\r\n_No response_\r\n\r\n### 調べたこと（裏付けとなる事実・ファクト）\r\n\r\n国土交通省の定めた誘導居住面積水準（都市型）\r\nと\r\n国土交通省:（２）一住宅当たり延べ床面積の都道府県比較\r\nの比較\r\n\r\n### 自由記述欄\r\n\r\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "教育・子育て"
+        }
+      ]
+    }
   },
   {
-    "title": "wasabi",
-    "createdAt": "2011-11-28T22:18:58Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/139",
+    "title": "保育園（または幼稚園）のバウチャー制の導入",
+    "createdAt": "2024-06-28T03:09:19Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/215",
     "state": "OPEN",
-    "body": "ibasaw\n"
+    "body": "### 政策ビジョン\n\n教育・子育て\n\n### 政策\n\n保育園（または幼稚園）にバウチャー制度を導入することを提案します。\r\nバウチャー制度とは、これまで保育園や幼稚園といった施設側に投入されていた補助金を利用者側に「バウチャー」という形で付与する制度です。\r\nバウチャー制度を導入することで、これまでは一定の基準を満たしていれば一定の補助金が得られたという状況から、利用者に選ばれることで報酬が得られるという形に変わっていきます。\r\n\r\nまた、バウチャーの範囲内で利用できる保育園を一定数残した上で、バウチャー＋保護者の自己負担という形も認めることで利用者も多様な選択肢の中から選べるようになります。\r\n\r\nまた、保育園を利用する保護者からバウチャーの費用として、これまでの認可保育園の保育料に相当する額を徴収すれば、財源の面でも大幅なプラスにはならないと考えられます。\n\n### 必要だと思ったきっかけ\n\n２人の子供の子育て中ですが、子供の保育園入園時、「働き罰」と言われるような、非常に大きな不公平感を感じたことがきっかけです。\r\n\r\n現状では、認可保育園と認可外の保育園では保育料に大きな開きがあります。\r\nさらに、それに加え認可外の保育園は、一部例外はありますが、園庭がなかったり、乳児が中心で途中の転園が前提だったりと「認可保育園が見つかるまでのつなぎ」で利用される場合が多い状況です。\r\nそのため、費用面・環境面の両面で認可保育園を希望する保護者が圧倒的に多いのが現状です。\r\n\r\nしかし、認可保育園への入園を希望する保護者が多いが故に認可保育園の入園枠は争奪戦となっています。\r\n\r\n不公平感①\r\n高所得者（高額納税者）は保育料・入園の優先度両方で割を食う\r\n認可保育園の保育料は所得に応じて定められています。（３歳未満）\r\n高所得者は高額の税金を納めているのに加え、高額の保育料を支払う必要があります。\r\nそして、そこまでなら仕方がないと諦めもつくのですが、さらに入園の優先度も所得順に決まり、仕事で重要なポジションに就き何としてでも保育園を利用したい人ほど入園の優先度が下がります。\r\nこの不公平感は根深く、会社の制度的にも、所得的にも２人目、３人目を十分持てたはずの方に子供を持たない決断をさせるに足るものです。\r\n（ここに関しては具体的な統計データはありませんし、保育園以外にも児童手当の所得制限やその他各種補助の年収制限といった要因もありますが、周囲の比較的高所得の方からはそういった声を多く耳にします。特に東京は夫婦共働きで比較的所得が高い層も多いため、不満を抱えている層は多いと思われます）\r\n\r\n不公平感②\r\n施設間の不公平\r\n認可保育園と認可外の保育園では、得られる補助金の額に大きな違いがありますが、保育士の方は愛情を持って子供たちに接してくれています。\r\nしかし、運営費の一部に補助金が投入されていることもあり、一般的には認可保育園の方が給与水準が高い傾向にあります。\r\n同じように先生方が愛情を持って接してくれていても、補助金の有無で設備面や待遇面では違いが生じてしまっているのが現状です。\n\n### なぜ必要か\n\nバウチャー制度を導入し、利用者の側が施設を選べるようにすることで、施設側、利用者側、働く先生側それぞれにメリットがあると考えます。\r\n\r\n施設側\r\nバウチャーによって支払われる金額を、一定数の園児が集まればこれまでの認可保育園で得られる補助金の額と同等になるように設定すれば、より良いサービスを提供し、保護者に選ばれる事業者が正当な報酬を得られるようになります。\r\nまた、バウチャーの範囲内で利用できる保育園の数を一定数確保した上で、バウチャープラスアルファの料金を徴収することも認めれば、例えば、\r\n国の基準よりも保育士の数を増やして手厚い保育をする園\r\n駅に近い場所に送迎保育ステーションを設け、預けやすく、子供は駅から離れた広々とした場所で過ごせる園\r\n外国語対応可能な保育士が在籍した、外国人の子供も通いやすく、英語教育なども充実している園\r\nなど、様々な魅力ある施策を提供できるようになります。\r\n\r\n利用者側\r\nバウチャー制度の導入により、選択の自由度が高まり、これまで認可外とされていた園も選びやすくなります。\r\n園のキャパシティが十分広がれば、本来であれば１歳まで自分で育てたいものの、認可園の空きが４月しかないため泣く泣く０歳児で預けて復帰するということも少なくなります。\r\n\r\n働く先生側\r\n現在は、補助金の制約上、保育士一人当たりの報酬がある程度決まっており、それが給与にも影響していますが、バウチャー制でより市場原理に任せた形になれば、より手厚い配置を行う園が増えたり、スキルが高い保育士がより高い報酬を得られるようになったりする可能性があります。\n\n### この Issue で議論したいこと\n\nバウチャー制度の導入の是非\r\n解決すべき問題点やその対応などあれば議論いただけると幸いです。\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\nhttps://www5.cao.go.jp/keizai3/2001/0706seisakukoka8-q.html\n\n### 自由記述欄\n\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "教育・子育て"
+        }
+      ]
+    }
   },
   {
-    "title": "have a try",
-    "createdAt": "2011-12-01T11:57:45Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/141",
+    "title": "左派か右派の表明",
+    "createdAt": "2024-06-28T05:51:44Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/217",
     "state": "OPEN",
-    "body": "Testing.  ignore it.\n"
+    "body": "### 政策ビジョン\n\n民主主義\n\n### 政策\n\n東京都は日本で最も多い予算を持っている重要な地方自治体です。\r\n東京都政がうまくいけば、日本の政治もまたうまくいくことでしょう。\r\n日本の国政は残念ながら政権交代可能なものとはなっておりません。\r\n地方自治体の選挙において、候補者がどちらの側につくのかを表明することは大事なように思います。\r\nあなたは左派なのか右派なのかどちらか表明をお願いします。\n\n### 必要だと思ったきっかけ\n\n希望の党の騒ぎ以降、政権交代可能な状況でなくなってしまっており小池さんの選挙が始まった。\n\n### なぜ必要か\n\n日本の国政を政権交代可能なものにするため。\n\n### この Issue で議論したいこと\n\n地方自治体の選挙において左派と右派の表明は必要かどうか？\r\nどうして、地方自治体の選挙では多くの候補者が、所属する政党を持たずに立候補するのか？\r\n\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n民主党政権以降、政権交代が起きていない。\n\n### 自由記述欄\n\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "民主主義"
+        }
+      ]
+    }
   },
   {
-    "title": "Test",
-    "createdAt": "2011-12-09T20:19:33Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/149",
+    "title": "弾道ミサイルへの対策",
+    "createdAt": "2024-06-28T05:55:10Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/218",
     "state": "OPEN",
-    "body": "Test . Done.\n"
+    "body": "### 政策ビジョン\n\n医療・防災\n\n### 政策\n\n他候補ではシェルターの整備を行うと提言していますが、ミサイルへの対策は何を考えているのでしょうか。\r\n地下を活用した整備なども考えられますが、逆に欠点も出てくると感じます。\r\n情報に強い街にするのであれば、この機密情報を他国にわからない形で主要都市を守る方策が必要ではないでしょうか。\r\n\r\n防災領域での議論の中の一つとして検討しているのであれば、地震や避難所の問題とは全く違うアプローチになると思いますので、詳細を説明いただきたいです。\n\n### 必要だと思ったきっかけ\n\n日々のニュースを見て\n\n### なぜ必要か\n\n有事に備える必要があるため\n\n### この Issue で議論したいこと\n\nミサイルへの対応\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n小池候補マニフェスト\n\n### 自由記述欄\n\n外交問題でもあるので公開できるものとそうでないものがあるともいますが、最低限のポージングはしても良いかと感じます",
+    "labels": {
+      "nodes": [
+        {
+          "name": "医療・防災"
+        }
+      ]
+    }
   },
   {
-    "title": "Example Issue",
-    "createdAt": "2011-12-13T05:05:33Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/152",
+    "title": "東京都都知事選の予備選挙",
+    "createdAt": "2024-06-28T05:58:22Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/219",
     "state": "OPEN",
-    "body": "This is a test. This is only a test.\n"
+    "body": "### 政策ビジョン\n\n民主主義\n\n### 政策\n\n東京都知事選はあまりに候補が多いので、アメリカ大統領選挙のように予備選挙を行います。\r\n民主党と共和党といった分かれ方を日本はしていないので、左派か右派かを選んで予備選挙を行い、予備選挙で勝ち残った候補が本戦で選挙を行います。\n\n### 必要だと思ったきっかけ\n\n東京都知事選に候補者が多かったから\n\n### なぜ必要か\n\n候補者が多ければ多くの場合、票が割れてしまい、現都知事に有利になってしまい、金権政治に陥りやすいため。\r\n予備選を行うことで金権政治に陥りづらくします。\n\n### この Issue で議論したいこと\n\n予備選が必要\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\nhttps://dl.ndl.go.jp/view/download/digidepo_999909_po_064804.pdf?contentNo=1\n\n### 自由記述欄\n\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "duplicated"
+        },
+        {
+          "name": "民主主義"
+        }
+      ]
+    }
   },
   {
-    "title": "Yet another test",
-    "createdAt": "2011-12-18T18:12:52Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/157",
-    "state": "CLOSED",
-    "body": "Just testing. \n"
-  },
-  {
-    "title": "just a test",
-    "createdAt": "2011-12-26T11:09:15Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/164",
+    "title": "炭素という都市資源の有効活用",
+    "createdAt": "2024-06-28T12:06:37Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/222",
     "state": "OPEN",
-    "body": "and something here\n"
+    "body": "### 政策ビジョン\n\n経済, 医療・防災\n\n### 政策\n\n# 東京都における都市型農業推進と炭素固定化戦略\r\n\r\n## 1. 目標設定\r\n- 都民の5%が自家消費する食料の1%を自給できる体制の構築を目指す。\r\n\r\n## 2. 都市農業の推進\r\n### a) ビル屋上の有効活用\r\n- 太陽光パネルと農園の併設を推進\r\n- 屋上緑化条例の改正による農園設置の義務化検討\r\n\r\n### b) 空きスペースの活用\r\n- 公共施設や学校の遊休地を利用した市民農園の拡充\r\n- 民間所有の未利用地の一時的農地転用を促進\r\n\r\n## 3. 炭素固定化戦略\r\n### a) 都市部における植物による炭素固定の推進\r\n- 街路樹や公園の植栽計画の見直し\r\n- 垂直緑化や壁面緑化の推進\r\n\r\n### b) 都市農業による炭素循環の促進\r\n- 都市部の二酸化炭素を利用した植物栽培の研究支援\r\n- 地産地消による食品輸送に伴う炭素排出の削減\r\n\r\n## 4. 農業教育と体験機会の創出\r\n### a) 学校教育との連携\r\n- 小中学校のカリキュラムに都市農業体験を導入\r\n- 学校給食での地産地消の推進\r\n\r\n### b) 市民向け農業講座の開催\r\n- 屋上農園や市民農園での栽培技術講習会の実施\r\n- オンライン農業講座の提供\r\n\r\n## 5. 災害時対応力の強化\r\n### a) 都市農業を通じた防災・減災\r\n- 農園を活用した防災訓練の実施\r\n- 災害時の食料供給源としての都市農園の位置づけ\r\n\r\n### b) コミュニティレジリエンスの向上\r\n- 農業を通じた地域コミュニティの強化\r\n- 災害時の相互援助ネットワークの構築\r\n\r\n## 6. 制度的支援\r\n### a) 税制優遇\r\n- 屋上農園設置に対する固定資産税の減免\r\n- 都市農業従事者への所得税控除\r\n\r\n### b) 補助金制度\r\n- 屋上農園設置費用の一部補助\r\n- 都市農業用設備導入への助成\r\n\r\n## 7. 技術開発と産学官連携\r\n### a) 都市型農業技術の研究開発\r\n- 省スペース・高効率な栽培システムの開発\r\n- AI・IoTを活用したスマート農業の推進\r\n\r\n### b) 大学・研究機関との連携\r\n- 都市農業に関する共同研究プロジェクトの立ち上げ\r\n- インターンシップ制度の創設\r\n\n\n### 必要だと思ったきっかけ\n\nマニュフェストに東京には資源がないとあったが人的資源や都市鉱山の他に、現在は無駄にしている大切な資源がある。炭素だ。\r\n地球上の炭素は有限で限られており地殻の表層にしかない。\r\n「全炭素貯蔵量約65,500ギガトン（Gt）のうち37,000Gtが深海」で人類がアクセスできる炭素も無限ではない。\r\n\r\n地球が過去に溜め込んだエネルギーを化石燃料として利用し、無駄に二酸化炭素や排熱として捨ててしまっているが、先進的農業（スマートアグリ）が進んだオランダでは農家は二酸化炭素を買って収穫量の増加にあてている。\r\n\r\n光合成は二酸化炭素(CO2)を糖(C6H12O6)や炭水化物(CmH2nOn)など高重合の炭素鎖にする反応である。\r\n我々、炭素生物はこれらを分解、あるいはそれを分解してタンパク質や脂質として溜め込んだ生物を捕食することで、エネルギーを得て、二酸化炭素を吐き出している。\r\n\r\n人が現在捨てて処分に困っている二酸化炭素は、継続可能な社会を考えたとき必要不可欠な資源である。\r\n\r\n江戸時代は肥溜めが野菜の肥料として高価に取引されたが、これについても現代は雨水が多い時などは東京湾に垂れ流してしまっており、有効利活用の余地がおおいにある。\n\n### なぜ必要か\n\n「三年の蓄えなきは国にあらず」とはかつての天明の大飢饉の折にも諭された古来からの経験と示唆に富んだ一節。\r\n\r\nかつて世界的な飢饉をおこしたような破局的噴火のような自然災害や、軍事的目的による海峡封鎖などがおきた際には、最初に大規模な餓死者がでるのは日本であるとされています。それは、とりわけ東京となることでしょう。\r\n日本はその食料自給率がカロリーベースで過去最低になるだけではなく、生産額ベースでも最低を更新しました。関東大震災や東京大空襲、かつて東京が経験したことがあるような事態にかつてないほど脆弱になりつつあります。\r\n東京への一極集中が進みすぎたため、数百万人が数ヶ月規模の避難が必要となった折にそれを受け入れ可能な広域避難が非常に困難になっているからです。\r\nリスク受け入れの体制がとれているとは言い難い。\r\n人口のわずか5%の1%でも体制ができていれば緊急時にそれを10%にすることができるかもしれないが、もしそれが0%なら緊急時にどんなにリソースを分配したところで準備が足りなかったねとただ座して悔いる他ない。\r\n\n\n### この Issue で議論したいこと\n\n食料について考えようや\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n炭素量についてはぐぐりました\n\n### 自由記述欄\n\n政策のところはclaudeさんに形ととのえてもらいました",
+    "labels": {
+      "nodes": [
+        {
+          "name": "医療・防災"
+        },
+        {
+          "name": "経済"
+        }
+      ]
+    }
   },
   {
-    "title": "What does a spoon and a knife give you?",
-    "createdAt": "2012-01-12T13:54:47Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/180",
+    "title": "Code for Japan との連携強化",
+    "createdAt": "2024-06-28T12:09:20Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/223",
     "state": "OPEN",
-    "body": "A fork of course\n"
+    "body": "### 政策ビジョン\r\n\r\n行政\r\n\r\n### 政策\r\n\r\nCode for Japan との連携を強化する方針を示す。\r\n\r\n### 必要だと思ったきっかけ\r\n\r\n1. #198 をみて\r\n2. 財源をどうするのかという指摘が複数のIssueで見られる\r\n3. 安野さんの応援団の八面六臂の活躍をみて\r\n\r\n### なぜ必要か\r\n\r\n1. 集合知を、政策そのものの改善だけでなく改善するための仕組の改善にも活かすことを明示するため\r\n2. システム開発コストを抑える案として提示できる\r\n4. 市民の政治参加を促す1つの手段になること\r\n\r\n### この Issue で議論したいこと\r\n\r\n- マニフェストに記載するのに適しているかどうか（一段階メタな話なので）\r\n- 特定の団体を名指しすることの是非（かといって類似団体は他にないような・・？）\r\n\r\n### 調べたこと（裏付けとなる事実・ファクト）\r\n\r\n - Code for Japan のサイトで[「東京都」を検索](https://www.code4japan.org/search?keyword=%E6%9D%B1%E4%BA%AC%E9%83%BD) すると、コロナのダッシュボードくらいしか出てこず、現状はあまり連携していない、またはその情報を表に出していないよう\r\n - [Code For Tokyo 2.0](https://codefor.tokyo/) という下部組織(?)のサイトもあったが、共同代表者のプロフィールだけで活動実態がわからなかった\r\n\r\n### 自由記述欄\r\n\r\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "行政"
+        }
+      ]
+    }
   },
   {
-    "title": "Knifey Spooney Master",
-    "createdAt": "2012-01-22T05:00:13Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/186",
+    "title": "聴覚障害者の学習環境",
+    "createdAt": "2024-06-28T13:43:48Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/224",
     "state": "OPEN",
-    "body": "- Check\n  - Check\n    - **Check**\n    - Check\n    - Check\n    - _Check_\n      - Check It Out!\n1. What\n2. What\n   - What\n   - What\n\n> What's it all about?\n\n```\ndef foo:\n  if not bar:\n    return true\n```\n"
+    "body": "### 政策ビジョン\n\n教育・子育て\n\n### 政策\n\n聴覚障害を持つ子供の学ぶ場として聾学校を増やしてほしい。\r\n\r\n現在はインクルーシブ教育などもあるが、障害を持たない子供と持つ子供の間ではどうしても学習の遅れやコミュニケーションなどで難しい壁がある。\r\nその原因としては言語があげられる。\r\n\r\n聞こえる人は耳から入るので自然に覚えるケースが多いが、聞こえない子供は目から入る情報のみになるため、目でわかる言語としての手話（日本語対応、日本手話）による教育が一番大事だと考える。\r\n\r\n手話を受けて学べる環境として聾学校があるが、東京都には少ない。\r\n\r\n都内の聾学校としては以下になる。\r\n\r\n対象の学年も場所によるが、中学からの選択肢がかなり狭くなる。\r\nそのため、通学の負担が大きい。\r\n付き添う親の負担もあり、仕事を辞めざるを得ないケースもある。\r\n\r\n大塚ろう学校\t幼・小　豊島区\r\n大塚ろう学校　城東分教室\t幼・小　江東区\r\n大塚ろう学校　城南分教室\t幼　　　大田区\r\n大塚ろう学校　永福分教室\t幼・小　杉並区\r\n立川学園\t幼・小・中・高\t立川市\r\n葛飾ろう学校\t幼・小・中・高\t葛飾区\r\n中央ろう学校\t中・高\t杉並区\r\n\r\n明晴学園　幼・小・中　品川区（私立）\r\n\n\n### 必要だと思ったきっかけ\n\n聾児の学ぶ環境、育つ環境も考えてほしいのに気づかれない、あるいは後回しになることが多い。\r\nデフリンピックも来年に控えているが、聾に対しての理解が進んでいない。\n\n### なぜ必要か\n\n障害に関係なく誰でも自分らしく学べる環境の必要性\n\n### この Issue で議論したいこと\n\n聾学校は必要かどうか。\r\nできれば当事者の意見が欲しい。\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n東京都の特別支援学校一覧\r\n\r\nhttps://www.kyoiku.metro.tokyo.lg.jp/school/special_needs_school/school_list.html\n\n### 自由記述欄\n\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "教育・子育て"
+        }
+      ]
+    }
   },
   {
-    "title": "Big issues",
-    "createdAt": "2012-01-24T12:27:02Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/188",
-    "state": "CLOSED",
-    "body": "This is a big issue.\n"
-  },
-  {
-    "title": "Test Issue 01",
-    "createdAt": "2012-02-02T01:45:45Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/192",
+    "title": "企業内ハラスメント発生した際の、ブラック企業の経営者への罰則の強化",
+    "createdAt": "2024-06-28T14:07:29Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/225",
     "state": "OPEN",
-    "body": "Test issue!\n"
+    "body": "### 政策ビジョン\n\n経済\n\n### 政策\n\n企業内のハラスメント行為を取り締まる組織の創設と、企業経営者への罰則の強化\n\n### 必要だと思ったきっかけ\n\nかつて上司によるハラスメント被害にあったから。\r\n結局、雇われの身は、泣き寝入りすることが多かったから。\n\n### なぜ必要か\n\nハラスメントなどが強く意識されるようになっているのに、ハラスメント行為を取り締まる組織がない。\n\n### この Issue で議論したいこと\n\nどうすれば職場からハラスメントが無くなるか。どうすれば泣き寝入りしなくても済むようになるか。\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n現行の労働基準監督署は労働基準法の観点からしか監査しない（労働基準監督署の人に聞いた）。\r\n海外でもハラスメントをどう取り締まるかは重要問題になっている。\r\nhttps://hipstergate.jp/column/harassment/\n\n### 自由記述欄\n\n特になし。",
+    "labels": {
+      "nodes": [
+        {
+          "name": "経済"
+        }
+      ]
+    }
   },
   {
-    "title": "test",
-    "createdAt": "2012-02-03T14:51:48Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/195",
+    "title": "常設実施必至型住民投票条例について",
+    "createdAt": "2024-06-28T14:33:09Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/227",
     "state": "OPEN",
-    "body": "test issue\n"
+    "body": "### 政策ビジョン\r\n\r\n民主主義\r\n\r\n### 政策\r\n\r\n都民や都議会議員、都知事の発議を受けて、都民投票を行う常設の条例案を提出することを検討してほしいです。\r\n\r\n### 必要だと思ったきっかけ\r\n\r\nマニュフェストの民主主義の項で都民の都政への参加や都政の意思決定に参加できる場を作ると記されていて、その実装の一つとして、常設の実施必至型住民投票条例が有意義だと思ったから。\r\n\r\n### なぜ必要か\r\n\r\n### 現在の状況\r\n- 地方自治法 第5章 74条 条例の制定・改廃の請求において、どの自治体であっても住民が「条例」の制定・改廃を首長に請求する権利が保障されているが、その請求は拒否することができる。\r\n- より住民の意見を聞くために住民や議会、主張の発議を受けてその発議に対する住民投票を行う常設の条例を設けている自治体も存在する。(例：鳥取県)\r\n### なぜ必要なのか\r\n都政に対して直接民主制的な回路を条例として位置づけることによって、より都民による都政の参加が高まると考えられるから\r\n### マニュフェストとの整合性\r\n- 5.民主主義の③都民が都政に参加できる場づくりを補強する条例になると考える\r\n\r\n### この Issue で議論したいこと\r\n\r\n###  都知事になって条例案を提出するということをマニュフェストにするべきか？\r\n###  常設の実施必至型住民投票条例の条例案の内容\r\n- 発議をする条件(例:[鳥取県](https://www.pref.tottori.lg.jp/kenminsankaku/#:~:text=%E5%85%B7%E4%BD%93%E7%9A%84%E4%BA%8B%E9%A0%85-,%E3%82%A4%E3%80%80%E7%99%BA%E8%AD%B0%E6%A8%A9%E8%80%85%E3%81%A8%E7%99%BA%E8%AD%B0%E8%A6%81%E4%BB%B6,-%E6%8A%95%E7%A5%A8%E3%81%AE%E7%99%BA%E8%AD%B0))\r\n- 投票権を持つ人の属性\r\n- 都民投票の結果の取り扱い(結果を直ちに受け入れるのか、結果を尊重までなのか)\r\n\r\n### 調べたこと（裏付けとなる事実・ファクト）\r\n\r\n常設の実施必至型住民投票条例を都道府県単位で唯一設けている鳥取県の[条例文](https://www.pref.tottori.lg.jp/kenminsankaku/)\r\n現在の状況に関して調べるときに参考にした[サイト](https://init-jp.info/system/)\r\n\r\n### 自由記述欄\r\n\r\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "民主主義"
+        }
+      ]
+    }
   },
   {
-    "title": "Meow",
-    "createdAt": "2012-02-05T04:58:45Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/196",
-    "state": "CLOSED",
-    "body": "Testing an issue\n"
-  },
-  {
-    "title": "Line 234 is outdated",
-    "createdAt": "2012-02-08T13:53:03Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/201",
+    "title": "男性に対する子宮頸がんワクチン接種の無償化に関して",
+    "createdAt": "2024-06-28T18:49:08Z",
+    "url": "https://github.com/takahiroanno2024/election2024/issues/228",
     "state": "OPEN",
-    "body": "But my cat loves it\n"
-  },
-  {
-    "title": "test issue",
-    "createdAt": "2012-02-13T11:50:40Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/207",
-    "state": "OPEN",
-    "body": "Testing\n"
-  },
-  {
-    "title": "Test issue",
-    "createdAt": "2012-02-15T19:38:07Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/209",
-    "state": "CLOSED",
-    "body": "Lorem ipsum.\n"
-  },
-  {
-    "title": "Issues have to solve",
-    "createdAt": "2012-02-16T07:23:02Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/211",
-    "state": "CLOSED",
-    "body": "Issues have to solve\n"
-  },
-  {
-    "title": "milo 1",
-    "createdAt": "2012-02-16T07:24:11Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/212",
-    "state": "OPEN",
-    "body": "milo 1\n"
-  },
-  {
-    "title": "Cool",
-    "createdAt": "2012-02-17T23:05:25Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/214",
-    "state": "OPEN",
-    "body": "Just testing\n"
-  },
-  {
-    "title": "Trying things out, brah",
-    "createdAt": "2012-02-19T08:22:17Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/216",
-    "state": "CLOSED",
-    "body": "Rah rah!\n"
-  },
-  {
-    "title": "Major malfunction",
-    "createdAt": "2012-02-22T08:54:17Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/219",
-    "state": "OPEN",
-    "body": "Testing ... 1, 2, 3 ...\n"
-  },
-  {
-    "title": "test issue",
-    "createdAt": "2012-02-29T02:05:22Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/222",
-    "state": "OPEN",
-    "body": "gggggggggggg\n"
-  },
-  {
-    "title": "test test",
-    "createdAt": "2012-03-02T00:45:34Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/226",
-    "state": "OPEN",
-    "body": "over!\n"
-  },
-  {
-    "title": "test",
-    "createdAt": "2012-03-02T02:32:54Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/227",
-    "state": "OPEN",
-    "body": "test\n"
-  },
-  {
-    "title": "This is not a test....",
-    "createdAt": "2012-03-06T23:56:36Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/236",
-    "state": "OPEN",
-    "body": ""
-  },
-  {
-    "title": "just a test",
-    "createdAt": "2012-03-07T10:24:21Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/237",
-    "state": "OPEN",
-    "body": "I want to test if I can commit a issue.\n"
-  },
-  {
-    "title": "Test",
-    "createdAt": "2012-03-10T13:01:00Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/243",
-    "state": "OPEN",
-    "body": "Just a test!\n"
-  },
-  {
-    "title": "Just a test",
-    "createdAt": "2012-03-11T12:54:23Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/245",
-    "state": "OPEN",
-    "body": "Testing this\n"
-  },
-  {
-    "title": "Octocat Issue",
-    "createdAt": "2012-03-19T01:15:14Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/257",
-    "state": "CLOSED",
-    "body": "hi issues issues issues issues\n"
-  },
-  {
-    "title": "測試",
-    "createdAt": "2012-03-19T16:11:02Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/258",
-    "state": "OPEN",
-    "body": "test only\n"
-  },
-  {
-    "title": "issue test",
-    "createdAt": "2012-03-19T16:16:25Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/259",
-    "state": "OPEN",
-    "body": "from bin3\n"
-  },
-  {
-    "title": "Just for Test",
-    "createdAt": "2012-03-19T18:16:17Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/260",
-    "state": "OPEN",
-    "body": "Thanks for the Repo\n"
-  },
-  {
-    "title": "just test",
-    "createdAt": "2012-03-23T14:01:40Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/267",
-    "state": "OPEN",
-    "body": "..\n"
-  },
-  {
-    "title": "test issue",
-    "createdAt": "2012-03-28T12:39:58Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/270",
-    "state": "CLOSED",
-    "body": "just testing issue feature\n"
-  },
-  {
-    "title": "Testing as all",
-    "createdAt": "2012-03-28T13:33:02Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/271",
-    "state": "CLOSED",
-    "body": "Issued for test purpose\n"
-  },
-  {
-    "title": "issue test",
-    "createdAt": "2012-03-29T22:13:55Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/274",
-    "state": "OPEN",
-    "body": "issue test\n"
-  },
-  {
-    "title": "Tasty.",
-    "createdAt": "2012-03-31T19:11:17Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/276",
-    "state": "OPEN",
-    "body": ""
-  },
-  {
-    "title": "Facebook RSS Feed",
-    "createdAt": "2012-04-09T17:13:05Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/284",
-    "state": "OPEN",
-    "body": "Hi, I searched the web for way to get Facebook RSS. All the results I found seem out of date due to Facebook's changing code and page (notification -> status no longer works). Is there anyone have done the Facebook RSS stream feed? I am in an urgent help. Thank you very much!   \n"
-  },
-  {
-    "title": "test",
-    "createdAt": "2012-04-11T14:33:12Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/287",
-    "state": "OPEN",
-    "body": "just for test\n"
-  },
-  {
-    "title": "Test",
-    "createdAt": "2012-04-13T02:14:13Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/288",
-    "state": "OPEN",
-    "body": "Test issue.\n"
-  },
-  {
-    "title": "Test issue",
-    "createdAt": "2012-04-15T21:08:34Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/291",
-    "state": "OPEN",
-    "body": "OMG this is a issue!\n"
-  },
-  {
-    "title": "My issue is that there are TOO MANY ISSUES D:<",
-    "createdAt": "2012-04-17T22:25:28Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/293",
-    "state": "OPEN",
-    "body": ""
-  },
-  {
-    "title": "test",
-    "createdAt": "2012-04-18T14:00:51Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/294",
-    "state": "OPEN",
-    "body": "fds\n"
-  },
-  {
-    "title": "Test",
-    "createdAt": "2012-04-19T07:17:33Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/295",
-    "state": "OPEN",
-    "body": "Just a test\n"
-  },
-  {
-    "title": "test",
-    "createdAt": "2012-04-23T00:08:46Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/297",
-    "state": "CLOSED",
-    "body": "just a test\n"
-  },
-  {
-    "title": "test",
-    "createdAt": "2012-04-23T18:34:24Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/298",
-    "state": "CLOSED",
-    "body": "nothing to test actually\n"
-  },
-  {
-    "title": "forked!",
-    "createdAt": "2012-04-28T06:47:47Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/303",
-    "state": "OPEN",
-    "body": "This has been forked!\n"
-  },
-  {
-    "title": "just test",
-    "createdAt": "2012-04-28T09:22:24Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/304",
-    "state": "OPEN",
-    "body": "all right\n"
-  },
-  {
-    "title": "test",
-    "createdAt": "2012-04-30T08:40:47Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/307",
-    "state": "OPEN",
-    "body": ""
-  },
-  {
-    "title": "Lacks cowbell.",
-    "createdAt": "2012-04-30T20:04:16Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/309",
-    "state": "OPEN",
-    "body": "∴ it needs more cowbell.\n"
-  },
-  {
-    "title": "An issue",
-    "createdAt": "2012-05-02T20:04:41Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/314",
-    "state": "OPEN",
-    "body": "some issue\n\n[GitHub Logo](/images/logo.png)\n\n> # Details\n> \n> Lorem ipsum yada yada\n"
-  },
-  {
-    "title": "issue test",
-    "createdAt": "2012-05-03T17:14:24Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/315",
-    "state": "CLOSED",
-    "body": "this is an issue create by ljc\n"
-  },
-  {
-    "title": "Test Issue Edit",
-    "createdAt": "2012-05-14T04:27:32Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/330",
-    "state": "CLOSED",
-    "body": "Testing permissions on edit issue\n"
-  },
-  {
-    "title": "test base64 images",
-    "createdAt": "2012-05-23T22:28:18Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/337",
-    "state": "OPEN",
-    "body": "!['rotation'](data:image/png;base64,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)\n"
-  },
-  {
-    "title": "test",
-    "createdAt": "2012-06-05T10:36:50Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/348",
-    "state": "OPEN",
-    "body": "test\n"
-  },
-  {
-    "title": "test pull requests",
-    "createdAt": "2012-06-13T00:56:02Z",
-    "url": "https://github.com/octocat/Spoon-Knife/issues/355",
-    "state": "OPEN",
-    "body": "### Test\n"
+    "body": "### 政策ビジョン\n\n医療・防災\n\n### 政策\n\n男性に対する子宮頸がんワクチン接種の無償化を行ってほしいです。\n\n### 必要だと思ったきっかけ\n\n子宮頸がんワクチンを打とうとしたとき女性は無償で打つことができるのに対して男性は有償であると知ったタイミングです。\n\n### なぜ必要か\n\n子宮頸がんは女性が発症するものであるが、男性・女性どちらもワクチン接種をすることで防げるものです。現在女性に対して子宮頸がんワクチン接種が無償で行われているのに対して、男性は費用が全額負担となっています。これは子宮頸がんを打とうとしている男性に対して打つハードルを作っていると思います。\n\n### この Issue で議論したいこと\n\n子宮頸がんワクチン接種に関して\n\n### 調べたこと（裏付けとなる事実・ファクト）\n\n- [東京都保険委員局がHPVワクチンの男性への接種について](https://www.hokeniryo.metro.tokyo.lg.jp/kansen/hpvdansei.html)\r\n- [子宮頸がんの予防効果が高い9価HPVワクチンが公費で接種可能に](https://www.gov-online.go.jp/useful/article/202306/1.html)\n\n### 自由記述欄\n\n_No response_",
+    "labels": {
+      "nodes": [
+        {
+          "name": "医療・防災"
+        }
+      ]
+    }
   }
 ]

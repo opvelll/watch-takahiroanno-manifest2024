@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import ErrorPage from "./pages/ErrorPage";
 import HeaderMenu from "./pages/HeaderMenu";
 import Issues from "./pages/Issues";
+import PullRequests from "./pages/PullRequests";
 
 
 function App() {
@@ -19,13 +20,18 @@ function App() {
           path: '/',
           element: <Home />,
         },
-        {
-          path: '/commits',
-          element: <Commits />,
-        },
+
         {
           path: '/issues',
           element: <Issues />,
+        },
+        {
+          path: '/pullRequests',
+          element: <PullRequests />,
+        },
+        {
+          path: '/commits',
+          element: <Commits />,
         },
       ],
     },

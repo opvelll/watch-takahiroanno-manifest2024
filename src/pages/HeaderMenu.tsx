@@ -1,7 +1,7 @@
 import { Layout, Menu, MenuProps } from "antd";
 import { Outlet, useLocation, useNavigate } from "react-router-dom";
 
-const { Header, Footer } = Layout;
+const { Header, Footer, Content } = Layout;
 
 export default function HeaderMenu() {
     const location = useLocation();
@@ -9,8 +9,10 @@ export default function HeaderMenu() {
 
     const items = [
         { key: '/', label: 'このサイトについて' },
-        { key: '/commits', label: '履歴' },
-        { key: '/issues', label: '議論(Issue)' }]
+        { key: '/issues', label: '課題提起一覧(Issues)' },
+        { key: '/pullRequests', label: '変更提案一覧(PullRequests)' },
+        { key: '/commits', label: '反映履歴一覧(Commits)' },
+    ]
 
     const handleMenuClick: MenuProps['onClick'] = (e) => {
         navigate(e.key);
@@ -28,7 +30,9 @@ export default function HeaderMenu() {
                         style={{ flex: 1, minWidth: 0 }}
                     />
                 </Header>
-                <Outlet />
+                <Content className="p-2 md:p-12">
+                    <Outlet />
+                </Content>
                 <Footer style={{ textAlign: 'center' }}>
                     watch-takahiroanno-manifest2024 ©{new Date().getFullYear()} Created by opvelll
                 </Footer>

@@ -1,39 +1,39 @@
-import Sider from "antd/es/layout/Sider";
-import commits from "../assets/commits.json"
-import { Layout, Menu, Timeline } from "antd"
 
-const { Content } = Layout;
+import commits from "../assets/commits.json"
+import { Timeline, TimelineItemProps } from "antd"
+import CommitCard from "../components/CommitCard";
+import ExternalLinkButton from "../components/ExternalLinkButton";
+
 
 export default function Commits() {
 
-    const sideItems = [{ key: '1', label: 'マニュフェスト本文' }, { key: '2', label: '経過' }]
+    const sortedCommits = commits.sort((a, b) => new Date(b.committedDate).getTime() - new Date(a.committedDate).getTime());
+
+    const items: TimelineItemProps[] = sortedCommits.map((commit: { message: string }) => {
+        return {
+            children: <CommitCard commit={commit} />,
+        }
+    })
 
     return (
         <>
-            <Layout>
-                <Sider width={200} className="bg-white border-r">
-                    <Menu
-                        mode="inline"
-                        defaultSelectedKeys={['1']}
-                        style={{ height: '100%', borderRight: 0 }}
-                        items={sideItems}
-                    />
-                </Sider>
-                <Content style={{ padding: '0 48px' }} className="bg-white">
-                    <div
-                        className="rounded-8 bg-white"
-                        style={{
-                            minHeight: 280,
-                            padding: 24,
-                        }}>
-                        <Timeline >
-                            {commits.map((commit: { message: string }) => <Timeline.Item>
-                                {commit.message}
-                            </Timeline.Item>)}
-                        </Timeline>
-                    </div>
-                </Content>
-            </Layout>
+            <div className='bg-white rounded-8 mb-4 flex flex-row justify-center items-center space-x-4 py-2'>
+                <ExternalLinkButton
+                    url="https://manifest.takahiroanno.com/"
+                    text="安野たかひろ：都知事選2024マニフェスト" />
+                <ExternalLinkButton
+                    url='https://github.com/takahiroanno2024/election2024/blob/main/docs/manual_pull_request.md'
+                    text='変更提案(Pull Request)の仕方はこちら' />
+
+            </div>
+
+            <div className="p-4 bg-white rounded-8">
+                <div className="text-std-20B-5 pb-8">
+                    マニュフェストの変更履歴
+                </div>
+                <Timeline items={items} />
+            </div>
+
 
         </>
     )

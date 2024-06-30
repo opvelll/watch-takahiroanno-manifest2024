@@ -1,6 +1,6 @@
 import issues from "../assets/issues.json"
+import ExternalLinkButton from "../components/ExternalLinkButton";
 import IssueCard from "../components/IssueCard";
-import { Button } from "antd";
 
 export default function Home() {
     //最新のIssue5件
@@ -20,17 +20,24 @@ export default function Home() {
                         東京都知事選挙の立候補者の一人である安野たかひろ氏が、GitHubでマニフェストを公開して議論を募るという試みを行っています。
                     </div>
                     <div className="text-std-16N-7">
-                        このサイトでは、安野氏のGitHubのマニフェストに関する部分を抽出して、議論の様子を追うことを目的としています。GitHubから30分おきに情報を取得し更新されます。
+                        このサイトでは、安野氏のGitHubからマニフェストに関する部分を抽出して、議論の様子を追うことを目的としています。GitHubから30分おきに情報を取得し更新されます。
                     </div>
                 </div>
                 <div>
-                    <div className="flex flex-col space-y-4 justify-center items-center">
-                        <div className="text-std-16N-7">
-                            <Button type="primary" shape="round" href="https://github.com/takahiroanno2024/election2024">安野たかひろマニフェスト2024_GitHubリポジトリ</Button>
+                    <div className="flex flex-col space-y-4 justify-center items-center text-std-16N-7">
+
+                        <div className="flex flex-row space-x-2">
+                            <ExternalLinkButton
+                                url="https://github.com/takahiroanno2024/election2024"
+                                text="安野たかひろGitHubリポジトリ" />
+                            <ExternalLinkButton
+                                url="https://github.com/takahiroanno2024/election2024/blob/main/docs/contribution.md"
+                                text="貢献したいあなたへ" />
                         </div>
-                        <div className="text-std-16N-7">
-                            <Button type="primary" shape="round" href="https://manifest.takahiroanno.com/">安野たかひろ：都知事選2024マニフェスト</Button>
-                        </div>
+
+                        <ExternalLinkButton
+                            url="https://manifest.takahiroanno.com/"
+                            text="安野たかひろ：都知事選2024マニフェスト" />
                     </div>
                 </div>
             </div>

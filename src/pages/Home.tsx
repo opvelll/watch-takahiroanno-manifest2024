@@ -1,6 +1,6 @@
-import { Content } from "antd/es/layout/layout"
 import issues from "../assets/issues.json"
 import IssueCard from "../components/IssueCard";
+import { Button } from "antd";
 
 export default function Home() {
     //最新のIssue5件
@@ -10,64 +10,61 @@ export default function Home() {
     //コメントがついているIssue5件
     const issuesWithMostComments = issues.sort((a, b) => b.comments.totalCount - a.comments.totalCount).slice(0, 5);
     return (
-        <Content className="p-12">
-            <div className=" space-y-2">
-                <div className="bg-white rounded-8  space-y-8 p-6">
-                    <div className="text-std-32B-5">
-                        安野たかひろのマニフェストを眺めるサイト
-                    </div>
-                    <div>
-                        <div className="text-std-16N-7">
-                            東京都知事選挙の立候補者の一人である安野たかひろ氏が、GitHubでマニフェストを公開して議論を募るという試みを行っています。
-                        </div>
-                        <div className="text-std-16N-7">
-                            このサイトでは、安野氏のGitHubのマニフェストの変更履歴部分を表示し、マニュフェストの議論の様子を追うことを目的としています。GitHubから30分おきに情報を取得し更新されます。
-                        </div>
-                    </div>
-                    <div>
-                        <div className="text-std-16N-7">
-                            Links :
-                        </div>
-                        <div className="text-std-16N-7">
-                            <a href="https://github.com/takahiroanno2024/election2024">安野たかひろ2024 マニフェストのリポジトリ</a>
-                        </div>
-                        <div className="text-std-16N-7">
-                            <a href="https://manifest.takahiroanno.com/">安野たかひろ：都知事選2024マニフェスト</a>
-                        </div>
-                    </div>
+        <div className="space-y-4">
+            <div className="bg-white rounded-8  space-y-8 p-6">
+                <div className="text-std-32B-5">
+                    安野たかひろのマニフェストGitHubを眺めるサイト
                 </div>
-                <div className="rounded-8 bg-white">
-                    <div className="text-std-20B-5 p-4">
-                        最新のIssue
-                    </div>
-                    <div className="space-y-3">
-                        {latestIssues.map((issue) => (
-                            <IssueCard issue={issue} />
-                        ))}
-                    </div>
-                </div>
-
                 <div>
-                    <div className="text-std-20B-5 p-4">
-                        いいねがついているIssue
+                    <div className="text-std-16N-7">
+                        東京都知事選挙の立候補者の一人である安野たかひろ氏が、GitHubでマニフェストを公開して議論を募るという試みを行っています。
                     </div>
-                    <div className="space-y-2">
-                        {issuesWithMostReactions.map((issue) => (
-                            <IssueCard issue={issue} />
-                        ))}
+                    <div className="text-std-16N-7">
+                        このサイトでは、安野氏のGitHubのマニフェストに関する部分を抽出して、議論の様子を追うことを目的としています。GitHubから30分おきに情報を取得し更新されます。
                     </div>
                 </div>
                 <div>
-                    <div className="text-std-20B-5 p-4">
-                        コメントの多いIssue
-                    </div>
-                    <div className="space-y-2">
-                        {issuesWithMostComments.map((issue) => (
-                            <IssueCard issue={issue} />
-                        ))}
+                    <div className="flex flex-col space-y-4 justify-center items-center">
+                        <div className="text-std-16N-7">
+                            <Button type="primary" shape="round" href="https://github.com/takahiroanno2024/election2024">安野たかひろマニフェスト2024_GitHubリポジトリ</Button>
+                        </div>
+                        <div className="text-std-16N-7">
+                            <Button type="primary" shape="round" href="https://manifest.takahiroanno.com/">安野たかひろ：都知事選2024マニフェスト</Button>
+                        </div>
                     </div>
                 </div>
             </div>
-        </Content>
+            <div className="rounded-8 bg-white">
+                <div className="text-std-20B-5 p-4">
+                    最新のIssue
+                </div>
+                <div className="space-y-2">
+                    {latestIssues.map((issue) => (
+                        <IssueCard issue={issue} />
+                    ))}
+                </div>
+            </div>
+
+            <div className="rounded-8 bg-white">
+                <div className="text-std-20B-5 p-4">
+                    👍️の多いIssue
+                </div>
+                <div className="space-y-2">
+                    {issuesWithMostReactions.map((issue) => (
+                        <IssueCard issue={issue} />
+                    ))}
+                </div>
+            </div>
+            <div className="rounded-8 bg-white">
+                <div className="text-std-20B-5 p-4">
+                    コメントの多いIssue
+                </div>
+                <div className="space-y-2">
+                    {issuesWithMostComments.map((issue) => (
+                        <IssueCard issue={issue} />
+                    ))}
+                </div>
+            </div>
+        </div>
     )
 }

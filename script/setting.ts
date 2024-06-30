@@ -4,7 +4,7 @@ import { Octokit } from "octokit";
 import path from "path";
 //.envファイルを読み込む
 dotenv.config();
-export const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+export const octokit = new Octokit({ auth: process.env.MY_GITHUB_TOKEN });
 //__dirnameを定義
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 //ファイルパスを定義

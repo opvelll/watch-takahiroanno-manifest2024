@@ -10,7 +10,7 @@ export default function HeaderMenu() {
     const items = [
         { key: '/', label: 'このサイトについて' },
         { key: '/issues', label: '課題提起一覧(Issues)' },
-        { key: '/pullRequests', label: '変更提案一覧(PullRequests)' },
+        // { key: '/pullRequests', label: '変更提案一覧(PullRequests)' },
         { key: '/commits', label: '反映履歴一覧(Commits)' },
     ]
 
@@ -30,7 +30,7 @@ export default function HeaderMenu() {
                         style={{ flex: 1, minWidth: 0 }}
                     />
                 </Header>
-                <Content className="p-2 md:p-12">
+                <Content className="p-2 md:px-12 md:py-8">
                     <Outlet />
                 </Content>
                 <Footer style={{ textAlign: 'center' }}>

@@ -2235,7 +2235,7 @@ git blameのように履歴が追えるといいのかも。\r
 ↓一応条例データベースはあるらしいが、古すぎて見づらい\r
 https://www.metro.tokyo.lg.jp/tosei/jore/jore/index.html\r
 \r
-`,comments:{totalCount:2},reactions:{totalCount:14},labels:{nodes:[{name:"民主主義"}]}},{title:"小さな政府へ",createdAt:"2024-06-21T18:05:29Z",url:"https://github.com/takahiroanno2024/election2024/issues/45",state:"OPEN",body:`## 政策ビジョン\r
+`,comments:{totalCount:2},reactions:{totalCount:15},labels:{nodes:[{name:"民主主義"}]}},{title:"小さな政府へ",createdAt:"2024-06-21T18:05:29Z",url:"https://github.com/takahiroanno2024/election2024/issues/45",state:"OPEN",body:`## 政策ビジョン\r
 住民の負担を軽減し、住民の主体性に任せる小さな政府を目指す。\r
 制度改革や規制緩和などでの行政改革をまずは実行してほしい。\r
 \r

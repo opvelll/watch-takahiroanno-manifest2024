@@ -10,17 +10,21 @@ export default function Home() {
     //コメントがついているIssue5件
     const issuesWithMostComments = issues.sort((a, b) => b.comments.totalCount - a.comments.totalCount).slice(0, 5);
     return (
-        <div className="space-y-4">
+        <div className="space-y-6">
             <div className="bg-white rounded-8  space-y-8 p-6">
                 <div className="text-std-32B-5">
                     安野たかひろのマニフェストGitHubを眺めるサイト
                 </div>
                 <div>
                     <div className="text-std-16N-7">
-                        東京都知事選挙の立候補者の一人である安野たかひろ氏が、GitHubでマニフェストを公開して議論を募るという試みを行っています。
+                        東京都知事選挙の立候補者である安野たかひろ氏は、GitHub上でマニフェストを<a href="https://github.com/takahiroanno2024/election2024" target="_blank" rel="noopener noreferrer">公開</a>し、
+                        一般からの意見や提案を募るという取り組みを行っています。
                     </div>
                     <div className="text-std-16N-7">
-                        このサイトでは、安野氏のGitHubからマニフェストに関する部分を抽出して、議論の様子を追うことを目的としています。GitHubから30分おきに情報を取得し更新されます。
+                        このサイトでは、安野氏のGitHubからマニュフェストに関わるIssueと実際に取り込まれたコミットをAPIで取得し表示します。
+                    </div>
+                    <div className="text-std-16N-7">
+                        情報は30分ごとに更新されます。
                     </div>
                 </div>
                 <div>
@@ -30,9 +34,7 @@ export default function Home() {
                             <ExternalLinkButton
                                 url="https://github.com/takahiroanno2024/election2024"
                                 text="安野たかひろGitHubリポジトリ" />
-                            <ExternalLinkButton
-                                url="https://github.com/takahiroanno2024/election2024/blob/main/docs/contribution.md"
-                                text="貢献したいあなたへ" />
+
                         </div>
 
                         <ExternalLinkButton

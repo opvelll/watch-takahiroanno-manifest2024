@@ -8676,7 +8676,7 @@ _No response_\r
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"}]}},{title:"福祉避難所の現状把握と周知",createdAt:"2024-07-01T14:06:53Z",url:"https://github.com/takahiroanno2024/election2024/issues/258",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:2},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"}]}},{title:"福祉避難所の現状把握と周知",createdAt:"2024-07-01T14:06:53Z",url:"https://github.com/takahiroanno2024/election2024/issues/258",state:"OPEN",body:`### 政策ビジョン
 
 医療・防災
 

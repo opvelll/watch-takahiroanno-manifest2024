@@ -2654,7 +2654,7 @@ https://www.ktr.mlit.go.jp/gaikan/pi_kouhou/40th/s5_1_2.pdf`,comments:{totalCoun
 \r
 ### 調べたこと（裏付けとなる事実・ファクト）\r
 * https://www.bousai.go.jp/kyoiku/hokenkyousai/jishin.html\r
-* https://www.nhk.or.jp/senkyo/opinion-polls/02/`,comments:{totalCount:25},reactions:{totalCount:1},labels:{nodes:[{name:"医療・防災"}]}},{title:"安野氏のアピアランス改善",createdAt:"2024-06-22T05:57:51Z",url:"https://github.com/takahiroanno2024/election2024/issues/70",state:"CLOSED",body:`## 政策ビジョン\r
+* https://www.nhk.or.jp/senkyo/opinion-polls/02/`,comments:{totalCount:26},reactions:{totalCount:1},labels:{nodes:[{name:"医療・防災"}]}},{title:"安野氏のアピアランス改善",createdAt:"2024-06-22T05:57:51Z",url:"https://github.com/takahiroanno2024/election2024/issues/70",state:"CLOSED",body:`## 政策ビジョン\r
 \r
 <!-- 一つ選んでください -->\r
 \r
@@ -5779,7 +5779,7 @@ Githubだと改善要望しか出ないので、民意を作りづらいと感�
       - 画像内のテキスト\r
   - 東京都 文化・芸術  **@tocho_seibun**\r
     - https://x.com/tocho_seibun/status/1787784478972170413\r
-      - 画像内のテキスト`,comments:{totalCount:0},reactions:{totalCount:10},labels:{nodes:[{name:"行政"}]}},{title:"「都議会AI」のチェックについて",createdAt:"2024-06-26T12:41:33Z",url:"https://github.com/takahiroanno2024/election2024/issues/195",state:"OPEN",body:`### 政策ビジョン
+      - 画像内のテキスト`,comments:{totalCount:0},reactions:{totalCount:11},labels:{nodes:[{name:"行政"}]}},{title:"「都議会AI」のチェックについて",createdAt:"2024-06-26T12:41:33Z",url:"https://github.com/takahiroanno2024/election2024/issues/195",state:"OPEN",body:`### 政策ビジョン
 
 民主主義
 

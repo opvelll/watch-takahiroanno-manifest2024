@@ -11,16 +11,17 @@ export default function Issues() {
     return (
         <>
             <div className='bg-white rounded-8 mb-4 flex flex-row justify-center items-center space-x-4 py-2'>
-                <div>
-                    <ExternalLinkButton
-                        url='https://github.com/takahiroanno2024/election2024/issues'
-                        text='GitHubのIssueページはこちら ' />
-                </div>
-                <div>
-                    <ExternalLinkButton
-                        url='https://github.com/takahiroanno2024/election2024/blob/main/docs/manual_issue.md#new_issue'
-                        text='新しいIssueの立て方はこちら' />
-                </div>
+
+                <ExternalLinkButton
+                    url='https://github.com/takahiroanno2024/election2024/issues'
+                    text='GitHubのIssueページはこちら ' />
+                <ExternalLinkButton
+                    url="https://github.com/takahiroanno2024/election2024/blob/main/docs/contribution.md"
+                    text="貢献したいあなたへ" />
+                <ExternalLinkButton
+                    url='https://github.com/takahiroanno2024/election2024/blob/main/docs/manual_issue.md#new_issue'
+                    text='新しいIssueの立て方はこちら' />
+
             </div>
             <div className='p-4 bg-white rounded-8'>
                 <div className='text-std-20B-5 p-4'>

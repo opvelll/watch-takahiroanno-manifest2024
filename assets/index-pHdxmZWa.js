@@ -5540,7 +5540,7 @@ https://www.nhk.or.jp/shutoken/wr/20230307a.html\r
 ### このイシューで議論したいこと\r
 \r
 ### 調べたこと（裏付けとなる事実・ファクト）\r
-`,comments:{totalCount:2},reactions:{totalCount:0},labels:{nodes:[{name:"民主主義"}]}},{title:"ブロードリスニングの不明点",createdAt:"2024-06-23T11:21:38Z",url:"https://github.com/takahiroanno2024/election2024/issues/134",state:"OPEN",body:`## 政策ビジョン\r
+`,comments:{totalCount:3},reactions:{totalCount:0},labels:{nodes:[{name:"民主主義"}]}},{title:"ブロードリスニングの不明点",createdAt:"2024-06-23T11:21:38Z",url:"https://github.com/takahiroanno2024/election2024/issues/134",state:"OPEN",body:`## 政策ビジョン\r
 \r
 - [ ] 経済\r
 - [ ] 医療・防災\r

@@ -1868,7 +1868,7 @@ https://pc.watch.impress.co.jp/docs/column/gyokai/1511390.html\r
 
 ### 調べたこと（裏付けとなる事実・ファクト）
 シルバー民主主義 - 高齢者優遇をどう克服するか
-八代 尚宏`,comments:{totalCount:8},reactions:{totalCount:10},labels:{nodes:[{name:"民主主義"}]}},{title:"都知事選における死票問題の克服",createdAt:"2024-06-21T12:35:19Z",url:"https://github.com/takahiroanno2024/election2024/issues/29",state:"OPEN",body:`## 政策ビジョン\r
+八代 尚宏`,comments:{totalCount:9},reactions:{totalCount:10},labels:{nodes:[{name:"民主主義"}]}},{title:"都知事選における死票問題の克服",createdAt:"2024-06-21T12:35:19Z",url:"https://github.com/takahiroanno2024/election2024/issues/29",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!-- 一つ選んでください -->\r
 \r
@@ -3510,7 +3510,7 @@ https://ja.wikipedia.org/wiki/3S%E6%94%BF%E7%AD%96\r
 ### 調べたこと（裏付けとなる事実・ファクト）\r
 - [「多数決の原則」と「少数意見の尊重」について考える－シルバー民主主義と東京一極集中にどう向き合うべきか](https://www.nli-research.co.jp/report/detail/id=75487?site=nli)\r
 - [「０歳児から選挙権を」…吉村知事が持論、日本維新の会に公約として提案する考え](https://www.yomiuri.co.jp/local/kansai/news/20240426-OYO1T50007/)\r
-`,comments:{totalCount:9},reactions:{totalCount:2},labels:{nodes:[{name:"民主主義"},{name:"行政"}]}},{title:"共同親権推進",createdAt:"2024-06-23T01:37:54Z",url:"https://github.com/takahiroanno2024/election2024/issues/106",state:"OPEN",body:`## 政策ビジョン\r
+`,comments:{totalCount:10},reactions:{totalCount:2},labels:{nodes:[{name:"民主主義"},{name:"行政"}]}},{title:"共同親権推進",createdAt:"2024-06-23T01:37:54Z",url:"https://github.com/takahiroanno2024/election2024/issues/106",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!--\r
 該当する政策カテゴリを一つ選んで、[X]のように括弧内にXと入力してください。\r
@@ -5667,7 +5667,7 @@ AIあんの\r
 ### 自由記述欄\r
 AIあんのに質問すると何にどれくらいの予算をどのタイミングで使うかの回答は返って来るが、視覚的に捉えられるように資料化したほうが良いと思う。\r
 \r
-_No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]}},{title:"良い政策に対してのポジティブフィードバックや賛成票を可視化するシステム",createdAt:"2024-06-26T06:18:15Z",url:"https://github.com/takahiroanno2024/election2024/issues/184",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:1},labels:{nodes:[{name:"行政"}]}},{title:"良い政策に対してのポジティブフィードバックや賛成票を可視化するシステム",createdAt:"2024-06-26T06:18:15Z",url:"https://github.com/takahiroanno2024/election2024/issues/184",state:"OPEN",body:`### 政策ビジョン
 
 経済
 
@@ -5779,7 +5779,7 @@ Githubだと改善要望しか出ないので、民意を作りづらいと感�
       - 画像内のテキスト\r
   - 東京都 文化・芸術  **@tocho_seibun**\r
     - https://x.com/tocho_seibun/status/1787784478972170413\r
-      - 画像内のテキスト`,comments:{totalCount:0},reactions:{totalCount:11},labels:{nodes:[{name:"行政"}]}},{title:"「都議会AI」のチェックについて",createdAt:"2024-06-26T12:41:33Z",url:"https://github.com/takahiroanno2024/election2024/issues/195",state:"OPEN",body:`### 政策ビジョン
+      - 画像内のテキスト`,comments:{totalCount:0},reactions:{totalCount:12},labels:{nodes:[{name:"行政"}]}},{title:"「都議会AI」のチェックについて",createdAt:"2024-06-26T12:41:33Z",url:"https://github.com/takahiroanno2024/election2024/issues/195",state:"OPEN",body:`### 政策ビジョン
 
 民主主義
 

@@ -21,7 +21,7 @@ export default function Home() {
                         一般からの意見や提案を募るという取り組みを行っています。
                     </div>
                     <div className="text-std-16N-7">
-                        このサイトでは、安野氏のGitHubからマニュフェストに関わるIssueと実際に取り込まれたコミットをAPIで取得し表示します。
+                        このサイトでは、安野氏のGitHubからマニフェストに関わるIssueと実際に取り込まれたコミットをAPIで取得し表示します。
                     </div>
                     <div className="text-std-16N-7">
                         情報は30分ごとに更新されます。

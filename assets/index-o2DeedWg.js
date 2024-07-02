@@ -7918,7 +7918,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:2},reactions:{totalCount:1},labels:{nodes:[{name:"教育・子育て"}]}},{title:"高校教育の改革",createdAt:"2024-06-29T09:11:17Z",url:"https://github.com/takahiroanno2024/election2024/issues/232",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:3},reactions:{totalCount:1},labels:{nodes:[{name:"教育・子育て"}]}},{title:"高校教育の改革",createdAt:"2024-06-29T09:11:17Z",url:"https://github.com/takahiroanno2024/election2024/issues/232",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 
@@ -8751,7 +8751,7 @@ _No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:1},reactions:{totalCount:1},labels:{nodes:[{name:"教育・子育て"}]}},{title:"少子化対策にむけた女性のキャリア支援の充実",createdAt:"2024-07-02T08:57:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/262",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"}]}},{title:"少子化対策にむけた女性のキャリア支援の充実",createdAt:"2024-07-02T08:57:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/262",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 

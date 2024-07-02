@@ -8540,6 +8540,9 @@ https://x.com/yanpoyan/status/1807282292764835963?s=46&t=lMNf_ULI7YQKyuYMSSXqRg`
 \r
 ### 調べたこと（裏付けとなる事実・ファクト）\r
 \r
+・東京都パートナーシップ宣誓制度の利用者数\r
+https://www.soumu.metro.tokyo.lg.jp/10jinken/sesaku/sonchou/partnership.html\r
+\r
 ・提供型生殖補助医療や不妊治療についての状況\r
 https://www.jsps.go.jp/file/storage/general/jissyakai/data/saitaku/h30_houkoku/3_ninomiya_seika.pdf\r
 \r

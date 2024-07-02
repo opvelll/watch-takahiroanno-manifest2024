@@ -3336,7 +3336,7 @@ git blameのように履歴が追えるといいのかも。\r
 ↓一応条例データベースはあるらしいが、古すぎて見づらい\r
 https://www.metro.tokyo.lg.jp/tosei/jore/jore/index.html\r
 \r
-`,comments:{totalCount:2},reactions:{totalCount:15},labels:{nodes:[{name:"民主主義"}]}},{title:"小さな政府へ",createdAt:"2024-06-21T18:05:29Z",url:"https://github.com/takahiroanno2024/election2024/issues/45",state:"OPEN",body:`## 政策ビジョン\r
+`,comments:{totalCount:2},reactions:{totalCount:16},labels:{nodes:[{name:"民主主義"}]}},{title:"小さな政府へ",createdAt:"2024-06-21T18:05:29Z",url:"https://github.com/takahiroanno2024/election2024/issues/45",state:"OPEN",body:`## 政策ビジョン\r
 住民の負担を軽減し、住民の主体性に任せる小さな政府を目指す。\r
 制度改革や規制緩和などでの行政改革をまずは実行してほしい。\r
 \r
@@ -6417,7 +6417,7 @@ _No response_`,comments:{totalCount:7},reactions:{totalCount:4},labels:{nodes:[{
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:6},reactions:{totalCount:3},labels:{nodes:[{name:"行政"}]}},{title:"モビリティ決済システムの統合",createdAt:"2024-06-25T07:39:24Z",url:"https://github.com/takahiroanno2024/election2024/issues/169",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:7},reactions:{totalCount:3},labels:{nodes:[{name:"行政"}]}},{title:"モビリティ決済システムの統合",createdAt:"2024-06-25T07:39:24Z",url:"https://github.com/takahiroanno2024/election2024/issues/169",state:"OPEN",body:`### 政策ビジョン
 
 経済
 
@@ -6598,7 +6598,7 @@ _No response_`,comments:{totalCount:2},reactions:{totalCount:7},labels:{nodes:[{
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:2},reactions:{totalCount:1},labels:{nodes:[{name:"医療・防災"}]}},{title:"週刊誌のストーカー同然の取材行為の規制",createdAt:"2024-06-25T14:04:13Z",url:"https://github.com/takahiroanno2024/election2024/issues/175",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:3},reactions:{totalCount:1},labels:{nodes:[{name:"医療・防災"}]}},{title:"週刊誌のストーカー同然の取材行為の規制",createdAt:"2024-06-25T14:04:13Z",url:"https://github.com/takahiroanno2024/election2024/issues/175",state:"OPEN",body:`### 政策ビジョン
 
 行政
 
@@ -8007,7 +8007,7 @@ _No response_\r
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:0},reactions:{totalCount:6},labels:{nodes:[{name:"医療・防災"}]}},{title:"(女性)子宮頸がんワクチンのキャッチアップ接種における年齢制限の拡充と9価タイプの追加に関する要望",createdAt:"2024-06-29T12:10:17Z",url:"https://github.com/takahiroanno2024/election2024/issues/235",state:"OPEN",body:`### 政策ビジョン\r
+_No response_`,comments:{totalCount:2},reactions:{totalCount:7},labels:{nodes:[{name:"医療・防災"}]}},{title:"(女性)子宮頸がんワクチンのキャッチアップ接種における年齢制限の拡充と9価タイプの追加に関する要望",createdAt:"2024-06-29T12:10:17Z",url:"https://github.com/takahiroanno2024/election2024/issues/235",state:"OPEN",body:`### 政策ビジョン\r
 \r
 医療・防災\r
 \r

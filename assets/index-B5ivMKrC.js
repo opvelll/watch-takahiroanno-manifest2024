@@ -7680,7 +7680,7 @@ https://www.kyoiku.metro.tokyo.lg.jp/school/special_needs_school/school_list.htm
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"}]}},{title:"企業内ハラスメント発生した際の、ブラック企業の経営者への罰則の強化",createdAt:"2024-06-28T14:07:29Z",url:"https://github.com/takahiroanno2024/election2024/issues/225",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{name:"教育・子育て"}]}},{title:"企業内ハラスメント発生した際の、ブラック企業の経営者への罰則の強化",createdAt:"2024-06-28T14:07:29Z",url:"https://github.com/takahiroanno2024/election2024/issues/225",state:"OPEN",body:`### 政策ビジョン
 
 経済
 
@@ -8751,7 +8751,7 @@ _No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]}},{title:"少子化対策にむけた女性のキャリア支援の充実",createdAt:"2024-07-02T08:57:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/262",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:1},labels:{nodes:[{name:"教育・子育て"}]}},{title:"少子化対策にむけた女性のキャリア支援の充実",createdAt:"2024-07-02T08:57:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/262",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 
@@ -8788,6 +8788,42 @@ _No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{
 （2）総務省「令和4年 都民の就業構造」\r
 （3）独立行政法人労働政策研究・研修機構「子育て世帯全国調査」\r
 （4）厚生労働省「第一子出産前後の妻の継続就業率・育児休業利用状況」
+
+### 自由記述欄
+
+_No response_`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]}},{title:"フリーランス・起業家の方に向けた、育休相当の支援",createdAt:"2024-07-02T09:26:25Z",url:"https://github.com/takahiroanno2024/election2024/issues/263",state:"OPEN",body:`### 政策ビジョン
+
+教育・子育て
+
+### 政策
+
+・フリーランスや起業家の方が受け取れる、所得保証のための見舞金を手配します（出産手当金に相当）\r
+・出生時育児休業給付金に該当する給付金を都として手配\r
+
+
+### 必要だと思ったきっかけ
+
+#32 \r
+> 私は今週娘が誕生しましたが、妻がフリーランスで産休・育休の制度がなく、自分で貯蓄、やりくりすることが必要になりました。\r
+> 一方会社員（私もですが）は育休制度があり、不平等感を感じます。\r
+> 多様な働き方があり得る世の中で、サポートの対象範囲の拡大は合わせて必要ではないでしょうか。
+
+### なぜ必要か
+
+働き方の多様化が推進されることでフリーランスの方が増えやすい状況下にあるが、その後の出産・育児に対してはサポートが少なくなっている現場がある。\r
+そして、結果的にそのことは働き方の多様性自体にも影響を与えうる。\r
+また、起業家においても同様であり、もっとワークライフバランスの両立をしやすい支援が必要なのではないか。\r
+\r
+
+
+### この Issue で議論したいこと
+
+どのような支援があると良いのか、意見をいただきたいです。
+
+### 調べたこと（裏付けとなる事実・ファクト）
+
+[フリーランスは育休を取得できない！代わりの育児支援制度を全紹介\r
+](https://labol.co.jp/columns/life/freelancers-cannot-take-childcare-leave/)
 
 ### 自由記述欄
 

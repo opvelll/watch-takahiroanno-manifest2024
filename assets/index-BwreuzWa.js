@@ -4408,7 +4408,7 @@ https://www3.nhk.or.jp/news/special/coronavirus/after-effect/detail/detail_24.ht
 https://www.fukushi.metro.tokyo.lg.jp/shougai/jigyo/ishishitei.html\r
 \r
 平畑医師によるコロナ後遺症の症状や治療法、情報についてまとめたサイト\r
-https://www.longcovid.jp/index.html`,comments:{totalCount:2},reactions:{totalCount:4},labels:{nodes:[{name:"医療・防災"}]}},{title:"介護、医療分野でのAIとロボット、身体拡張技術を使う実証実験",createdAt:"2024-06-22T13:23:41Z",url:"https://github.com/takahiroanno2024/election2024/issues/80",state:"OPEN",body:`## 政策ビジョン\r
+https://www.longcovid.jp/index.html`,comments:{totalCount:3},reactions:{totalCount:4},labels:{nodes:[{name:"医療・防災"}]}},{title:"介護、医療分野でのAIとロボット、身体拡張技術を使う実証実験",createdAt:"2024-06-22T13:23:41Z",url:"https://github.com/takahiroanno2024/election2024/issues/80",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!-- 一つ選んでください -->\r
 \r
@@ -9997,7 +9997,7 @@ https://www.moricli.jp/topics/2024/05/29/1385/\r
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:1},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]}},{title:"東京都の島嶼部航路を運航する船会社の都有化について",createdAt:"2024-07-03T11:03:12Z",url:"https://github.com/takahiroanno2024/election2024/issues/284",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:2},reactions:{totalCount:3},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]}},{title:"東京都の島嶼部航路を運航する船会社の都有化について",createdAt:"2024-07-03T11:03:12Z",url:"https://github.com/takahiroanno2024/election2024/issues/284",state:"OPEN",body:`### 政策ビジョン
 
 その他
 

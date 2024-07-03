@@ -1,6 +1,7 @@
 import Markdown from "react-markdown";
 import { BiComment } from "react-icons/bi";
 import { formatDate } from "../lib/formatData";
+import remarkGfm from 'remark-gfm'
 
 export default function IssueCard({ issue }: { issue: { title: string, body: string, createdAt: string, url: string, comments: { totalCount: number }, reactions: { totalCount: number } } }) {
     const openInNewTab = (url: string) => {
@@ -28,7 +29,7 @@ export default function IssueCard({ issue }: { issue: { title: string, body: str
                     </div>
                     <div className="p-2">
                         <div className="scroll-auto overflow-y-auto max-h-32">
-                            <Markdown>{issue.body}</Markdown>
+                            <Markdown remarkPlugins={[remarkGfm]}>{issue.body.replace(/\r\n/g, "\n")}</Markdown>
                         </div>
                     </div>
                 </div>

@@ -8647,7 +8647,7 @@ GitHub Issue機能
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:1},reactions:{totalCount:5},labels:{nodes:[{name:"民主主義"},{name:"行政"}]}},{title:"教科書バリアフリー法に基づく特定図書等（デイジー教科書など）がある教科書を優先して採択する",createdAt:"2024-07-01T13:12:35Z",url:"https://github.com/takahiroanno2024/election2024/issues/257",state:"OPEN",body:`### 政策ビジョン\r
+_No response_`,comments:{totalCount:1},reactions:{totalCount:6},labels:{nodes:[{name:"民主主義"},{name:"行政"}]}},{title:"教科書バリアフリー法に基づく特定図書等（デイジー教科書など）がある教科書を優先して採択する",createdAt:"2024-07-01T13:12:35Z",url:"https://github.com/takahiroanno2024/election2024/issues/257",state:"OPEN",body:`### 政策ビジョン\r
 \r
 教育・子育て\r
 \r
@@ -8745,7 +8745,7 @@ _No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:1},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"}]}},{title:"少子化対策にむけた女性のキャリア支援の充実",createdAt:"2024-07-02T08:57:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/262",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:3},labels:{nodes:[{name:"教育・子育て"}]}},{title:"少子化対策にむけた女性のキャリア支援の充実",createdAt:"2024-07-02T08:57:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/262",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 

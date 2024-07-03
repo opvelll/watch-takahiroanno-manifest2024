@@ -7396,7 +7396,7 @@ Githubだと改善要望しか出ないので、民意を作りづらいと感�
       - 画像内のテキスト\r
   - 東京都 文化・芸術  **@tocho_seibun**\r
     - https://x.com/tocho_seibun/status/1787784478972170413\r
-      - 画像内のテキスト`,comments:{totalCount:0},reactions:{totalCount:12},labels:{nodes:[{name:"行政"}]}},{title:"「都議会AI」のチェックについて",createdAt:"2024-06-26T12:41:33Z",url:"https://github.com/takahiroanno2024/election2024/issues/195",state:"OPEN",body:`### 政策ビジョン
+      - 画像内のテキスト`,comments:{totalCount:0},reactions:{totalCount:13},labels:{nodes:[{name:"行政"}]}},{title:"「都議会AI」のチェックについて",createdAt:"2024-06-26T12:41:33Z",url:"https://github.com/takahiroanno2024/election2024/issues/195",state:"OPEN",body:`### 政策ビジョン
 
 民主主義
 
@@ -9586,7 +9586,7 @@ UNESCOが作成した「国際セクシュアリティ教育ガイダンス」�
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:0},reactions:{totalCount:5},labels:{nodes:[{name:"教育・子育て"}]}},{title:"住宅断熱の課題を精査",createdAt:"2024-07-03T02:59:20Z",url:"https://github.com/takahiroanno2024/election2024/issues/275",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:6},labels:{nodes:[{name:"教育・子育て"}]}},{title:"住宅断熱の課題を精査",createdAt:"2024-07-03T02:59:20Z",url:"https://github.com/takahiroanno2024/election2024/issues/275",state:"OPEN",body:`### 政策ビジョン
 
 その他
 

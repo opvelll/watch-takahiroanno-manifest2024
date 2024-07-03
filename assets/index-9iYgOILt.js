@@ -9952,7 +9952,7 @@ https://note.com/hal_sk/n/nc9df8b8fd765
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:1},reactions:{totalCount:1},labels:{nodes:[{name:"行政"}]}},{title:"妊婦へのRSウイルスワクチンの公費助成",createdAt:"2024-07-03T10:53:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/283",state:"OPEN",body:`### 政策ビジョン\r
+_No response_`,comments:{totalCount:2},reactions:{totalCount:2},labels:{nodes:[{name:"行政"}]}},{title:"妊婦へのRSウイルスワクチンの公費助成",createdAt:"2024-07-03T10:53:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/283",state:"OPEN",body:`### 政策ビジョン\r
 \r
 医療・防災, 教育・子育て\r
 \r
@@ -9997,7 +9997,7 @@ https://www.moricli.jp/topics/2024/05/29/1385/\r
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:2},reactions:{totalCount:3},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]}},{title:"東京都の島嶼部航路を運航する船会社の都有化について",createdAt:"2024-07-03T11:03:12Z",url:"https://github.com/takahiroanno2024/election2024/issues/284",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:2},reactions:{totalCount:4},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]}},{title:"東京都の島嶼部航路を運航する船会社の都有化について",createdAt:"2024-07-03T11:03:12Z",url:"https://github.com/takahiroanno2024/election2024/issues/284",state:"OPEN",body:`### 政策ビジョン
 
 その他
 

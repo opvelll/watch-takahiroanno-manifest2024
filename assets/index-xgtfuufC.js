@@ -9431,7 +9431,7 @@ _No response_`,comments:{totalCount:0},reactions:{totalCount:8},labels:{nodes:[{
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"}]}},{title:"都政参加プラットフォームにて、「本人確認された都民である属性」の表示",createdAt:"2024-07-02T17:34:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/272",state:"OPEN",body:`### 政策ビジョン\r
+_No response_`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{name:"教育・子育て"}]}},{title:"都政参加プラットフォームにて、「本人確認された都民である属性」の表示",createdAt:"2024-07-02T17:34:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/272",state:"OPEN",body:`### 政策ビジョン\r
 \r
 民主主義\r
 \r

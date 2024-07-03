@@ -9586,7 +9586,7 @@ UNESCOが作成した「国際セクシュアリティ教育ガイダンス」�
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:0},reactions:{totalCount:4},labels:{nodes:[{name:"教育・子育て"}]}},{title:"住宅断熱の課題を精査",createdAt:"2024-07-03T02:59:20Z",url:"https://github.com/takahiroanno2024/election2024/issues/275",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:5},labels:{nodes:[{name:"教育・子育て"}]}},{title:"住宅断熱の課題を精査",createdAt:"2024-07-03T02:59:20Z",url:"https://github.com/takahiroanno2024/election2024/issues/275",state:"OPEN",body:`### 政策ビジョン
 
 その他
 
@@ -9648,7 +9648,7 @@ https://bilingualscience.com/english/%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%
 
 ### 自由記述欄
 
-・過去にもいくつか類似例がありますが、改めて安野さんから政策として「こういった取り組みもテクノロジーで強化できる」と伝えて頂きたく思います。`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"医療・防災"}]}},{title:"東京都内の賃貸住宅の更新料負担ゼロ",createdAt:"2024-07-03T06:58:17Z",url:"https://github.com/takahiroanno2024/election2024/issues/278",state:"OPEN",body:`### 政策ビジョン
+・過去にもいくつか類似例がありますが、改めて安野さんから政策として「こういった取り組みもテクノロジーで強化できる」と伝えて頂きたく思います。`,comments:{totalCount:1},reactions:{totalCount:1},labels:{nodes:[{name:"医療・防災"}]}},{title:"東京都内の賃貸住宅の更新料負担ゼロ",createdAt:"2024-07-03T06:58:17Z",url:"https://github.com/takahiroanno2024/election2024/issues/278",state:"OPEN",body:`### 政策ビジョン
 
 経済
 
@@ -9963,7 +9963,7 @@ _No response_`,comments:{totalCount:1},reactions:{totalCount:1},labels:{nodes:[{
 \r
 今年の6月から、RS ウイルス母子免疫ワクチン(アブリスボ)が接種可能になりました。\r
 新生児のRSウイルス罹患による重症化を防ぐ事が期待できるワクチンで、妊婦さんが接種する事で、お腹の赤ちゃんに抗体移行します。\r
-しかし現状では接種が任意で40,000円近くかかり、接種を躊躇する妊婦さんも多いと思います。\r
+しかし現状では接種が任意で30,000円近くかかり、接種を躊躇する妊婦さんも多いと思います。\r
 このため希望する妊婦が誰でも打てるよう、ぜひ公費助成の対象になって欲しいです。\r
 \r
 ### 必要だと思ったきっかけ\r
@@ -9977,7 +9977,7 @@ https://x.com/odahirokoillust/status/1676757085596569600?s=46&t=9ehdwDrO4CSMnazP
 \r
 ### なぜ必要か\r
 \r
-先述の通り、現在は費用が40,000円近くかかり、接種のハードルが高いです。\r
+先述の通り、現在は費用が30,000円〜かかり、接種のハードルが高いです。\r
 これが助成されて無料になれば、「打てるなら打っておこう」と考える妊婦さんも増え、多くの赤ちゃんの命を救えると思います。\r
 \r
 ### この Issue で議論したいこと\r
@@ -9997,7 +9997,7 @@ https://www.moricli.jp/topics/2024/05/29/1385/\r
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]}},{title:"東京都の島嶼部航路を運航する船会社の都有化について",createdAt:"2024-07-03T11:03:12Z",url:"https://github.com/takahiroanno2024/election2024/issues/284",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]}},{title:"東京都の島嶼部航路を運航する船会社の都有化について",createdAt:"2024-07-03T11:03:12Z",url:"https://github.com/takahiroanno2024/election2024/issues/284",state:"OPEN",body:`### 政策ビジョン
 
 その他
 

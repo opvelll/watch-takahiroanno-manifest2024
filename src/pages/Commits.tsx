@@ -29,7 +29,7 @@ export default function Commits() {
 
             <div className="p-4 bg-white rounded-8">
                 <div className="text-std-20B-5 pb-8">
-                    マニュフェストの変更履歴
+                    マニフェストの変更履歴
                 </div>
                 <Timeline items={items} />
             </div>

@@ -65,7 +65,83 @@ Error generating stack: `+i.message+`
  * LICENSE.md file in the root directory of this source tree.
  *
  * @license MIT
- */function lu(){return lu=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var t=arguments[n];for(var r in t)Object.prototype.hasOwnProperty.call(t,r)&&(e[r]=t[r])}return e},lu.apply(this,arguments)}const W7="6";try{window.__reactRouterVersion=W7}catch{}function V7(e,n){return a7({basename:n==null?void 0:n.basename,future:lu({},n==null?void 0:n.future,{v7_prependBasename:!0}),history:O8({window:n==null?void 0:n.window}),hydrationData:(n==null?void 0:n.hydrationData)||X7(),routes:e,mapRouteProperties:U7,unstable_dataStrategy:n==null?void 0:n.unstable_dataStrategy,unstable_patchRoutesOnMiss:n==null?void 0:n.unstable_patchRoutesOnMiss,window:n==null?void 0:n.window}).initialize()}function X7(){var e;let n=(e=window)==null?void 0:e.__staticRouterHydrationData;return n&&n.errors&&(n=lu({},n,{errors:Z7(n.errors)})),n}function Z7(e){if(!e)return null;let n=Object.entries(e),t={};for(let[r,o]of n)if(o&&o.__type==="RouteErrorResponse")t[r]=new T0(o.status,o.statusText,o.data,o.internal===!0);else if(o&&o.__type==="Error"){if(o.__subType){let i=window[o.__subType];if(typeof i=="function")try{let a=new i(o.message);a.stack="",t[r]=a}catch{}}if(t[r]==null){let i=new Error(o.message);i.stack="",t[r]=i}}else t[r]=o;return t}const G7=p.createContext({isTransitioning:!1}),K7=p.createContext(new Map),q7="startTransition",eg=ss[q7],Q7="flushSync",ng=t4[Q7];function Y7(e){eg?eg(e):e()}function Ja(e){ng?ng(e):e()}class J7{constructor(){this.status="pending",this.promise=new Promise((n,t)=>{this.resolve=r=>{this.status==="pending"&&(this.status="resolved",n(r))},this.reject=r=>{this.status==="pending"&&(this.status="rejected",t(r))}})}}function eC(e){let{fallbackElement:n,router:t,future:r}=e,[o,i]=p.useState(t.state),[a,l]=p.useState(),[s,c]=p.useState({isTransitioning:!1}),[d,u]=p.useState(),[f,m]=p.useState(),[h,v]=p.useState(),k=p.useRef(new Map),{v7_startTransition:g}=r||{},b=p.useCallback(I=>{g?Y7(I):I()},[g]),y=p.useCallback((I,N)=>{let{deletedFetchers:M,unstable_flushSync:T,unstable_viewTransitionOpts:j}=N;M.forEach(D=>k.current.delete(D)),I.fetchers.forEach((D,B)=>{D.data!==void 0&&k.current.set(B,D.data)});let H=t.window==null||t.window.document==null||typeof t.window.document.startViewTransition!="function";if(!j||H){T?Ja(()=>i(I)):b(()=>i(I));return}if(T){Ja(()=>{f&&(d&&d.resolve(),f.skipTransition()),c({isTransitioning:!0,flushSync:!0,currentLocation:j.currentLocation,nextLocation:j.nextLocation})});let D=t.window.document.startViewTransition(()=>{Ja(()=>i(I))});D.finished.finally(()=>{Ja(()=>{u(void 0),m(void 0),l(void 0),c({isTransitioning:!1})})}),Ja(()=>m(D));return}f?(d&&d.resolve(),f.skipTransition(),v({state:I,currentLocation:j.currentLocation,nextLocation:j.nextLocation})):(l(I),c({isTransitioning:!0,flushSync:!1,currentLocation:j.currentLocation,nextLocation:j.nextLocation}))},[t.window,f,d,k,b]);p.useLayoutEffect(()=>t.subscribe(y),[t,y]),p.useEffect(()=>{s.isTransitioning&&!s.flushSync&&u(new J7)},[s]),p.useEffect(()=>{if(d&&a&&t.window){let I=a,N=d.promise,M=t.window.document.startViewTransition(async()=>{b(()=>i(I)),await N});M.finished.finally(()=>{u(void 0),m(void 0),l(void 0),c({isTransitioning:!1})}),m(M)}},[b,a,d,t.window]),p.useEffect(()=>{d&&a&&o.location.key===a.location.key&&d.resolve()},[d,f,o.location,a]),p.useEffect(()=>{!s.isTransitioning&&h&&(l(h.state),c({isTransitioning:!0,flushSync:!1,currentLocation:h.currentLocation,nextLocation:h.nextLocation}),v(void 0))},[s.isTransitioning,h]),p.useEffect(()=>{},[]);let S=p.useMemo(()=>({createHref:t.createHref,encodeLocation:t.encodeLocation,go:I=>t.navigate(I),push:(I,N,M)=>t.navigate(I,{state:N,preventScrollReset:M==null?void 0:M.preventScrollReset}),replace:(I,N,M)=>t.navigate(I,{replace:!0,state:N,preventScrollReset:M==null?void 0:M.preventScrollReset})}),[t]),A=t.basename||"/",w=p.useMemo(()=>({router:t,navigator:S,static:!1,basename:A}),[t,S,A]);return p.createElement(p.Fragment,null,p.createElement(Xu.Provider,{value:w},p.createElement(p4.Provider,{value:o},p.createElement(K7.Provider,{value:k.current},p.createElement(G7.Provider,{value:s},p.createElement(H7,{basename:A,location:o.location,navigationType:o.historyAction,navigator:S,future:{v7_relativeSplatPath:t.future.v7_relativeSplatPath}},o.initialized||t.future.v7_partialHydration?p.createElement(nC,{routes:t.routes,future:t.future,state:o}):n))))),null)}function nC(e){let{routes:n,future:t,state:r}=e;return O7(n,void 0,r,t)}var tg;(function(e){e.UseScrollRestoration="useScrollRestoration",e.UseSubmit="useSubmit",e.UseSubmitFetcher="useSubmitFetcher",e.UseFetcher="useFetcher",e.useViewTransitionState="useViewTransitionState"})(tg||(tg={}));var rg;(function(e){e.UseFetcher="useFetcher",e.UseFetchers="useFetchers",e.UseScrollRestoration="useScrollRestoration"})(rg||(rg={}));const tC=[{oid:"f622f77b4b73805e86ab8fe241a3324a90df6ffa",message:`妊婦へのRSウイルスワクチンの公費助成
+ */function lu(){return lu=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var t=arguments[n];for(var r in t)Object.prototype.hasOwnProperty.call(t,r)&&(e[r]=t[r])}return e},lu.apply(this,arguments)}const W7="6";try{window.__reactRouterVersion=W7}catch{}function V7(e,n){return a7({basename:n==null?void 0:n.basename,future:lu({},n==null?void 0:n.future,{v7_prependBasename:!0}),history:O8({window:n==null?void 0:n.window}),hydrationData:(n==null?void 0:n.hydrationData)||X7(),routes:e,mapRouteProperties:U7,unstable_dataStrategy:n==null?void 0:n.unstable_dataStrategy,unstable_patchRoutesOnMiss:n==null?void 0:n.unstable_patchRoutesOnMiss,window:n==null?void 0:n.window}).initialize()}function X7(){var e;let n=(e=window)==null?void 0:e.__staticRouterHydrationData;return n&&n.errors&&(n=lu({},n,{errors:Z7(n.errors)})),n}function Z7(e){if(!e)return null;let n=Object.entries(e),t={};for(let[r,o]of n)if(o&&o.__type==="RouteErrorResponse")t[r]=new T0(o.status,o.statusText,o.data,o.internal===!0);else if(o&&o.__type==="Error"){if(o.__subType){let i=window[o.__subType];if(typeof i=="function")try{let a=new i(o.message);a.stack="",t[r]=a}catch{}}if(t[r]==null){let i=new Error(o.message);i.stack="",t[r]=i}}else t[r]=o;return t}const G7=p.createContext({isTransitioning:!1}),K7=p.createContext(new Map),q7="startTransition",eg=ss[q7],Q7="flushSync",ng=t4[Q7];function Y7(e){eg?eg(e):e()}function Ja(e){ng?ng(e):e()}class J7{constructor(){this.status="pending",this.promise=new Promise((n,t)=>{this.resolve=r=>{this.status==="pending"&&(this.status="resolved",n(r))},this.reject=r=>{this.status==="pending"&&(this.status="rejected",t(r))}})}}function eC(e){let{fallbackElement:n,router:t,future:r}=e,[o,i]=p.useState(t.state),[a,l]=p.useState(),[s,c]=p.useState({isTransitioning:!1}),[d,u]=p.useState(),[f,m]=p.useState(),[h,v]=p.useState(),k=p.useRef(new Map),{v7_startTransition:g}=r||{},b=p.useCallback(I=>{g?Y7(I):I()},[g]),y=p.useCallback((I,N)=>{let{deletedFetchers:M,unstable_flushSync:T,unstable_viewTransitionOpts:j}=N;M.forEach(D=>k.current.delete(D)),I.fetchers.forEach((D,B)=>{D.data!==void 0&&k.current.set(B,D.data)});let H=t.window==null||t.window.document==null||typeof t.window.document.startViewTransition!="function";if(!j||H){T?Ja(()=>i(I)):b(()=>i(I));return}if(T){Ja(()=>{f&&(d&&d.resolve(),f.skipTransition()),c({isTransitioning:!0,flushSync:!0,currentLocation:j.currentLocation,nextLocation:j.nextLocation})});let D=t.window.document.startViewTransition(()=>{Ja(()=>i(I))});D.finished.finally(()=>{Ja(()=>{u(void 0),m(void 0),l(void 0),c({isTransitioning:!1})})}),Ja(()=>m(D));return}f?(d&&d.resolve(),f.skipTransition(),v({state:I,currentLocation:j.currentLocation,nextLocation:j.nextLocation})):(l(I),c({isTransitioning:!0,flushSync:!1,currentLocation:j.currentLocation,nextLocation:j.nextLocation}))},[t.window,f,d,k,b]);p.useLayoutEffect(()=>t.subscribe(y),[t,y]),p.useEffect(()=>{s.isTransitioning&&!s.flushSync&&u(new J7)},[s]),p.useEffect(()=>{if(d&&a&&t.window){let I=a,N=d.promise,M=t.window.document.startViewTransition(async()=>{b(()=>i(I)),await N});M.finished.finally(()=>{u(void 0),m(void 0),l(void 0),c({isTransitioning:!1})}),m(M)}},[b,a,d,t.window]),p.useEffect(()=>{d&&a&&o.location.key===a.location.key&&d.resolve()},[d,f,o.location,a]),p.useEffect(()=>{!s.isTransitioning&&h&&(l(h.state),c({isTransitioning:!0,flushSync:!1,currentLocation:h.currentLocation,nextLocation:h.nextLocation}),v(void 0))},[s.isTransitioning,h]),p.useEffect(()=>{},[]);let S=p.useMemo(()=>({createHref:t.createHref,encodeLocation:t.encodeLocation,go:I=>t.navigate(I),push:(I,N,M)=>t.navigate(I,{state:N,preventScrollReset:M==null?void 0:M.preventScrollReset}),replace:(I,N,M)=>t.navigate(I,{replace:!0,state:N,preventScrollReset:M==null?void 0:M.preventScrollReset})}),[t]),A=t.basename||"/",w=p.useMemo(()=>({router:t,navigator:S,static:!1,basename:A}),[t,S,A]);return p.createElement(p.Fragment,null,p.createElement(Xu.Provider,{value:w},p.createElement(p4.Provider,{value:o},p.createElement(K7.Provider,{value:k.current},p.createElement(G7.Provider,{value:s},p.createElement(H7,{basename:A,location:o.location,navigationType:o.historyAction,navigator:S,future:{v7_relativeSplatPath:t.future.v7_relativeSplatPath}},o.initialized||t.future.v7_partialHydration?p.createElement(nC,{routes:t.routes,future:t.future,state:o}):n))))),null)}function nC(e){let{routes:n,future:t,state:r}=e;return O7(n,void 0,r,t)}var tg;(function(e){e.UseScrollRestoration="useScrollRestoration",e.UseSubmit="useSubmit",e.UseSubmitFetcher="useSubmitFetcher",e.UseFetcher="useFetcher",e.useViewTransitionState="useViewTransitionState"})(tg||(tg={}));var rg;(function(e){e.UseFetcher="useFetcher",e.UseFetchers="useFetchers",e.UseScrollRestoration="useScrollRestoration"})(rg||(rg={}));const tC=[{oid:"ff90e0d8ec39cee3f5c5e815052d85942b426c1c",message:`行政パートの構成見直し
+
+視認性向上のため行政パートの構成を変えています。\r
+①各コンポーネントの中身は基本的に変えていません\r
+②現状認識と施策・方向性パートを明確に分けました\r
+→施策パートにあった、意思決定上の課題・組織上の課題をひとくくりにし、現状認識パートに挿入\r
+→施策・方向性パートは施策・方向性のみの記載にし、視認性向上`,committedDate:"2024-07-04T15:40:56Z",author:{name:"yuuuuuuten",email:"yuuuuuuten@gmail.com"},url:"https://github.com/takahiroanno2024/election2024/commit/ff90e0d8ec39cee3f5c5e815052d85942b426c1c",files:[{sha:"67be61e6b2f6bd453cfa62c4365d31fb940109e7",filename:"docs/manifest/administration.md",status:"modified",additions:27,deletions:22,changes:49,blob_url:"https://github.com/takahiroanno2024/election2024/blob/ff90e0d8ec39cee3f5c5e815052d85942b426c1c/docs%2Fmanifest%2Fadministration.md",raw_url:"https://github.com/takahiroanno2024/election2024/raw/ff90e0d8ec39cee3f5c5e815052d85942b426c1c/docs%2Fmanifest%2Fadministration.md",contents_url:"https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fadministration.md?ref=ff90e0d8ec39cee3f5c5e815052d85942b426c1c",patch:`@@ -35,6 +35,26 @@
+ - 各行政分野でもデジタル化の取り組みが進められている
+     - 都庁各局では[シン・トセイ](https://shintosei.metro.tokyo.lg.jp/)により現場レベルでのDXが推進。子育て、教育、防災など様々な分野でデジタル技術を活用したサービスの開発が進められている
+ 
++## 他方、行政運営上の課題は残っている
++
++- 意思決定上の課題
++    - 行政DX
++        - 都として様々な取組が実施されているものの課題は残存
++        - インタビューした都庁職員の声：GovTech全体の組織は大きくなっているが、エンジニアの比重は少なく、絶対数が足りていない
++        - インタビューした都庁職員の声：内部手続きが多く、政策を考える十分な時間が確保できていない。また、整備された基盤に都政のトップの理解が追いついていない
++    - 意思決定プロセス
++        - 住民意思の汲み取りは4年に1回の選挙が中心
++        - 住民の思いを幅広く拾い意思決定に反映する仕組みはない
++    - 予算や人員の配分
++        - 現都政では行革により財源をねん出。子育て施策をはじめ様々な施策を実施
++        - 他方、都民の満足度、実感には上手く繋がっていない
++- 組織上の課題：必要なところに十分な人員を配置できていない。
++    - インタビューした都庁職員の声：デジタル化は進んでいるが、決裁・レクなど内部手続の負担が大きい
++    - インタビューした都庁職員の声：組織階層が深く(局の下に部がある構成)意思決定のスピードが遅い
++    - インタビューした都庁職員の声：政策立案に十分なリソースを割けていない。政策立案自体よりもバックデータ作りや裏付け(都民の声、報道など)探しの作業に忙殺。
++    - 結果、職場としての魅力がうすれ、東京都の採用試験の応募者数は2015年の2024人から、2022年委は697人にまで大幅に減少
++    - 政策立案や住民福祉の向上など必要な部門に十分な人員配置ができていない可能性
++ 
+ ## これまでの取組を前に進め、住民満足を更に高めることが重要
+ 
+ - デジタル化を更に進める上での課題
+@@ -158,22 +178,11 @@
+ 
+ ## 技術に精通したリーダーによる行政運営の高度化
+ 
+-- 東京都の前進のためには更なる行政運営の高度化が必要
+-    - 行政DX
+-        - 都として様々な取組が実施されているものの課題は残存
+-        - インタビューした都庁職員の声：GovTech全体の組織は大きくなっているが、エンジニアの比重は少なく、絶対数が足りていない
+-        - インタビューした都庁職員の声：内部手続きが多く、政策を考える十分な時間が確保できていない。また、整備された基盤に都政のトップの理解が追いついていない
+-    - 意思決定プロセス
+-        - 住民意思の汲み取りは4年に1回の選挙が中心
+-        - 住民の思いを幅広く拾い意思決定に反映する仕組みはない
+-    - 予算や人員の配分
+-        - 現都政では行革により財源をねん出。子育て施策をはじめ様々な施策を実施
+-        - 他方、都民の満足度、実感には上手く繋がっていない
+ - デジタルに精通したリーダーだから取り組めること
+     - テクノロジーの実装の一層の推進
+         - テクノロジーの実装は大きな変革を生む
+         - テクノロジーのに精通したリーダーだからこそ一層の社会実装が可能に
+-- デジタル人材の活用、例えば元都庁職員の出戻り推進  
++        - デジタル人材の活用、例えば元都庁職員の出戻り推進  
+     - 意思決定プロセスの変革
+         - 政策の決定方法(＝意思決定プロセス)の見直しはトップだからこそ可能
+         - ブロードリスニングによる住民意思の汲み取りと政策決定への反映の仕組み化
+@@ -185,13 +194,9 @@
+ 
+ ## 構造改革の推進による実行力のある組織づくり
+ 
+-- 現状、都の構造改革は未徹底。必要なところに十分な人員を配置できていない。
+-    - インタビューした都庁職員の声：デジタル化は進んでいるが、決裁・レクなど内部手続の負担が大きい
+-    - インタビューした都庁職員の声：組織階層が深く(局の下に部がある構成)意思決定のスピードが遅い
+-    - インタビューした都庁職員の声：政策立案に十分なリソースを割けていない。政策立案自体よりもバックデータ作りや裏付け(都民の声、報道など)探しの作業に忙殺。
+-    - 結果、職場としての魅力がうすれ、東京都の採用試験の応募者数は2015年の2024人から、2022年委は697人にまで大幅に減少
+-    - 政策立案や住民福祉の向上など必要な部門に十分な人員配置ができていない可能性
+-- 更なる働き方改革、業務効率化、組織の見直しによる魅力ある職場づくりと実行体制の充実
+-    - データ基盤の整備やブロードリスニングによる恒常的な住民意思の汲み取りにより突発的ななリサーチ業務を減らす
+-    - 業務状況の可視化を行った上で、組織・権限範囲の見直しを行うことによる意思決定のスピード向上
+-    - デジタル化の徹底による内部手続の効率化推進
++- 構造改革・働き方改革の更なる徹底
++    - 情報の流れの見直し：データ基盤の整備やブロードリスニングによる恒常的な住民意思の汲み取りにより突発的ななリサーチ業務を減らす
++    - 組織の見直し：業務状況の可視化を行った上で、組織・権限範囲の見直しを行うことによる意思決定のスピード向上
++    - 内部手続デジタル化：デジタル化の徹底による内部手続の効率化推進
++- 構造改革の成果を住民福祉の向上に配分
++    - 構造改革・働き方改革の成果を教育・子育て、福祉、災害対応、住民対応など「誰も取り残さない」施策に配分`}]},{oid:"f622f77b4b73805e86ab8fe241a3324a90df6ffa",message:`妊婦へのRSウイルスワクチンの公費助成
 
 #283 のイシューで提案しました通り、妊婦へのRSウイルスワクチンの公費助成についてプルリクエストを出させていただきます。\r
 お手数ですが、ご確認をお願いいたします。\r

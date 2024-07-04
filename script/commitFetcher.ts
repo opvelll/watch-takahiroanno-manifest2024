@@ -23,6 +23,33 @@ async function fetchManifestsFilesCommits() {
                     email
                   }
                   url
+                  associatedPullRequests(first: 5) {
+                    edges {
+                      node {
+                        number
+                        title
+                        url
+                        comments(first: 1) {
+                          nodes {
+                            body
+                          }
+                        }
+                        timelineItems(itemTypes: [CONNECTED_EVENT], first: 5) {
+                          nodes {
+                            ... on ConnectedEvent {
+                              subject {
+                                ... on Issue {
+                                  number
+                                  title
+                                  url
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }

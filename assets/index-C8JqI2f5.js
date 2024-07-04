@@ -9442,11 +9442,18 @@ Xにおけるアンケート調査（回答数778件）\r
 喫煙可能区域と禁煙区域が設定されている（22%）\r
 \r
 https://x.com/sakaeinfo/status/1800772618657919348 （問題編）\r
-https://x.com/sakaeinfo/status/1803309521315451291 （解説編）\r
+https://x.com/sakaeinfo/status/1803309521315451291 （解説編）
+
+【費用】
+移動可能な閉鎖型喫煙所（コンテナ型トレーラーハウス）の維持費用は、概ね1台1000万円強/年です。都内の市区町村が駅前などに設置しており、その大半は都予算によって賄われています。
+都立公園では地代が不要ですので、より安価に設置できます。
+
+【自治体との関係】
+現状においても市区町村が都立公園に喫煙所を設置しようとする場合、スペースの貸し出しに応じる姿勢がとられています。しかし、都立公園は原則として喫煙可能であるため、市区町村が喫煙所を設置する動機に欠けています。\r
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]}},{title:"東京都独自での教員確保・処遇改善による、公教育の抜本的改善",createdAt:"2024-06-29T15:53:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/239",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"行政"}]}},{title:"東京都独自での教員確保・処遇改善による、公教育の抜本的改善",createdAt:"2024-06-29T15:53:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/239",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 

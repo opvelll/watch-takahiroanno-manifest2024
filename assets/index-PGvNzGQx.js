@@ -8215,7 +8215,7 @@ Githubだと改善要望しか出ないので、民意を作りづらいと感�
       - 画像内のテキスト\r
   - 東京都 文化・芸術  **@tocho_seibun**\r
     - https://x.com/tocho_seibun/status/1787784478972170413\r
-      - 画像内のテキスト`,comments:{totalCount:0},reactions:{totalCount:13},labels:{nodes:[{name:"行政"}]}},{title:"「都議会AI」のチェックについて",createdAt:"2024-06-26T12:41:33Z",url:"https://github.com/takahiroanno2024/election2024/issues/195",state:"OPEN",body:`### 政策ビジョン
+      - 画像内のテキスト`,comments:{totalCount:0},reactions:{totalCount:14},labels:{nodes:[{name:"行政"}]}},{title:"「都議会AI」のチェックについて",createdAt:"2024-06-26T12:41:33Z",url:"https://github.com/takahiroanno2024/election2024/issues/195",state:"OPEN",body:`### 政策ビジョン
 
 民主主義
 
@@ -10823,7 +10823,7 @@ https://www.moricli.jp/topics/2024/05/29/1385/\r
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:7},reactions:{totalCount:6},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]}},{title:"東京都の島嶼部航路を運航する船会社の都有化について",createdAt:"2024-07-03T11:03:12Z",url:"https://github.com/takahiroanno2024/election2024/issues/284",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:8},reactions:{totalCount:6},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]}},{title:"東京都の島嶼部航路を運航する船会社の都有化について",createdAt:"2024-07-03T11:03:12Z",url:"https://github.com/takahiroanno2024/election2024/issues/284",state:"OPEN",body:`### 政策ビジョン
 
 その他
 
@@ -11190,7 +11190,7 @@ _No response_
 
 ### 自由記述欄
 
-深堀できていなくてすみません。`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"行政"}]}},{title:"中間層の子育て支援について",createdAt:"2024-07-04T09:48:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/302",state:"OPEN",body:`### 政策ビジョン
+深堀できていなくてすみません。`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"行政"}]}},{title:"中間層の子育て支援について",createdAt:"2024-07-04T09:48:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/302",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 

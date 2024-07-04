@@ -11002,7 +11002,7 @@ n=1
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:1},reactions:{totalCount:3},labels:{nodes:[{name:"行政"}]}},{title:"都条例の整理",createdAt:"2024-07-04T02:36:30Z",url:"https://github.com/takahiroanno2024/election2024/issues/294",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:2},reactions:{totalCount:3},labels:{nodes:[{name:"行政"}]}},{title:"都条例の整理",createdAt:"2024-07-04T02:36:30Z",url:"https://github.com/takahiroanno2024/election2024/issues/294",state:"OPEN",body:`### 政策ビジョン
 
 行政
 

@@ -6841,7 +6841,7 @@ https://www.nhk.or.jp/shutoken/wr/20230307a.html\r
 ### 調べたこと（裏付けとなる事実・ファクト）\r
 \r
 [令和６年度予算概要](https://www.zaimu.metro.tokyo.lg.jp/zaisei/yosan/r6/6yosangaiyounituite/)\r
-[都市整備局](https://www.toshiseibi.metro.tokyo.lg.jp)`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"経済"},{name:"行政"}]}},{title:"東京都選挙制度の改善",createdAt:"2024-06-23T11:07:22Z",url:"https://github.com/takahiroanno2024/election2024/issues/133",state:"OPEN",body:`## 政策ビジョン\r
+[都市整備局](https://www.toshiseibi.metro.tokyo.lg.jp)`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"経済"},{name:"行政"}]}},{title:"東京都選挙制度の改善",createdAt:"2024-06-23T11:07:22Z",url:"https://github.com/takahiroanno2024/election2024/issues/133",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!--\r
 該当する政策カテゴリを一つ選んで、[X]のように括弧内にXと入力してください。\r

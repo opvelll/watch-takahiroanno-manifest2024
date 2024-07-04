@@ -5440,7 +5440,7 @@ SNS上で出産の体験談を読んでいると、無麻酔で出産をした�
 レンタル制度の具体的な運用方法\r
 \r
 ### 調べたこと（裏付けとなる事実・ファクト）\r
-`,comments:{totalCount:1},reactions:{totalCount:3},labels:{nodes:[{name:"医療・防災"}]}},{title:"知事候補者の予備選挙制度",createdAt:"2024-06-22T15:43:32Z",url:"https://github.com/takahiroanno2024/election2024/issues/94",state:"OPEN",body:`## 政策ビジョン\r
+`,comments:{totalCount:1},reactions:{totalCount:4},labels:{nodes:[{name:"医療・防災"}]}},{title:"知事候補者の予備選挙制度",createdAt:"2024-06-22T15:43:32Z",url:"https://github.com/takahiroanno2024/election2024/issues/94",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!--\r
 該当する政策カテゴリを一つ選んで、[X]のように括弧内にXと入力してください。\r
@@ -6437,7 +6437,7 @@ LLMだけじゃなくて他にもAI活用の事例とかやって欲しいです
 日本人の平均年収は447万円(2023年12月データ)である。\r
 しかしケースワーカーの場合、手当や一時金を含めても406万円と約40万円も差が生じている\r
 https://jp.stanby.com/magazine/entry/2212082\r
-https://doda.jp/guide/heikin/age/`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"医療・防災"}]}},{title:"都内に設置されているモスキート音発生装置に対する規制",createdAt:"2024-06-23T07:06:56Z",url:"https://github.com/takahiroanno2024/election2024/issues/121",state:"OPEN",body:`## 政策ビジョン\r
+https://doda.jp/guide/heikin/age/`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{name:"医療・防災"}]}},{title:"都内に設置されているモスキート音発生装置に対する規制",createdAt:"2024-06-23T07:06:56Z",url:"https://github.com/takahiroanno2024/election2024/issues/121",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!--\r
 該当する政策カテゴリを一つ選んで、[X]のように括弧内にXと入力してください。\r

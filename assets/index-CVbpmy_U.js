@@ -10739,7 +10739,7 @@ https://shunoyama.com/blog/2017/11/21/politician/
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"医療・防災"},{name:"行政"}]}},{title:"税金で作られたシステムをオープンソースにする",createdAt:"2024-07-03T10:33:23Z",url:"https://github.com/takahiroanno2024/election2024/issues/282",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"医療・防災"},{name:"行政"}]}},{title:"税金で作られたシステムをオープンソースにしてデジタル公共財にする",createdAt:"2024-07-03T10:33:23Z",url:"https://github.com/takahiroanno2024/election2024/issues/282",state:"OPEN",body:`### 政策ビジョン
 
 行政
 

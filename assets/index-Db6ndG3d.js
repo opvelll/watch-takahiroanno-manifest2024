@@ -11283,7 +11283,7 @@ _No response_`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-04T18:22:38Z"},{title:"就職氷河期世代への救済について",number:299,createdAt:"2024-07-04T08:44:07Z",url:"https://github.com/takahiroanno2024/election2024/issues/299",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-04T19:49:06Z"},{title:"就職氷河期世代への救済について",number:299,createdAt:"2024-07-04T08:44:07Z",url:"https://github.com/takahiroanno2024/election2024/issues/299",state:"OPEN",body:`### 政策ビジョン
 
 経済
 

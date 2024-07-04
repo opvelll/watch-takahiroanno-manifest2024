@@ -1,5 +1,29 @@
 [
   {
+    "oid": "f622f77b4b73805e86ab8fe241a3324a90df6ffa",
+    "message": "妊婦へのRSウイルスワクチンの公費助成\n\n#283 のイシューで提案しました通り、妊婦へのRSウイルスワクチンの公費助成についてプルリクエストを出させていただきます。\r\nお手数ですが、ご確認をお願いいたします。\r\n初めてリクエストを出すため、不備がありましたらお知らせください。",
+    "committedDate": "2024-07-04T02:13:48Z",
+    "author": {
+      "name": "summersummer800",
+      "email": "bellsum725@yahoo.co.jp"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/f622f77b4b73805e86ab8fe241a3324a90df6ffa",
+    "files": [
+      {
+        "sha": "82cb35974da700ca58edaba09f8a9a8eed6b10dd",
+        "filename": "docs/manifest/education.md",
+        "status": "modified",
+        "additions": 15,
+        "deletions": 0,
+        "changes": 15,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/f622f77b4b73805e86ab8fe241a3324a90df6ffa/docs%2Fmanifest%2Feducation.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/f622f77b4b73805e86ab8fe241a3324a90df6ffa/docs%2Fmanifest%2Feducation.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Feducation.md?ref=f622f77b4b73805e86ab8fe241a3324a90df6ffa",
+        "patch": "@@ -194,3 +194,18 @@\n         - 日本と海外の両方の学位を、それぞれ個別に取得するよりも短い期間で取得できるプログラム\n         - 海外大学の学生が東京都立大学の学位取得のため東京に訪れる機会を創出し、人材交流を図れる\n     - 大学間のネットワークの拠点となる\n+\n+## 妊婦へのRSウイルスワクチンの公費助成\n+\n+- 乳児にとってRSウイルスは脅威\n+    - RSウイルスは生後1歳までに50％以上、2歳までにほぼ100％がRSウイルスに感染する\n+    - ある程度成長した子供や大人にとっては咳がしつこい風邪程度で済むが、特に生後6ヶ月までの乳児が罹患すると重症化の可能性がある\n+    - 重症化すると気管支炎、肺炎、無呼吸、急性脳症などを起こすことがあり、最悪の場合死に至る\n+- 母子免疫ワクチンの効果\n+    - 2024年5月末より、妊婦が接種することで胎児に抗体が移行するワクチン「アブリスボ」が登場\n+    - 第Ⅲ相試験において、ワクチンの有効性は、重度のRSウイルス関連下気道感染症に対して、生後90日で81.8%、生後180日で69.4%となっている\n+    - 有害事象および重篤な有害事象はワクチン群とプラセボ群で同程度\n+    - 総合的に見て、基礎疾患のない乳児に対するRSウイルスの予防に寄与するとの日本小児科学会の見解\n+- 接種費用の壁\n+    - 任意接種のため、30,000円～の個人負担が発生する\n+    - 接種したくても価格面の懸念から接種を断念するケースもあり、公費による助成の必要性がある"
+      }
+    ]
+  },
+  {
     "oid": "636cda1f97a26b7c1e04392f697633fcfc54bc3f",
     "message": "Merge pull request #289 from sawa-h/patch-3\n\n自動運転先進都市に、島しょ地域を追加。取り組み内容の具体化。",
     "committedDate": "2024-07-04T01:39:35Z",

@@ -3,6 +3,7 @@
 import issues from '../assets/issues.json';
 import IssueCard from '../components/IssueCard';
 import ExternalLinkButton from '../components/ExternalLinkButton';
+import { Fragment } from 'react/jsx-runtime';
 
 export default function Issues() {
 
@@ -28,8 +29,10 @@ export default function Issues() {
                     課題提起(Issue)の一覧
                 </div>
                 <div className=''>
-                    {sortedIssues.map((issue) => (
-                        <IssueCard issue={issue} />
+                    {sortedIssues.map((issue, idx) => (
+                        <Fragment key={idx}>
+                            <IssueCard issue={issue} />
+                        </Fragment>
                     ))}
                 </div>
             </div>

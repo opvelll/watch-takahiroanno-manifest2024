@@ -9797,7 +9797,7 @@ https://www.soumu.go.jp/main_content/000819371.pdf\r
 \r
 ### 自由記述欄\r
 \r
-_No response_`,comments:{totalCount:2},reactions:{totalCount:2},labels:{nodes:[{name:"行政"}]}},{title:"公共のベンチ・デスクを設置・排除ベンチの撤廃",createdAt:"2024-06-30T17:04:24Z",url:"https://github.com/takahiroanno2024/election2024/issues/251",state:"OPEN",body:`### 政策ビジョン\r
+_No response_`,comments:{totalCount:3},reactions:{totalCount:2},labels:{nodes:[{name:"行政"}]}},{title:"公共のベンチ・デスクを設置・排除ベンチの撤廃",createdAt:"2024-06-30T17:04:24Z",url:"https://github.com/takahiroanno2024/election2024/issues/251",state:"OPEN",body:`### 政策ビジョン\r
 \r
 行政\r
 \r
@@ -10944,7 +10944,7 @@ https://www.soumu.metro.tokyo.lg.jp/01soumu/bunshoka/jyoureiangaiyou.html\r
 ### 政策\r
 \r
 政策詳細版の末尾に別紙として、次の事項を掲載する\r
-・アンケートに対する対応指針（メディアからもアンケートのみ回答するのか、特定の団体が実施するアンケートにも回答するのか、また回答形式によってはアンケート回答を控えるのか等）\r
+・アンケートに対する対応指針（メディアからのアンケートのみ回答するのか、特定の団体が実施するアンケートにも回答するのか、また回答形式によってはアンケート回答を控えるのか等）\r
 ・メディア等から受けたアンケートへの回答状況と回答内容（補足や背景説明があればなお良い）\r
 \r
 ### 必要だと思ったきっかけ\r

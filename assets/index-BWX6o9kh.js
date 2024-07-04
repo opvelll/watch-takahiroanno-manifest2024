@@ -11190,7 +11190,7 @@ _No response_
 
 ### 自由記述欄
 
-深堀できていなくてすみません。`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]}},{title:"中間層の子育て支援について",createdAt:"2024-07-04T09:48:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/302",state:"OPEN",body:`### 政策ビジョン
+深堀できていなくてすみません。`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"行政"}]}},{title:"中間層の子育て支援について",createdAt:"2024-07-04T09:48:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/302",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 

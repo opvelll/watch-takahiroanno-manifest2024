@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#1cc95f"
+      }
+    },
   },
   // eslint-disable-next-line no-undef
   plugins: [require('@digital-go-jp/tailwind-theme-plugin')],

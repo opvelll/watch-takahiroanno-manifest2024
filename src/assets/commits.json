@@ -1,5 +1,46 @@
 [
   {
+    "oid": "ff90e0d8ec39cee3f5c5e815052d85942b426c1c",
+    "message": "行政パートの構成見直し\n\n視認性向上のため行政パートの構成を変えています。\r\n①各コンポーネントの中身は基本的に変えていません\r\n②現状認識と施策・方向性パートを明確に分けました\r\n→施策パートにあった、意思決定上の課題・組織上の課題をひとくくりにし、現状認識パートに挿入\r\n→施策・方向性パートは施策・方向性のみの記載にし、視認性向上",
+    "committedDate": "2024-07-04T15:40:56Z",
+    "author": {
+      "name": "yuuuuuuten",
+      "email": "yuuuuuuten@gmail.com"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/ff90e0d8ec39cee3f5c5e815052d85942b426c1c",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 307,
+            "title": "行政パートの構成見直し",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/307",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "sha": "67be61e6b2f6bd453cfa62c4365d31fb940109e7",
+        "filename": "docs/manifest/administration.md",
+        "status": "modified",
+        "additions": 27,
+        "deletions": 22,
+        "changes": 49,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/ff90e0d8ec39cee3f5c5e815052d85942b426c1c/docs%2Fmanifest%2Fadministration.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/ff90e0d8ec39cee3f5c5e815052d85942b426c1c/docs%2Fmanifest%2Fadministration.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fadministration.md?ref=ff90e0d8ec39cee3f5c5e815052d85942b426c1c",
+        "patch": "@@ -35,6 +35,26 @@\n - 各行政分野でもデジタル化の取り組みが進められている\n     - 都庁各局では[シン・トセイ](https://shintosei.metro.tokyo.lg.jp/)により現場レベルでのDXが推進。子育て、教育、防災など様々な分野でデジタル技術を活用したサービスの開発が進められている\n \n+## 他方、行政運営上の課題は残っている\n+\n+- 意思決定上の課題\n+    - 行政DX\n+        - 都として様々な取組が実施されているものの課題は残存\n+        - インタビューした都庁職員の声：GovTech全体の組織は大きくなっているが、エンジニアの比重は少なく、絶対数が足りていない\n+        - インタビューした都庁職員の声：内部手続きが多く、政策を考える十分な時間が確保できていない。また、整備された基盤に都政のトップの理解が追いついていない\n+    - 意思決定プロセス\n+        - 住民意思の汲み取りは4年に1回の選挙が中心\n+        - 住民の思いを幅広く拾い意思決定に反映する仕組みはない\n+    - 予算や人員の配分\n+        - 現都政では行革により財源をねん出。子育て施策をはじめ様々な施策を実施\n+        - 他方、都民の満足度、実感には上手く繋がっていない\n+- 組織上の課題：必要なところに十分な人員を配置できていない。\n+    - インタビューした都庁職員の声：デジタル化は進んでいるが、決裁・レクなど内部手続の負担が大きい\n+    - インタビューした都庁職員の声：組織階層が深く(局の下に部がある構成)意思決定のスピードが遅い\n+    - インタビューした都庁職員の声：政策立案に十分なリソースを割けていない。政策立案自体よりもバックデータ作りや裏付け(都民の声、報道など)探しの作業に忙殺。\n+    - 結果、職場としての魅力がうすれ、東京都の採用試験の応募者数は2015年の2024人から、2022年委は697人にまで大幅に減少\n+    - 政策立案や住民福祉の向上など必要な部門に十分な人員配置ができていない可能性\n+ \n ## これまでの取組を前に進め、住民満足を更に高めることが重要\n \n - デジタル化を更に進める上での課題\n@@ -158,22 +178,11 @@\n \n ## 技術に精通したリーダーによる行政運営の高度化\n \n-- 東京都の前進のためには更なる行政運営の高度化が必要\n-    - 行政DX\n-        - 都として様々な取組が実施されているものの課題は残存\n-        - インタビューした都庁職員の声：GovTech全体の組織は大きくなっているが、エンジニアの比重は少なく、絶対数が足りていない\n-        - インタビューした都庁職員の声：内部手続きが多く、政策を考える十分な時間が確保できていない。また、整備された基盤に都政のトップの理解が追いついていない\n-    - 意思決定プロセス\n-        - 住民意思の汲み取りは4年に1回の選挙が中心\n-        - 住民の思いを幅広く拾い意思決定に反映する仕組みはない\n-    - 予算や人員の配分\n-        - 現都政では行革により財源をねん出。子育て施策をはじめ様々な施策を実施\n-        - 他方、都民の満足度、実感には上手く繋がっていない\n - デジタルに精通したリーダーだから取り組めること\n     - テクノロジーの実装の一層の推進\n         - テクノロジーの実装は大きな変革を生む\n         - テクノロジーのに精通したリーダーだからこそ一層の社会実装が可能に\n-- デジタル人材の活用、例えば元都庁職員の出戻り推進  \n+        - デジタル人材の活用、例えば元都庁職員の出戻り推進  \n     - 意思決定プロセスの変革\n         - 政策の決定方法(＝意思決定プロセス)の見直しはトップだからこそ可能\n         - ブロードリスニングによる住民意思の汲み取りと政策決定への反映の仕組み化\n@@ -185,13 +194,9 @@\n \n ## 構造改革の推進による実行力のある組織づくり\n \n-- 現状、都の構造改革は未徹底。必要なところに十分な人員を配置できていない。\n-    - インタビューした都庁職員の声：デジタル化は進んでいるが、決裁・レクなど内部手続の負担が大きい\n-    - インタビューした都庁職員の声：組織階層が深く(局の下に部がある構成)意思決定のスピードが遅い\n-    - インタビューした都庁職員の声：政策立案に十分なリソースを割けていない。政策立案自体よりもバックデータ作りや裏付け(都民の声、報道など)探しの作業に忙殺。\n-    - 結果、職場としての魅力がうすれ、東京都の採用試験の応募者数は2015年の2024人から、2022年委は697人にまで大幅に減少\n-    - 政策立案や住民福祉の向上など必要な部門に十分な人員配置ができていない可能性\n-- 更なる働き方改革、業務効率化、組織の見直しによる魅力ある職場づくりと実行体制の充実\n-    - データ基盤の整備やブロードリスニングによる恒常的な住民意思の汲み取りにより突発的ななリサーチ業務を減らす\n-    - 業務状況の可視化を行った上で、組織・権限範囲の見直しを行うことによる意思決定のスピード向上\n-    - デジタル化の徹底による内部手続の効率化推進\n+- 構造改革・働き方改革の更なる徹底\n+    - 情報の流れの見直し：データ基盤の整備やブロードリスニングによる恒常的な住民意思の汲み取りにより突発的ななリサーチ業務を減らす\n+    - 組織の見直し：業務状況の可視化を行った上で、組織・権限範囲の見直しを行うことによる意思決定のスピード向上\n+    - 内部手続デジタル化：デジタル化の徹底による内部手続の効率化推進\n+- 構造改革の成果を住民福祉の向上に配分\n+    - 構造改革・働き方改革の成果を教育・子育て、福祉、災害対応、住民対応など「誰も取り残さない」施策に配分"
+      }
+    ]
+  },
+  {
     "oid": "f622f77b4b73805e86ab8fe241a3324a90df6ffa",
     "message": "妊婦へのRSウイルスワクチンの公費助成\n\n#283 のイシューで提案しました通り、妊婦へのRSウイルスワクチンの公費助成についてプルリクエストを出させていただきます。\r\nお手数ですが、ご確認をお願いいたします。\r\n初めてリクエストを出すため、不備がありましたらお知らせください。",
     "committedDate": "2024-07-04T02:13:48Z",
@@ -8,6 +49,27 @@
       "email": "bellsum725@yahoo.co.jp"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/f622f77b4b73805e86ab8fe241a3324a90df6ffa",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 293,
+            "title": "妊婦へのRSウイルスワクチンの公費助成",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/293",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "@summersummer800 \r\n丁寧に整理した上でのプルリクエスト、ありがとうございます。\r\n\r\n@takahiroanno \r\n以下、チーム内の整理もメモとして記載しておきます。\r\n\r\n* RSウイルス感染症についての理解の整理\r\n    * 生後1歳までに半数以上が、2歳までにほぼ100%の児がRSウイルスに少なくとも1度は感染する[1]\r\n    * 乳幼児は重症化リスクが高い\r\n    * 生後6ヶ月以内にRSウイルスに感染した場合には、細気管支炎、肺炎など重症化する場合があります [1]\r\n    * 母体から乳児への移行抗体によって守ることができる\r\n    * 日本でのワクチン承認はつい最近（2024年1月）\r\n        * [1] https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou19/rs_qa.html\r\n* リスクについて整理\r\n    * 乳幼児の死亡についてざっと調べた感じ世界的には多い（疫病負荷が高い）一方で、日本だと医療の質的からなのかそこまで多くない印象でした。\r\n    * 裏取りできてないですが3000人が入院、そのうちの1%が死亡という数字も見られる。\r\n        * https://www.niid.go.jp/niid/ja/kansennohanashi/317-rs-intro.html\r\n* 定性的な声\r\n    * 不安、重篤化した時に大変だったという声はあり。\r\n    * https://x.com/nobuko0902/status/1763931457737904128?s=46&t=8G218r3RuJ_ZTNIN1kKCqw\r\n    * https://x.com/tome_selfcare/status/1808497581271748673?s=46\r\n* 財源観点\r\n    * 10万人（東京都出生数）ｘ３万円ｘ利用率（10％ぐらい？）→３億円ぐらいを予想"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "82cb35974da700ca58edaba09f8a9a8eed6b10dd",
@@ -32,6 +94,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/636cda1f97a26b7c1e04392f697633fcfc54bc3f",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 289,
+            "title": "自動運転先進都市に、島しょ地域を追加。取り組み内容の具体化。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/289",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "36f45fb8dbc4fb4ac7a553165ed94b2d3e26dc5b",
@@ -56,6 +135,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/3aac0416e50a6bc4140b6b41697f0806a708421b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 289,
+            "title": "自動運転先進都市に、島しょ地域を追加。取り組み内容の具体化。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/289",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "c551f2f52918395a23389c317df4c35c259de965",
@@ -80,6 +176,27 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/3def595706dccc6f756483813917690173447c8b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 288,
+            "title": "不妊治療における書類提出作業オンライン化",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/288",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "@kyo-tamaki こちら議論過程が一部Slackにしか残っておらず、publicなところに残っていないので、一部サマリする形でこちらのPRの上部や元Issueにテキストを残していただけますでしょうか？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "6f4c6bad79888ea7f34995bfe3c48523670cd6a2",
@@ -140,6 +257,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/e529863dd56f9da18f5a347a9e0b1abe03b38aed",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 287,
+            "title": "フリーランス・起業家の方に向けた、育休相当の支援",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/287",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "9f3a7e0badd7027d530f69d693592efc73b3c4dd",
@@ -164,6 +298,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/1c214168e0a300ce2083939322e89c88904e0ffd",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 287,
+            "title": "フリーランス・起業家の方に向けた、育休相当の支援",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/287",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "9f3a7e0badd7027d530f69d693592efc73b3c4dd",
@@ -188,6 +339,27 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/323429f8e0d8d04d92c39413cf714b41d28f6ec3",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 286,
+            "title": "障害福祉領域での専門職・連携強化・テクノロジー活用の強化",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/286",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "内容は良いと思うのでmergeします。\r\n下記のPRで行われているような財源の検討を継続して行っていただけますでしょうか？\r\nhttps://github.com/takahiroanno2024/election2024/pull/267\r\n\r\n@micthell712 "
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "8f81f80aec92d79873311632f861c9fd6fc6bab7",
@@ -212,6 +384,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/64663563152070e82d2405739fae022d5721ed3b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 285,
+            "title": "インターナショナルスクールを「誘致」に統一",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/285",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "4e92fa84c20761c46c056247f151ab94372c5f2f",
@@ -236,6 +425,27 @@
       "email": "llehctim.k@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/08a3f96b89ad9dbe6814dd140deed051a25065d6",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 286,
+            "title": "障害福祉領域での専門職・連携強化・テクノロジー活用の強化",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/286",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "内容は良いと思うのでmergeします。\r\n下記のPRで行われているような財源の検討を継続して行っていただけますでしょうか？\r\nhttps://github.com/takahiroanno2024/election2024/pull/267\r\n\r\n@micthell712 "
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "8f81f80aec92d79873311632f861c9fd6fc6bab7",
@@ -260,6 +470,35 @@
       "email": "takatsugu.imaizumi@mntsq.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/2384124e8ec8fa1a5a99583509abf484f32ed61c",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 267,
+            "title": "Create budget",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/267",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "@tokshibata デジタル人材の確保については、単価見直し＆法定福利・福利厚生費反映で2.5億円。＋継続欄は書き方に自由度があるのであれば、毎年継続的に募集しエンジニア100人程度を目指すと想定されるので、最大10億円程度という書き方にできますでしょうか・・・？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 180,
+                    "title": "取組内容に対する予算とその実行計画及び体制を提示してほしい",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/180"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "6f4c6bad79888ea7f34995bfe3c48523670cd6a2",
@@ -284,6 +523,35 @@
       "email": "takatsugu.imaizumi@mntsq.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/ff68a733f727b68aa6071f3520b68ecf80137e17",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 267,
+            "title": "Create budget",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/267",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "@tokshibata デジタル人材の確保については、単価見直し＆法定福利・福利厚生費反映で2.5億円。＋継続欄は書き方に自由度があるのであれば、毎年継続的に募集しエンジニア100人程度を目指すと想定されるので、最大10億円程度という書き方にできますでしょうか・・・？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 180,
+                    "title": "取組内容に対する予算とその実行計画及び体制を提示してほしい",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/180"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "2bf5e480237e7be4d017eb1c6e3d30b16218f226",
@@ -332,6 +600,35 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/4666757c5fde2202369e48d671183c4e8af90fb7",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 267,
+            "title": "Create budget",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/267",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "@tokshibata デジタル人材の確保については、単価見直し＆法定福利・福利厚生費反映で2.5億円。＋継続欄は書き方に自由度があるのであれば、毎年継続的に募集しエンジニア100人程度を目指すと想定されるので、最大10億円程度という書き方にできますでしょうか・・・？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 180,
+                    "title": "取組内容に対する予算とその実行計画及び体制を提示してほしい",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/180"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "be405a0bda213a14309b719642d5e4b242bbc9e7",
@@ -356,6 +653,23 @@
       "email": "sawako.hamamichi@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/bce15ab53e10f7379e8c4acc57387c0fee43c2b9",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 289,
+            "title": "自動運転先進都市に、島しょ地域を追加。取り組み内容の具体化。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/289",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "411994bdfeaab0b67d34c50276b20ac9bfe0b17f",
@@ -380,6 +694,27 @@
       "email": "kyo.tamaki@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/536cf61fb0be50730981b5451af0310fd73e372b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 288,
+            "title": "不妊治療における書類提出作業オンライン化",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/288",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "@kyo-tamaki こちら議論過程が一部Slackにしか残っておらず、publicなところに残っていないので、一部サマリする形でこちらのPRの上部や元Issueにテキストを残していただけますでしょうか？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "ddb08957e2a970d9e4718ef71c1a7ade55874b98",
@@ -404,6 +739,23 @@
       "email": "llehctim.k@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/e03c7ac7475a4683d9a46dc0b9253be99ded6da4",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 287,
+            "title": "フリーランス・起業家の方に向けた、育休相当の支援",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/287",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "a288282f9e0a192b5753f035f5da6e1d4749b331",
@@ -428,6 +780,27 @@
       "email": "llehctim.k@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/5bf2e9d38152c1db62e4297834dc6af4c2a95fc0",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 286,
+            "title": "障害福祉領域での専門職・連携強化・テクノロジー活用の強化",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/286",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "内容は良いと思うのでmergeします。\r\n下記のPRで行われているような財源の検討を継続して行っていただけますでしょうか？\r\nhttps://github.com/takahiroanno2024/election2024/pull/267\r\n\r\n@micthell712 "
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "11ad3db3ce67af25ae8cefd22dae90b018006be0",
@@ -452,6 +825,23 @@
       "email": "sawako.hamamichi@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/583e91681e0ef74893a63d188746d3dd51fe4bd0",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 285,
+            "title": "インターナショナルスクールを「誘致」に統一",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/285",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "4e92fa84c20761c46c056247f151ab94372c5f2f",
@@ -476,6 +866,35 @@
       "email": "minami.ueda@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/2f59457bf16b5e2562d6110bdc4e8831ea4f17b8",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 267,
+            "title": "Create budget",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/267",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "@tokshibata デジタル人材の確保については、単価見直し＆法定福利・福利厚生費反映で2.5億円。＋継続欄は書き方に自由度があるのであれば、毎年継続的に募集しエンジニア100人程度を目指すと想定されるので、最大10億円程度という書き方にできますでしょうか・・・？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 180,
+                    "title": "取組内容に対する予算とその実行計画及び体制を提示してほしい",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/180"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "6861895c5b0aef70dfa568709a2d639ac3e54013",
@@ -500,6 +919,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/04b4b7a0244f61721f6fe712393e2fb04be64472",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 256,
+            "title": "Create Others & Energy",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "b5ea08ae98e44108dfdef1632c83d33bfb58b2f8",
@@ -524,6 +960,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/583860f77fb45f5927aae8d8f426652b4cc093c7",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 256,
+            "title": "Create Others & Energy",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "b5ea08ae98e44108dfdef1632c83d33bfb58b2f8",
@@ -548,6 +1001,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/8c9817bcbf3ffaab30f990f02a89caa6a9f59e26",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 270,
+            "title": "組織強化の明確化",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/270",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "2bf5e480237e7be4d017eb1c6e3d30b16218f226",
@@ -572,6 +1042,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/a58aa37630bc7713943ad3213ad394392612724a",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 259,
+            "title": "Update care.md: 防災パートのブロードリスニング反映",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/259",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "f50accf177f8b1fb36c1cb66f641b7ccf962dbf4",
@@ -608,6 +1095,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/b1dd366d9b4cb335596977594de163686ce50ec5",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 260,
+            "title": "Update care.md: ブロードリスニング反映(2)",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/260",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "7366bbf7ff558a63cde31fee73e8d5bc47c6577e",
@@ -632,6 +1136,23 @@
       "email": "takatsugu.imaizumi@mntsq.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/9ef797353080a1d1ee3b55a01f188f2f6e64bd2c",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 270,
+            "title": "組織強化の明確化",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/270",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "54a6e30c1707c3c872ac568c96901304643bff5d",
@@ -656,6 +1177,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/e904b2d856ce2b4871aa50befdc819bf7a268438",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 268,
+            "title": "東京都の役割",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/268",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "f50accf177f8b1fb36c1cb66f641b7ccf962dbf4",
@@ -680,6 +1218,23 @@
       "email": "yuuuuuuten@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/66f28e7641a988fa43a1760183ef8d787b861864",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 271,
+            "title": "プッシュ型のメリット追加",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/271",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "55a6471305917a0393887cb6e5ff49c9f0d4eac1",
@@ -704,6 +1259,23 @@
       "email": "yuuuuuuten@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/acdcba4be1af60533061e6fd594d0c5344af710f",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 270,
+            "title": "組織強化の明確化",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/270",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "064cb0dda0f3cc68e339dfde2f6cf2229dccc692",
@@ -728,6 +1300,23 @@
       "email": "yuuuuuuten@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/072339c81754fd1bd68e7d2e5604fa679921dc64",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 268,
+            "title": "東京都の役割",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/268",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "116567a077549874aa4766e737a81ad44ef07238",
@@ -752,6 +1341,35 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/0324afe9315a37ebf93682ab18c4e486b87c6c23",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 267,
+            "title": "Create budget",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/267",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "@tokshibata デジタル人材の確保については、単価見直し＆法定福利・福利厚生費反映で2.5億円。＋継続欄は書き方に自由度があるのであれば、毎年継続的に募集しエンジニア100人程度を目指すと想定されるので、最大10億円程度という書き方にできますでしょうか・・・？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 180,
+                    "title": "取組内容に対する予算とその実行計画及び体制を提示してほしい",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/180"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "6861895c5b0aef70dfa568709a2d639ac3e54013",
@@ -776,6 +1394,23 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/dbdf4f55485e8c32fc159a4d83be0e3aea6fe4e7",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 256,
+            "title": "Create Others & Energy",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "f260c6e253c40457b47249ae9369c32e6d231c26",
@@ -800,6 +1435,23 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/d1465775263b9f48e9a1478b7c97401ba0a5299d",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 256,
+            "title": "Create Others & Energy",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "69f50772d2d7a28ad4f9be394a6ea72f17066210",
@@ -824,6 +1476,23 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/1b6515dfb7c49d98be12ac9f9032d21f816aebf2",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 256,
+            "title": "Create Others & Energy",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "dddeb5fca59cf42f33a10779c12b7ed0be84e24c",
@@ -848,6 +1517,23 @@
       "email": "hsato1106@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/49f18c80cc712a5651f7df473a0c286182c88f46",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 260,
+            "title": "Update care.md: ブロードリスニング反映(2)",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/260",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "7366bbf7ff558a63cde31fee73e8d5bc47c6577e",
@@ -872,6 +1558,23 @@
       "email": "hsato1106@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/67a8443026d0a1d61fa88201a9a9457a18fcb126",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 259,
+            "title": "Update care.md: 防災パートのブロードリスニング反映",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/259",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "7408fc1e68eee65065c2b1754fe33967e9dcaa80",
@@ -896,6 +1599,27 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/1a87de704e299f0aa621ec5dba79b92b794c1ea6",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 42,
+            "title": "Update economy.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/42",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "「強い技術企業が東京に集まるポテンシャル」があるという文脈で、中国より東京が（政治的に安定しているがゆえに）選ばれるという話ですので、外交問題等に触れるものではなく、特に問題はないかと思います。"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "23aab87c9c114f699a2f2083a98ffd7601c1ca0a",
@@ -920,6 +1644,27 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/87d5d6242822ac8a7ef7fca849188eab9368acea",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 42,
+            "title": "Update economy.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/42",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "「強い技術企業が東京に集まるポテンシャル」があるという文脈で、中国より東京が（政治的に安定しているがゆえに）選ばれるという話ですので、外交問題等に触れるものではなく、特に問題はないかと思います。"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "cf56dbc3975aa0269b43c8c5fbbbf40bb3579946",
@@ -944,6 +1689,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/e86fb4415d8a959372b0a50217b38d662557152b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 154,
+            "title": "東京都の少子化要因の多くが有配偶率低下であることの説明追加。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/154",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "610848a7525bd5e4ba055ab85bc73805e65ff83c",
@@ -968,6 +1730,35 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/6c0ed6bdde474237648297278f25bc1fc1aeb279",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 220,
+            "title": "医療パートのブロードリスニング取込み",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/220",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "#6 を見て検討していただいたようで、ありがとうございます。コメントで施策の案を出したものの一意見として、ここで出していただいた文案は、ひとまずいいのではないかと思います。もちろん個人的にはもっと踏み込んだ施策が入ればと思ってはいますが、少なくとも前進ではありますので。 (できれば #6 は閉じずに、都知事選が終わってからも議論が続くようなら嬉しく思います)\r\n\r\n2点ほど、いちおう追加の提案といたしまして :\r\n\r\n1. #74 も関連としてリンクしておいていいように思います。\r\n2. https://github.com/takahiroanno2024/election2024/blob/91af15c7b0a91356a79156bebbc03e9df01ac688/docs/index.md#L28 にて「先輩世代：とことん安心の医療・防災」となっているのですが、感染症についてさえも「先輩世代」のみの問題ではなさそうですし、さらに防災については言わずもがなです。ここを「先輩世代」に限定する必要はあるでしょうか?\r\n    * また、その前後の「現役世代：新産業で所得倍増」や「未来世代：世界一の子育て・教育環境」についても、世代で区切る必要はあるでしょうか? 所得は全世代に関係する話ですし、子育てはともかく「教育」はリスキリングも含めて「現役世代」にも関係する話です。ここであえて世代を限定する必要はないように思います。"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 6,
+                    "title": "これからの感染症対応",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/6"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "e015a085627fae7f28d87131c6539ba44d865ade",
@@ -1040,6 +1831,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/190d7c56aad0a71c7f1d2d6b2bf48b0448194231",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 238,
+            "title": "End of sentence fix",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/238",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "e015a085627fae7f28d87131c6539ba44d865ade",
@@ -1100,6 +1908,23 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/7ab39ffd47411266e827636390b0bed3e6418882",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 256,
+            "title": "Create Others & Energy",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "d5289f1cfac2c0f5a804d3f1a83460c17d23d159",
@@ -1124,6 +1949,23 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/97b77102463431c2a110af6fbab29b38efa5a3ba",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 256,
+            "title": "Create Others & Energy",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "fce1fef68f735380e87e4075737493ac0978839c",
@@ -1148,6 +1990,23 @@
       "email": "takatsugu.imaizumi@mntsq.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/1b9e1007c0cf700e23a2ed618efae8cc407f64d3",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 256,
+            "title": "Create Others & Energy",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "3ea7a8dde72ac0e61b111c356b0e5f942537019f",
@@ -1172,6 +2031,35 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/c68e4cc5ff539073a22eab3c1ddd400897ad7561",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 255,
+            "title": "Update democracy.md　荒らし対策",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/255",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "> 荒らしに該当するような攻撃的・差別的コメントについては、\r\n\r\n- 「荒らし」が万人には伝わらない表現\r\n- 対象を限定しすぎない方が運用フェーズで柔軟に対応できる\r\n- 文章の最後が「削除する」ではなく「管理する」なので、広めに削除するという意味にはならない\r\n- 投稿者の意図とは関係なくコメントの質で判断せざるを得ない\r\n\r\nので、「著しく不適切なコメントについては、」くらいでどうでしょう"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 144,
+                    "title": "いたずらや対立潰し、都民であることの確認はどうするのか（荒らし対策について）",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/144"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "d342feb1f1db0805f86cf7d9d0dbdc20e0e37154",
@@ -1196,6 +2084,35 @@
       "email": "48014497+tokshibata@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/a2ad731f14aa707fe6c0d79d5e94f3d5e6d94301",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 255,
+            "title": "Update democracy.md　荒らし対策",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/255",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "> 荒らしに該当するような攻撃的・差別的コメントについては、\r\n\r\n- 「荒らし」が万人には伝わらない表現\r\n- 対象を限定しすぎない方が運用フェーズで柔軟に対応できる\r\n- 文章の最後が「削除する」ではなく「管理する」なので、広めに削除するという意味にはならない\r\n- 投稿者の意図とは関係なくコメントの質で判断せざるを得ない\r\n\r\nので、「著しく不適切なコメントについては、」くらいでどうでしょう"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 144,
+                    "title": "いたずらや対立潰し、都民であることの確認はどうするのか（荒らし対策について）",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/144"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "8d4800ccaab6e87989272fbb8eaeaa7fb073a288",
@@ -1220,6 +2137,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/ea09f75acad77004576396091de46f7add7136c9",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 238,
+            "title": "End of sentence fix",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/238",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "a85fd8639a59697218003acd3e6a0a4d5d5cd26a",
@@ -1244,6 +2178,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/3abb7373e0a89cca397be773d1dac2304aa6ed56",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 238,
+            "title": "End of sentence fix",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/238",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "b8a4c616e96d413561afff7b45c52bad4b4fb08d",
@@ -1268,6 +2219,23 @@
       "email": "37357820+filialbrilliant@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/f2302aad10b1777b0c861bc2ee4b5bae21dbd771",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 154,
+            "title": "東京都の少子化要因の多くが有配偶率低下であることの説明追加。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/154",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "ad449d0d4fa3cc12cf5e5250372c1e63752a6e86",
@@ -1316,6 +2284,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/2ba3e5341a57ba8b0195940b8a0bd6d5738098bb",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 238,
+            "title": "End of sentence fix",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/238",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "e015a085627fae7f28d87131c6539ba44d865ade",
@@ -1340,6 +2325,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/d34b7d1da4d639d4cff1be4902a3ff00ace32d2d",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 238,
+            "title": "End of sentence fix",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/238",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "c16166db49611f5abd2a5c01622d011d4a241a73",
@@ -1364,6 +2366,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/6642e1058f9384c6bde17185417ba08a055dd281",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 238,
+            "title": "End of sentence fix",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/238",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "528764e8be5646048ffbe16566d7e6e7b91ba53b",
@@ -1388,6 +2407,23 @@
       "email": "minami.ueda@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/c3ee2215b22f5183f9447ac26eeaac6fd329267b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 229,
+            "title": "男性のHPVワクチン任意接種に対する全額助成",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/229",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "ad449d0d4fa3cc12cf5e5250372c1e63752a6e86",
@@ -1412,6 +2448,27 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/91af15c7b0a91356a79156bebbc03e9df01ac688",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 71,
+            "title": "Update education.md：デュアル・デグリー → デュアル・ディグリー制度（複数学位取得制度）",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/71",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "- 2つの教育機関から学位を授与される「ダブルディグリー」\r\n\r\nと\r\n\r\n- 単に単位の共有を意味する（もらえる学位が一つであると示唆する）「単位互換制度」\r\n\r\nはもらえる学位の数という観点で、意味が大きく異なるのではないでしょうか？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "90f79af0e273f0eb19cfdb60f632deefe58001f9",
@@ -1436,6 +2493,27 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/81daad64f027f37e801b95106ad6ceb670c9ee9b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 58,
+            "title": "Update education.md: STEAMの補足を追記",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/58",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "丁寧な補足をありがとうございます！\r\nとても良いと思いました！"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "65beb6be716ad46f72533274e96a463682749177",
@@ -1508,6 +2586,27 @@
       "email": "llehctim.k@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/fbe607e64b59278765ee5dff4fd14115ba1e16a7",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 221,
+            "title": "子育てにかかる経済的負担への支援の見直し（所得制限の見直し） ",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/221",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "018サポートのサイトめちゃくちゃ使いづらかったです。私の名前（母親）で申請しようとすると世帯主との関係を証明する戸籍謄本が必要だったり、知り合いのお母さんは面倒すぎて申請やめたと言ってる人もいました。スピーキングテストは絶対やめて欲しいです。ベネと現職の癒着な気がするので。都立受験の内申制度もやめて欲しいです。大学受験のように試験一発で良い気がします。都立に誰でも入れるようにしてほしい。都立落ちたら私立とかお金が怖すぎて。みんなギリギリです。優秀な子ばかりじゃないです。"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "a23f1f581d874187f8bd786f68a3a5ba421dc3b3",
@@ -1532,6 +2631,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/938b3f3d503cc36908d2238ee9eee438964ea9e2",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 9,
+            "title": "公的な情報発信用プラットフォームに都政への意見表明導線を追加",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/9",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "3185bc6cd07888e37c8d3f2c7e1815f3ae11b5fb",
@@ -1556,6 +2672,35 @@
       "email": "alterethicstokyo@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/daecd286f2ae6cfb7abd79190f9b741637fea87a",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 220,
+            "title": "医療パートのブロードリスニング取込み",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/220",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "#6 を見て検討していただいたようで、ありがとうございます。コメントで施策の案を出したものの一意見として、ここで出していただいた文案は、ひとまずいいのではないかと思います。もちろん個人的にはもっと踏み込んだ施策が入ればと思ってはいますが、少なくとも前進ではありますので。 (できれば #6 は閉じずに、都知事選が終わってからも議論が続くようなら嬉しく思います)\r\n\r\n2点ほど、いちおう追加の提案といたしまして :\r\n\r\n1. #74 も関連としてリンクしておいていいように思います。\r\n2. https://github.com/takahiroanno2024/election2024/blob/91af15c7b0a91356a79156bebbc03e9df01ac688/docs/index.md#L28 にて「先輩世代：とことん安心の医療・防災」となっているのですが、感染症についてさえも「先輩世代」のみの問題ではなさそうですし、さらに防災については言わずもがなです。ここを「先輩世代」に限定する必要はあるでしょうか?\r\n    * また、その前後の「現役世代：新産業で所得倍増」や「未来世代：世界一の子育て・教育環境」についても、世代で区切る必要はあるでしょうか? 所得は全世代に関係する話ですし、子育てはともかく「教育」はリスキリングも含めて「現役世代」にも関係する話です。ここであえて世代を限定する必要はないように思います。"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": [
+                {
+                  "subject": {
+                    "number": 6,
+                    "title": "これからの感染症対応",
+                    "url": "https://github.com/takahiroanno2024/election2024/issues/6"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "51fd77e7df995cccc2d0fc9b9bd832ab2d8b16da",
@@ -1580,6 +2725,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/23980ce3e483579a3cb2892b86f0c36af33b1f37",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 201,
+            "title": "Update education.md: 文末表現の統一",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/201",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "9f755fa26cc660eb9f3094c9c5c903dac383bc24",
@@ -1604,6 +2766,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/336e5601bbf806d7eac86357d318b0c2fda6e523",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 145,
+            "title": "パーセントエンコーディングされたscrapboxのURLを可読化した",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/145",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "9309ebc6940004d3aac6cd6d97b58f4c4fb38379",
@@ -1628,6 +2807,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/b127bd936638a28e468daa35f50a0109a141120f",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 156,
+            "title": "Update care.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/156",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "c9aa806aee6df127e483ced5e2ed589892eb703f",
@@ -1652,6 +2848,27 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/5234bd421cefdf7f48dd31d64fb653dd284b5318",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 71,
+            "title": "Update education.md：デュアル・デグリー → デュアル・ディグリー制度（複数学位取得制度）",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/71",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "- 2つの教育機関から学位を授与される「ダブルディグリー」\r\n\r\nと\r\n\r\n- 単に単位の共有を意味する（もらえる学位が一つであると示唆する）「単位互換制度」\r\n\r\nはもらえる学位の数という観点で、意味が大きく異なるのではないでしょうか？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "d0217b7f8b2983fcf12b1717d33481779aad6240",
@@ -1676,6 +2893,23 @@
       "email": "alterethicstokyo@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/cde4b5f6933a5a6ba6677bd67f96cc8b3f965878",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 183,
+            "title": "災害パート文言の修正Update care.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/183",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "fc842afd0e2af6ee7023ef3d80909b477631ed3c",
@@ -1700,6 +2934,23 @@
       "email": "catcher_in_the_dance_hall@yahoo.co.jp"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/225eb681bcaa8b30d5fa533630c1ff4af717b74f",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 163,
+            "title": "Fix typo in care.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/163",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "18d479c1428a9c729bb9d460336a9fdae65559d1",
@@ -1724,6 +2975,23 @@
       "email": "37357820+filialbrilliant@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/0d7c1a196b2cdce53ac09d470029833a9b137767",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 154,
+            "title": "東京都の少子化要因の多くが有配偶率低下であることの説明追加。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/154",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "136971aec699411d9226306c509ae47b6fc23327",
@@ -1748,6 +3016,23 @@
       "email": "37357820+filialbrilliant@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/edae25014e2bd560b22544193ee638e980e7ff31",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 154,
+            "title": "東京都の少子化要因の多くが有配偶率低下であることの説明追加。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/154",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "3ee7589ff934e5392897bbe07948b5840fb18d34",
@@ -1772,6 +3057,23 @@
       "email": "47976579+ruechang2@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/ab0426bded38df4c277b852e5b3bb22772de823b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 156,
+            "title": "Update care.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/156",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "33dae73be6d0b9e36266b900837ef40aa55430b2",
@@ -1796,6 +3098,23 @@
       "email": "37357820+filialbrilliant@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/ce0010ea1c0887159d9662e874dae7c92d06e929",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 154,
+            "title": "東京都の少子化要因の多くが有配偶率低下であることの説明追加。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/154",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "1f3675e363e70c46e3b2f4ec7f3c5a3e173bedf7",
@@ -1820,6 +3139,23 @@
       "email": "37357820+filialbrilliant@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/7d195a52cc60df3fafea3dcb2d3e16e37784845e",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 154,
+            "title": "東京都の少子化要因の多くが有配偶率低下であることの説明追加。",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/154",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "702b76ba230989b2297c92849b6202be50dd9b7e",
@@ -1844,6 +3180,23 @@
       "email": "37929109+takker99@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/6a0d841d7f406052163136c4849281794b1d74f3",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 145,
+            "title": "パーセントエンコーディングされたscrapboxのURLを可読化した",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/145",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "9309ebc6940004d3aac6cd6d97b58f4c4fb38379",
@@ -1868,6 +3221,23 @@
       "email": "49748966+TakatsuguImaizumi@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/17da24dbbf0e1ff18824c3427b0bbdddb26b4a7e",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 37,
+            "title": "Change title from 爆増 to 倍増",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/37",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "994f95c73e1cfdc7dc264672c92abe06a0a38656",
@@ -1892,6 +3262,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/19197984a6b837e54e3307db0a885f6055a3969a",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 52,
+            "title": "高齢者の財産管理",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/52",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "c3f50ee058a9c4d310e57da9a83b03e5ae60677b",
@@ -1916,6 +3303,23 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/a5dbe626ac55e873bc6a11f13f4138ab9e0938f4",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 59,
+            "title": "Update administration.md: ＵＩ → 使い勝手",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/59",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "65beb6be716ad46f72533274e96a463682749177",
@@ -1940,6 +3344,23 @@
       "email": "github@lai.so"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/1ae0639d22da25a88659ed9ac99c62906431ea77",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 75,
+            "title": "Update economy.md: SakanaAI → Sakana AI",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/75",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "bf4c5756947d7a92c4b2a6a1ad9e7c4dc43280b1",
@@ -1964,6 +3385,27 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/9b0c7509c57304aa1e28d634a1b93c8509169662",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 71,
+            "title": "Update education.md：デュアル・デグリー → デュアル・ディグリー制度（複数学位取得制度）",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/71",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "- 2つの教育機関から学位を授与される「ダブルディグリー」\r\n\r\nと\r\n\r\n- 単に単位の共有を意味する（もらえる学位が一つであると示唆する）「単位互換制度」\r\n\r\nはもらえる学位の数という観点で、意味が大きく異なるのではないでしょうか？"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "9a9e4d1d76528212b08bdd30d867aba87b4a3cb8",
@@ -1988,6 +3430,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/f40118b4bee4065595bd1ebddbf573857e66d898",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 59,
+            "title": "Update administration.md: ＵＩ → 使い勝手",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/59",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "65beb6be716ad46f72533274e96a463682749177",
@@ -2012,6 +3471,27 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/aa9357dd0d11eb76f08f642c4aa587822f72b874",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 58,
+            "title": "Update education.md: STEAMの補足を追記",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/58",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "丁寧な補足をありがとうございます！\r\nとても良いと思いました！"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "bc0ab51dae5c52dc2ec4755d7dc6441f1b4ad160",
@@ -2036,6 +3516,23 @@
       "email": "baba.yoshihiko@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/3aa66fb22740f5f8b6bb4752bb76d74d9989f141",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 52,
+            "title": "高齢者の財産管理",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/52",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "c3f50ee058a9c4d310e57da9a83b03e5ae60677b",
@@ -2060,6 +3557,27 @@
       "email": "149496794+tomoto3@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/a945c25637738e996b5989a99fcaf43b8f3f36a9",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 42,
+            "title": "Update economy.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/42",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "「強い技術企業が東京に集まるポテンシャル」があるという文脈で、中国より東京が（政治的に安定しているがゆえに）選ばれるという話ですので、外交問題等に触れるものではなく、特に問題はないかと思います。"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "e27ece42207341b543eb884e28537f73c5d591de",
@@ -2084,6 +3602,23 @@
       "email": "1018eguchi@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/60241a78cca3bca31c95cadd10ed59693f9bc744",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 37,
+            "title": "Change title from 爆増 to 倍増",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/37",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "5cc6ba370468556870c98e921c6a577bd7f44391",
@@ -2108,6 +3643,27 @@
       "email": "annyotaka@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/f49253664f8854b72cb06942baf85b772a2281f7",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 12,
+            "title": "Update economy.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/12",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "LGTM"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "89ede41bd775667f69b5a0522a9d9fa5003b0b52",
@@ -2132,6 +3688,23 @@
       "email": "49748966+TakatsuguImaizumi@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/d1475262bef40ff904ebbe02cab52fe2aaedcdb0",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 21,
+            "title": "fix typo 202年25月号 → 2022年5月号",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/21",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "39ddb9b77fd4c665d1d35c682ea7c9f6df06eb59",
@@ -2156,6 +3729,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/29b330c7900660df89bc72ce9356b78722eaf4d1",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 21,
+            "title": "fix typo 202年25月号 → 2022年5月号",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/21",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "39ddb9b77fd4c665d1d35c682ea7c9f6df06eb59",
@@ -2180,6 +3770,23 @@
       "email": "zaq1tomo@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/8569232db8cb33cb6240c6feece1296af1247b98",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 16,
+            "title": "fix: typo",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/16",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "2c7d6e17494a493eb5a2d533a72b78f531859dfc",
@@ -2204,6 +3811,27 @@
       "email": "149496794+tomoto3@users.noreply.github.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/d4082cd5f81b35240af91da9c65501c15f10a659",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 12,
+            "title": "Update economy.md",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/12",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "LGTM"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "89ede41bd775667f69b5a0522a9d9fa5003b0b52",
@@ -2228,6 +3856,23 @@
       "email": "masatosasano2@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/ef524bafe95484daf31dd2332fce0a0473aba03c",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 9,
+            "title": "公的な情報発信用プラットフォームに都政への意見表明導線を追加",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/9",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
     "files": [
       {
         "sha": "a53ee6cd4e4ba88d062524eaa404640f9eba86d3",
@@ -2252,6 +3897,9 @@
       "email": "kainekominto299@gmail.com"
     },
     "url": "https://github.com/takahiroanno2024/election2024/commit/457c6054a2db5cf7cecadd0177769445c3b5b754",
+    "associatedPullRequests": {
+      "edges": []
+    },
     "files": [
       {
         "sha": "7c8ffe613103adb6751e9fe75043da8125e43f16",

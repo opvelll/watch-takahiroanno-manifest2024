@@ -11087,7 +11087,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]}},{title:"経済政策、減税観点での提案",createdAt:"2024-07-04T07:39:07Z",url:"https://github.com/takahiroanno2024/election2024/issues/298",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"教育・子育て"}]}},{title:"経済政策、減税観点での提案",createdAt:"2024-07-04T07:39:07Z",url:"https://github.com/takahiroanno2024/election2024/issues/298",state:"OPEN",body:`### 政策ビジョン
 
 経済
 

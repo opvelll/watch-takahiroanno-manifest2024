@@ -31,6 +31,7 @@ export async function fetchIssuesWithLabels(): Promise<void> {
                 }
                 nodes {
                   title
+                  number
                   createdAt
                   url
                   state
@@ -46,6 +47,7 @@ export async function fetchIssuesWithLabels(): Promise<void> {
                       name
                     }
                   }
+                  updatedAt
                 }
               }
             }

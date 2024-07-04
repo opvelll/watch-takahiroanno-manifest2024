@@ -25,7 +25,7 @@ export default function CommitCard({ commit }: { commit: any }) {
                             {file.filename}
                         </div>
                         <div>
-                            <DiffViewer
+                            {file.patch && <DiffViewer
                                 oldValue={file.patch.split('\n').filter((line: string) => line.startsWith('-')).join('\n')}
                                 newValue={file.patch.split('\n').filter((line: string) => line.startsWith('+')).join('\n')}
                                 splitView={true}
@@ -38,7 +38,7 @@ export default function CommitCard({ commit }: { commit: any }) {
                                         },
                                     },
                                 }}
-                            />
+                            />}
                         </div>
                     </div>
                 ))}

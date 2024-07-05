@@ -11509,7 +11509,7 @@ _No response_
 
 ### 自由記述欄
 
-問題提起だけにとどまっています。すみません。`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-04T11:56:08Z"},{title:"都内23区を含む主要自治体へのユースクリニックの常設設置",number:306,createdAt:"2024-07-04T14:30:50Z",url:"https://github.com/takahiroanno2024/election2024/issues/306",state:"OPEN",body:`### 政策ビジョン
+問題提起だけにとどまっています。すみません。`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-05T06:13:27Z"},{title:"都内23区を含む主要自治体へのユースクリニックの常設設置",number:306,createdAt:"2024-07-04T14:30:50Z",url:"https://github.com/takahiroanno2024/election2024/issues/306",state:"OPEN",body:`### 政策ビジョン
 
 医療・防災, 教育・子育て
 

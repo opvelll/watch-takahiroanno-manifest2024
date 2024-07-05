@@ -11,7 +11,7 @@ const ExternalLink: React.FC<ExternalLinkProps> = ({ href, children }) => {
     <a href={href}
       target="_blank"
       rel="noopener noreferrer"
-      className="text-black underline">
+      className="text-black underline visited:underline visited:text-primary">
       {children}
     </a>
   );

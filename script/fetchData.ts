@@ -3,6 +3,7 @@ import { octokit, targetRepository } from "./setting.js";
 import { writeFile } from "./writeFile.js";
 import { fetchIssuesWithLabels } from "./issuesFetcher.js";
 import { fetchCommitsWithManifestChanges } from "./commitFetcher.js";
+import { fetchPullRequests } from "./pullRequestFetcher.js";
 
 type RepoResponse = Endpoints["GET /repos/{owner}/{repo}"]["response"];
 
@@ -20,3 +21,4 @@ async function fetchRepo(): Promise<void> {
 fetchRepo();
 fetchIssuesWithLabels();
 fetchCommitsWithManifestChanges();
+fetchPullRequests();

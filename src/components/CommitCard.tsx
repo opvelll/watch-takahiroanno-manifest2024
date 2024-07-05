@@ -4,7 +4,6 @@ import { formatDate } from '../lib/formatData';
 import { Fragment } from 'react/jsx-runtime';
 import { openInNewTab } from '../lib/openInNewTab';
 import { useEffect, useState } from 'react';
-// import issues from '../assets/issues.json';
 
 const isMobile = () => window.innerWidth <= 768;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -23,16 +22,6 @@ export default function CommitCard({ commit }: { commit: any }) {
         // コンポーネントがアンマウントされた時にイベントリスナーを削除
         return () => window.removeEventListener('resize', handleResize);
     }, []);
-    // const getIssues = (commitMessage: string) => {
-    //     const issueNumbers = commitMessage.match(/#[0-9]+/g);
-    //     if (issueNumbers) {
-    //         return issueNumbers.map((issueNumber) => {
-    //             const issue = issues.find((issue: { number: number }) => issue.number === parseInt(issueNumber.replace('#', '')));
-    //             return issue;
-    //         });
-    //     }
-    //     return [];
-    // }
 
     return (
         <div className="rounded-8 px-2 pb-2 border border-white  hover:shadow hover:border-slate-300">

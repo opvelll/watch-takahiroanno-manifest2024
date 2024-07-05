@@ -1,0 +1,1554 @@
+[
+  {
+    "number": 1,
+    "createdAt": "2024-06-19T06:28:22Z",
+    "title": "240619/sorry developing now",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/1",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 2,
+    "createdAt": "2024-06-21T07:20:15Z",
+    "title": "Fix to publish",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/2",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 3,
+    "createdAt": "2024-06-21T08:03:55Z",
+    "title": "Update index.md",
+    "body": "fix typo",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/3",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 4,
+    "createdAt": "2024-06-21T08:09:42Z",
+    "title": "fix jinja template",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/4",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 9,
+    "createdAt": "2024-06-21T09:43:19Z",
+    "title": "公的な情報発信用プラットフォームに都政への意見表明導線を追加",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/9",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 12,
+    "createdAt": "2024-06-21T10:06:59Z",
+    "title": "Update economy.md",
+    "body": "分かりづらい言葉を言い換え",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/12",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "LGTM"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 14,
+    "createdAt": "2024-06-21T10:15:30Z",
+    "title": "Update economy.md",
+    "body": "政策の具体化",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/14",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 15,
+    "createdAt": "2024-06-21T10:21:18Z",
+    "title": "Update administration.md",
+    "body": "プッシュ型行政の具体化",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/15",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 16,
+    "createdAt": "2024-06-21T10:29:08Z",
+    "title": "fix: typo",
+    "body": "## What\r\n\r\n- 「日本版Girs day」を「日本版Girls'Day」に修正\r\n\r\n## Ref\r\n\r\n- https://www.girls-day.de/",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/16",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 17,
+    "createdAt": "2024-06-21T10:31:01Z",
+    "title": "Update education.md",
+    "body": "政策の具体化",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/17",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 18,
+    "createdAt": "2024-06-21T10:35:29Z",
+    "title": "fix actions bug",
+    "body": "不正画像チェック部分のfix",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/18",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 19,
+    "createdAt": "2024-06-21T10:38:01Z",
+    "title": "fix typo 202年 → 2022年",
+    "body": "202年 → 2022年",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/19",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "別のタイポがあったのでまとめて修正提案を出しなおします"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 21,
+    "createdAt": "2024-06-21T10:51:52Z",
+    "title": "fix typo 202年25月号 → 2022年5月号",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/21",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 23,
+    "createdAt": "2024-06-21T11:02:09Z",
+    "title": "Update economy.md",
+    "body": "人口減少に対応する為、行政機関における人材登用のあり方から見直す",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/23",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 24,
+    "createdAt": "2024-06-21T11:02:24Z",
+    "title": "fix: fix contribution.md",
+    "body": "誤字を修正いたしました。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/24",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 28,
+    "createdAt": "2024-06-21T12:00:50Z",
+    "title": "Update contribution.md to make easy to tweet",
+    "body": "To create a more inclusive and accessible manifesto, I have added a feature that generates a tweetable link with hashtags. This will make it easier for voices to be heard and shared on social media.\r\n\r\n![Screenshot 2024-06-21 at 20 57 21](https://github.com/takahiroanno2024/election2024/assets/9262482/664bc51e-c8b8-42e3-b689-91fdeb9de463)\r\n![Screenshot 2024-06-21 at 20 57 42](https://github.com/takahiroanno2024/election2024/assets/9262482/832c0342-7725-4638-8694-e699a2f80448)\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/28",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 30,
+    "createdAt": "2024-06-21T12:39:01Z",
+    "title": "Update README.md",
+    "body": "変更提案のリンクをGitHubのプルリクエストページに直接誘導する形に更新しました。ご確認よろしくお願いします。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/30",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "@TakatsuguImaizumi ありがとうございます！ご提案通り修正させていただきました。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 31,
+    "createdAt": "2024-06-21T12:43:23Z",
+    "title": "太字を付与し、安野たかひろがマージ権限を持つことを強調",
+    "body": "## 解決したいこと\r\n「政策がオープンソース」と聞くと、「オープンソース」のイメージから、\r\n\r\n- issueやPRはコミュニティ（都民）の議論ののちに客観的に妥当ならすんなり可決される\r\n\r\nというイメージを持ってしまうものであるが、 **主体が安野たかひろである**ことを強調するべきであると感じた\r\n\r\n## 行ったこと\r\nReadMeの該当記述に太字スタイリングを付与",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/31",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "申し訳ございません。言葉足らずで、あたかも安野さんが客観性を持たないととらえかねない表現だったと後から気が付きました。\r\n\r\n正確には、\r\n\r\nコミュニティの判断ではなく、 **安野たかひろ** への意見表明である点を強調するべき、という主旨で、No offenceです、"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 34,
+    "createdAt": "2024-06-21T13:07:22Z",
+    "title": "Update education.md",
+    "body": "現在、東京都においてギフテッド教育を提供できる教育機関はごく僅かである。また、ギフテッド教育には多額の費用がかかる為、一般家庭では負担できないレベルにある。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/34",
+    "state": "OPEN",
+    "comments": {
+      "nodes": [
+        {
+          "body": "@tomoto3 \r\nご提案ありがとうございます！\r\nギフテッド教育については、個性に応じた学びの観点から見る際に大きな論点になりうると認識しております。\r\n一方で、現時点ではギフテッド教育としての定義が多様であり、何を支援したらいいか対象が見えにくいという課題があります。\r\nもし、「このような取り組みに対して補助すべき」や補助のあり方として参考になる事例などがございましたら、より議論が深まると感じたのですが、何かご存知のものなどございますでしょうか？"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 35,
+    "createdAt": "2024-06-21T13:29:45Z",
+    "title": "Update economy.md",
+    "body": "地政学的観点の議論で、”日本の円安”というのは意味不明である。例えば東京の伝統的文化、香港に代わる金融ハブや国際的な人材育成都市としての可能性などに言及すべきである。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/35",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 37,
+    "createdAt": "2024-06-21T13:56:11Z",
+    "title": "Change title from 爆増 to 倍増",
+    "body": "## Overview\r\n\r\n- close #36 ",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/37",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 40,
+    "createdAt": "2024-06-21T16:35:14Z",
+    "title": "add 本人情報＆リンク追加",
+    "body": "本マニフェストは、誰でも自由に変更提案可能な特性上、参加者の知識や前提が大きく異なる。\r\n\r\n安野たかひろさん及び、その主張について知る手段を知らない可能性もあるため、本人情報とその関連URLを追記したい。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/40",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 42,
+    "createdAt": "2024-06-21T17:16:02Z",
+    "title": "Update economy.md",
+    "body": "”中国”など、特定の国の名指しは避けた方が良いと思います。実際には周辺国や都市と緊密な関係を築かなければなりません。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/42",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "「強い技術企業が東京に集まるポテンシャル」があるという文脈で、中国より東京が（政治的に安定しているがゆえに）選ばれるという話ですので、外交問題等に触れるものではなく、特に問題はないかと思います。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 48,
+    "createdAt": "2024-06-21T21:08:50Z",
+    "title": "病院や介護施設の利用状況をデータベース",
+    "body": "「下り搬送」することを前提にするのであれば、都内で完結するとは限らない。都から近郊あるいは遠方の他府県への搬送もありうる。\r\n\r\n内容としては、国が2025年から始めようとしている「電子カルテ情報共有サービス」と被るのではないか？(https://www.phchd.com/jp/medicom/park/idea/management-information-sharing)\r\n\r\nよって、都独自というよりも、国の政策の先駆けとした方が良いと考える。\r\n\r\nなお、このようなシステムを作ること自体、現場に新たな負担を強いることにも留意しなければならない。\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/48",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 51,
+    "createdAt": "2024-06-21T23:32:34Z",
+    "title": "Update manual_pull_request.md to add fork procedure",
+    "body": "プルリク作成手順にフォークする手順が抜けていた為、追記しました。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/51",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 52,
+    "createdAt": "2024-06-21T23:42:16Z",
+    "title": "高齢者の財産管理",
+    "body": "高齢者介護に関わっております。介護が必要になった方のなかには、「周囲の人たち」が金銭等をとっているケースも見られます。よって、「周囲の人たち」をここに入れるのは非常にリスキーだと考え、むしろ「安全」を強調するべきだと考えます。\r\n\r\nなお、認知症であることは必須ではないはずですから、その点も表現を変えています。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/52",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 53,
+    "createdAt": "2024-06-21T23:49:30Z",
+    "title": "Fix case of navigation item for manual_issue page",
+    "body": "ナビゲーションメニューで小文字始まりなのがどうしても気になってしまったので提案してます。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/53",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 54,
+    "createdAt": "2024-06-22T00:28:18Z",
+    "title": "Upgrade actions versions actions/checkout@v2->@v4, actions/setup-python@v2->@v5",
+    "body": "CIで利用しているactions/checkout, actions/setup-pythonで古いバージョンが利用されています。\r\n特に理由がなければ最新のバージョンを利用すると良いと思います。\r\n\r\n利用するバージョンを以下のように変更します。\r\n\r\n- actions/checkout@v2->@v4\r\n- actions/setup-python@v2->@v5\r\n\r\nFYI: https://github.com/actions/setup-python?tab=readme-ov-file#basic-usage\r\n\r\nこの変更でactions/** のバージョンは全て最新になります。\r\n\r\n```sh\r\ngit grep actions/checkout@                    \r\n.github/workflows/comment-review.yml:      uses: actions/checkout@v4\r\n.github/workflows/issue-review.yml:      uses: actions/checkout@v4\r\n.github/workflows/main.yml:      - uses: actions/checkout@v4\r\n```\r\n\r\n```sh\r\ngit grep actions/checkout    \r\n.github/workflows/comment-review.yml:      uses: actions/checkout@v4\r\n.github/workflows/issue-review.yml:      uses: actions/checkout@v4\r\n.github/workflows/main.yml:      - uses: actions/checkout@v4\r\n```\r\n\r\n\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/54",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 56,
+    "createdAt": "2024-06-22T00:48:50Z",
+    "title": "prompt修正",
+    "body": "重複除去する目的に対して、影響はないかもしれませんがprompt修正案を送ります。\r\nテクノロジーで誰も取り残さない東京へ　応援します。\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/56",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "市民には都市の住民という意味もあるのでもとのpromptでも問題なさそうにも見えました"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 58,
+    "createdAt": "2024-06-22T01:43:28Z",
+    "title": "Update education.md: STEAMの補足を追記",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/58",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "丁寧な補足をありがとうございます！\r\nとても良いと思いました！"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 59,
+    "createdAt": "2024-06-22T01:47:20Z",
+    "title": "Update administration.md: ＵＩ → 使い勝手",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/59",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 68,
+    "createdAt": "2024-06-22T04:58:27Z",
+    "title": "Update economy.md",
+    "body": "### 変更内容\r\n`docs/manifest/economy.md`の内容を改善しました：\r\n\r\n1. 「喫緊」を「急務」に変更\r\n   - より一般的で理解しやすい表現に修正し、文書の可読性を向上させました。\r\n\r\n2. TSMCについての簡単な説明を追記\r\n   - 「TSMC（台湾積体電路製造、世界最大の半導体受託製造企業）」という説明を追加し、\r\n     専門用語の理解を助けるとともに、文書の専門性を高めました。\r\n\r\n### 変更の目的\r\n- ドキュメントの可読性と理解しやすさの向上\r\n- 専門用語の適切な説明による情報の充実\r\n\r\n### レビューのポイント\r\n- 言葉の選択が適切か\r\n- TSMCの説明が十分かつ簡潔か\r\n\r\nこの変更により、より広い読者層に理解しやすいドキュメントになると考えています。\r\nご確認いただき、さらなる改善点があればご指摘ください。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/68",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 71,
+    "createdAt": "2024-06-22T06:02:34Z",
+    "title": "Update education.md：デュアル・デグリー → デュアル・ディグリー制度（複数学位取得制度）",
+    "body": " - Xで用語がわかりにくいと指摘があったため\r\n - 用語の意味が国によって異なるため",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/71",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "- 2つの教育機関から学位を授与される「ダブルディグリー」\r\n\r\nと\r\n\r\n- 単に単位の共有を意味する（もらえる学位が一つであると示唆する）「単位互換制度」\r\n\r\nはもらえる学位の数という観点で、意味が大きく異なるのではないでしょうか？"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 72,
+    "createdAt": "2024-06-22T06:05:04Z",
+    "title": "Update education.md：リスキリング → 学び直し",
+    "body": "Xで用語がわかりにくいと指摘あり",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/72",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "指摘はあるものの、一定知られている単語だと思うのでリスキリングという単語は使う方針にします"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 75,
+    "createdAt": "2024-06-22T06:41:03Z",
+    "title": "Update economy.md: SakanaAI → Sakana AI",
+    "body": "Sakana AI 株式会社 https://sakana.ai/ の公式名称に合わせるための変更です",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/75",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 76,
+    "createdAt": "2024-06-22T08:34:51Z",
+    "title": "githubに不慣れなユーザーに向けてREADMEをアップデート",
+    "body": "# 概要\r\nこのPRでは、READMEファイルの「初めての方へ」セクションを改善しました。新しいユーザーやITに不慣れなユーザーがGitHubをより理解しやすくなるように、以下の内容を追加しました。\r\n\r\n- GitHubの基本的な使い方に関する説明。\r\n- プロジェクトのデジタル民主主義としての意義を説明。\r\n- 貢献方法がわからないユーザー向けのガイドへのリンク。\r\n- プロジェクトの広報活動への参加方法（Twitterでのハッシュタグ投稿）。\r\n\r\nこれにより、より多くの人々がこのプロジェクトに参加しやすくなり、デジタル民主主義の実現に貢献できるようになります。具体的な文言についてはcontribution.mdから大部分は移動し、一部改変を加えております。\r\n\r\n# 変更点:\r\n\r\n- READMEファイルにGitHubの使い方の説明を追加\r\n- 初めての方へセクションを再配置\r\n- プロジェクトの広報活動への参加方法を追加",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/76",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "ありがとうございます！ @hyudai28 \r\n変更目的には非常に共感しています。\r\n一方で、作成時の考慮として、見に来てくれた方の認知負荷を下げるため、トップのREADMEはできるだけ長い文章は避け、\r\n\r\n- 初めての方への説明はcontribution.md\r\n- マニュアル等については manual_xxx.md\r\n\r\nという形でmeceに切り出すことを意識したという経緯があります。\r\nプロジェクトの位置づけに関する記述は、実は読まなくてもissue立てたりPR作成したりということはできるので、いったん現行の表現を踏襲したいなと考えています。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 77,
+    "createdAt": "2024-06-22T08:54:26Z",
+    "title": "Add a link to CC-BY-4.0",
+    "body": "CC-BY-4.0のライセンス概要を説明するリンクにダイレクトに飛べたほうが良さそうに感じたので、 `CC-BY-4.0` テキストにリンクを加えてみました。\r\n\r\n- Canonical URL: https://creativecommons.org/licenses/by/4.0/\r\n- 日本語訳URL: https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/77",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 79,
+    "createdAt": "2024-06-22T11:55:36Z",
+    "title": "新規イシューに政策カテゴリラベルを付与するGitHub Actionsを追加",
+    "body": "- 政策カテゴリが正しいsyntaxで選択されるようにイシューテンプレートを更新\r\n- 新規イシューに政策カテゴリラベルを付与するGitHub Actionsを追加",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/79",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 83,
+    "createdAt": "2024-06-22T13:30:37Z",
+    "title": "ラベル付与workflowのpermissionを修正",
+    "body": "Permissionが足りずジョブが失敗していたので修正",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/83",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 88,
+    "createdAt": "2024-06-22T14:18:00Z",
+    "title": "feat(workflows): use python shell in GitHub Actions",
+    "body": "GitHub Actionsのworkflowで `shell: python` を使用",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/88",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "#113 がマージされたことで obsolete になってしまいました、申し訳ないです 🙇 \r\nこのレビューしたときは contributor じゃないとマージできないことに気づいておらずマージするタイミングを逃しました。\r\n大変申し訳ないのですが close いたしましす"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 89,
+    "createdAt": "2024-06-22T14:21:02Z",
+    "title": "feat: Upgrade GitHub Actions",
+    "body": "一部の古いactionsのversionを修正しました",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/89",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "#54 と重複していましたので報告します"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 90,
+    "createdAt": "2024-06-22T15:04:34Z",
+    "title": "CIのタイムアウト設定追加",
+    "body": "レスポンスが返ってこない、悪意あるコードが実行される等で長時間動き続け課金されるのを防ぐため\r\n\r\n公式ドキュメント\r\nデフォルトは360分\r\nhttps://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepstimeout-minutes",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/90",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "ありがとうございます！参考に issue-review の実行時間を載せておきます。\r\n30s-40s なので 1min は reasonable だと思います。\r\n![image](https://github.com/takahiroanno2024/election2024/assets/2654284/d0b1f93f-b818-4d86-9100-6ac8fcff17df)\r\n![image](https://github.com/takahiroanno2024/election2024/assets/2654284/47fb9e19-124a-4a3d-947a-90b851f862fb)\r\n\r\n![image](https://github.com/takahiroanno2024/election2024/assets/2654284/da47876e-9b9c-46a1-8de3-df01c4518208)\r\n"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 95,
+    "createdAt": "2024-06-22T15:54:54Z",
+    "title": "Update education.md：具体施策→ 具体的施策",
+    "body": "細かいですが、こちらの方がフォーマルな印象を受けたのでPR作りました。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/95",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "日本語的にはこのままでよいかと思いましたのでCloseします"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 108,
+    "createdAt": "2024-06-23T01:55:01Z",
+    "title": "Update education.md：ジェンダーバイアス→強い性別の偏り",
+    "body": "変更提案します。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/108",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "この場合の意図は、「ジェンダーバイアスの存在によって強い性別の偏りが生まれている」というニュアンスだと思うので、変更は必要ないように思います。\r\n\r\n強い性別の偏りがジェンダーバイアス以外のものによって生まれているということであれば、議論の余地があると思います。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 113,
+    "createdAt": "2024-06-23T03:24:13Z",
+    "title": "🛠️ GitHub Issue 自動レビュー機能とコードの分離",
+    "body": "このプルリクエストでは、既存のGitHub Issue自動レビュー機能を改善し、コードの管理をより効率的にするために、ワークフローとスクリプトを分離しました。\r\n\r\n### 変更点の概要:\r\n\r\n#### 元の設定:\r\n- `.github/workflows/issue-review.yml` に自動レビュー機能を含むインラインスクリプトが含まれていました。\r\n\r\n#### 更新内容:\r\n- **スクリプトの分離:** 自動レビュー機能のスクリプト部分を別のPythonファイルに分離し、`.github/scripts/review_issue.py` として追加しました。\r\n  - **メリット:** コードの可読性が向上し、スクリプトの保守が容易になります。\r\n  \r\n- **ワークフローの簡素化:** `.github/workflows/issue-review.yml` からインラインスクリプトを削除し、分離したスクリプトを呼び出す形式に変更しました。\r\n  - **メリット:** ワークフローの構成がシンプルになり、変更や追加が容易になります。\r\n\r\n### 新規ファイル:\r\n- `.github/scripts/review_issue.py`\r\n\r\n### 更新ファイル:\r\n- `.github/workflows/issue-review.yml`\r\n\r\nこの変更により、GitHub Issueのレビューがより効率的に行えるようになります。レビューとフィードバックをお願いいたします。\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/113",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "ありがとうございます。\r\n改行付けて再度プルリクエスト出したいと思います。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 117,
+    "createdAt": "2024-06-23T05:15:26Z",
+    "title": "issue作成マニュアルに、政策ビジョン設定の記法を追加",
+    "body": "## 概要\r\nissue作成マニュアルに下記記述追加\r\n\r\n![image](https://github.com/takahiroanno2024/election2024/assets/101827492/f8e9509e-c584-42ae-9225-5da90b078fb5)\r\n\r\n## 解決したい問題\r\nGitHub / MarkDownが不慣れな方の誤記入が多発しているため。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/117",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 129,
+    "createdAt": "2024-06-23T10:50:36Z",
+    "title": "READMEの目次を修正",
+    "body": "目次に誤りがあり、リンクが無効になっていたので修正しました",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/129",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 138,
+    "createdAt": "2024-06-23T15:12:51Z",
+    "title": "Issue テンプレートをフォーム形式に",
+    "body": "Issue テンプレートをフォーム形式に切り替えます.\r\n以下のようなフォームが用意されます. 対話形式で作れるようになるので今まで以上に Issue を提出しやすくなると思います.\r\n\r\n![image](https://github.com/takahiroanno2024/election2024/assets/82575685/0c2d6275-8831-4d70-8bec-42ad5058e855)\r\n\r\nIssue フォームの詳細は GitHub Docs をご覧いただければと思います.\r\n\r\n[リポジトリ用に Issue テンプレートを設定する - GitHub Docs](https://docs.github.com/ja/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms)\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/138",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "https://github.com/takahiroanno2024/election2024/pull/138/commits/ae7d98e76e7c271c0d5be2371f1fb8249c442b1d, https://github.com/takahiroanno2024/election2024/pull/138/commits/3e7e4a0f5115c35438d5978c2ec0d057149de2dd でそれぞれ修正しました (誤字 申し訳なかったです)"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 139,
+    "createdAt": "2024-06-23T15:59:06Z",
+    "title": "Update care.md",
+    "body": "もう少し詳しく記載いただきたいなと思う箇所にコメントさせていただきました。Github始めてでしたが、面白い仕組みだなと思いました。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/139",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "ありがとうございます。課題提起はPRではなくIssueの方でお願いします"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 145,
+    "createdAt": "2024-06-24T01:08:00Z",
+    "title": "パーセントエンコーディングされたscrapboxのURLを可読化した",
+    "body": "表題通りです。\r\nエンコーディングされていないURLを認識してくれないmarkdownの処理系もありそうだったので、名前付きリンクとして見た目だけデコードした状態にしました。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/145",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 148,
+    "createdAt": "2024-06-24T02:47:17Z",
+    "title": "ラベル付与判定の正規表現を更新",
+    "body": "Issueテンプレートが使用されるようになった (https://github.com/takahiroanno2024/election2024/pull/138) ため、ラベル付与判定の正規表現を更新",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/148",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 151,
+    "createdAt": "2024-06-24T06:01:05Z",
+    "title": "ギガスクールで使うPCやデバイスのスペック目安の策定と入れ替え実施[Update education.md]",
+    "body": "linked below issue\r\n\r\nギガスクールで配布しているPCをもっと現実的なスペックやメーカのものに入れ替えてほしい #10\r\nhttps://github.com/takahiroanno2024/election2024/issues/10",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/151",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 154,
+    "createdAt": "2024-06-24T07:56:12Z",
+    "title": "東京都の少子化要因の多くが有配偶率低下であることの説明追加。",
+    "body": "こちらのIssueでの議論を踏まえてPR。\r\nhttps://github.com/takahiroanno2024/election2024/issues/26\r\nまず、現状説明の部分。\r\nエビデンスは、内閣府の令和5年度「年次経済財政報告」の「第2-2-18図」。\r\nhttps://www5.cao.go.jp/j-j/wp/wp-je23/h02-02.html\r\nhttps://www5.cao.go.jp/j-j/wp/wp-je23/h06_hz020218.html\r\nこれに対応する解決策は別のPRで出す。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/154",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 156,
+    "createdAt": "2024-06-24T10:43:09Z",
+    "title": "Update care.md",
+    "body": "#7119と#8000に追記（番号だけだと何のことを指しているか分かりづらいため）",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/156",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 163,
+    "createdAt": "2024-06-25T03:12:57Z",
+    "title": "Fix typo in care.md",
+    "body": "`作りる` --> `作る` に修正\r\n\r\n細かい指摘ですみません 🙇 ",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/163",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 165,
+    "createdAt": "2024-06-25T04:13:52Z",
+    "title": "contribution.md にgoogle formへのリンクを貼付",
+    "body": "GitHubの操作が難しいなと感じる方や、匿名でご意見を送りたい方向けに、Google Formを作成しました。\r\ncontribution.mdにリンクを貼りましたので、ご利用ください。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/165",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 166,
+    "createdAt": "2024-06-25T05:03:07Z",
+    "title": "issue templateの改善",
+    "body": "- 複数の政策領域にまたがる問題提起もみられるので、複数の政策領域を選べるようにしました。\r\n- 5つの柱のどれにも該当しない場合に選択できるよう、「その他」の項目を追加しました\r\n- できるだけハードルが下がるよう、「調べたこと」の記載欄を任意にしました",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/166",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "GitHub Actionsでの自動ラベル付与もアップデートするようPR (#167) 出しました。合わせてマージいただけると幸いです。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 167,
+    "createdAt": "2024-06-25T05:37:38Z",
+    "title": "複数の政策領域のラベル付与に対応",
+    "body": "- 政策領域を複数選択できるようにするテンプレート変更に対応 (https://github.com/takahiroanno2024/election2024/pull/166)\r\n    - カンマ区切りになるので`', '`でsplit\r\n- その他ラベルを追加",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/167",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 179,
+    "createdAt": "2024-06-25T16:36:05Z",
+    "title": "表現の修正",
+    "body": "どのようなルールで都議会に挙げる提案を決めるのかは非常に大事な点です。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/179",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "Issueタイトルも、「表現の修正」ではなく、「表現修正: 『もの』を消し、『提案』に統合」などが適切かと思います。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 181,
+    "createdAt": "2024-06-26T02:11:42Z",
+    "title": "Update care.md",
+    "body": "P37 表現の変更: 障がいを持った→障がいのある\r\nブロードリスニングでのご指摘を踏まえたものです。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/181",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 182,
+    "createdAt": "2024-06-26T03:03:56Z",
+    "title": "Update education.md",
+    "body": "核家族家庭の多い都心において、不妊治療が必要な(一人目がほしいけれどもできない)人を優先的に考えるだけでなく、若年層の妊娠・出産への選択肢や心理的ハードルを下げるためにも、無痛(和痛)分娩の充実は必須だと考えます。普通分娩と無痛(和痛)分娩では体力の回復が雲泥の差で、親に頼れないカップルの生活スタイルを考えると体力回復が圧倒的に早い無痛(和痛)分娩は必須です。\r\nまた、「無痛(和痛)分娩が助成や施設増設で充実した」という情報で産むことを選択肢に考える女性は潜在的に多いと考えます。\r\nちなみに(和痛)と加えたのは、麻酔を使用してもある程度の陣痛や産後の痛みはあり、無痛という名称は不適切だと思うほど大変なことだからで、名称を疑問に思う女性も一定数いるからです。\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/182",
+    "state": "OPEN",
+    "comments": {
+      "nodes": [
+        {
+          "body": "核家族家庭の多い都心では、不妊治療の充実だけでなく、若年層の妊娠・出産の選択肢を増やし、心理的ハードルを下げるためにも無痛（和痛）分娩の充実が必須です。普通分娩と比べて、無痛（和痛）分娩は体力の回復が早く、親に頼れないカップルの生活スタイルに合っています。\r\n\r\n「無痛（和痛）分娩が助成や施設増設で充実した」という情報が広がれば、出産を選択肢に考える女性が増えるでしょう。なお、「和痛」とは、麻酔を使っても多少の痛みがあるため、「無痛」という名称が不適切だと考える女性もいるためです。\r\n\r\n無痛分娩の割合\r\n日本：2018年の5.2%から2023年には11.8%に増加 。\r\nアメリカ：73.1% フランス：82.2% カナダ：57.8% イギリス：60% スウェーデン：66.1% フィンランド：89%  ベルギー：68% [1]\r\n\r\n日本の無痛分娩率が低い理由\r\n提供可能な病院の少なさ：2017年には15.0%の病院のみが硬膜外鎮痛を提供 。\r\n情報提供の不足：すべての妊婦に硬膜外麻酔に関する情報が提供されているわけではない 。\r\n文化的信念：陣痛は美徳であるという信念 。\r\n日本では、出産の約半数が病院と診療所で行われていますが、すべての施設に硬膜外麻酔を提供できる麻酔科医が十分に配置されているわけではありません。そのため、硬膜外麻酔を行うことができるのは限られた施設のみです 。\r\n[2]\r\n\r\n日本の無痛分娩の需要\r\n2018年の5.2%から2023年には11.8%に増加していることからもわかるように、日本でも無痛分娩の需要は高まっています。ゼクシィで実施されたアンケート（回答者数3753人）によると、無痛分娩を選ぶ理由の1位は「産後の体力を温存しておきたい」、2位は「痛いのが苦手」でした。一方、無痛分娩を選ぶ際のハードルは1位が「費用が高い」、2位が「実施している産院が少ない」という結果でした。\r\n[3]\r\n\r\n引用\r\n[1] 日本産婦人科麻酔研究会. (2023). \"無痛分娩に関する一般的な質問と回答.\" [リンク](https://www.jsoap.com/general/painless/q19).\r\n[2] Decision Aid Study. [リンク](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7660548/).\r\n[3] ゼクシィBaby. (2023). [リンク](https://zexybaby.zexy.net/article/contents/0162/)."
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 183,
+    "createdAt": "2024-06-26T03:12:03Z",
+    "title": "災害パート文言の修正Update care.md",
+    "body": "障がいを持つ→障がいのあるに修正",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/183",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 194,
+    "createdAt": "2024-06-26T12:11:50Z",
+    "title": "🔒 .envファイルの管理方法の最適化 (#186)",
+    "body": "## .envファイルのセキュリティと可視性の改善 (#186)\r\n\r\n### 現状:\r\n- .envファイルがリポジトリのルートディレクトリに露出している\r\n\r\n### 提案:\r\n1. .envファイルを.github/scriptsディレクトリに移動\r\n2. .github/scripts/.env.exampleファイルを作成し、必要な環境変数のテンプレートを提供\r\n3. 簡易的なREADMEの作成\r\n\r\n### 方針:\r\n- セキュリティ向上: 機密情報を含む.envファイルをより適切に管理\r\n- 開発者の利便性: .env.exampleを参照することで必要な環境変数が一目瞭然",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/194",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 201,
+    "createdAt": "2024-06-27T08:49:12Z",
+    "title": "Update education.md: 文末表現の統一",
+    "body": "以下の変更提案です。\r\n - です・ます調をだ・である調または体言止めに統一\r\n - 文末の句点を削除\r\n\r\neducation.mdしか確認していませんが、資料全体を通して同様に表現・表記を統一した方がいいので、もし指針がなければ先に整備した方が良いかと思います。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/201",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 203,
+    "createdAt": "2024-06-27T10:25:07Z",
+    "title": "著作権者の一覧をコミットログでかえることを明記",
+    "body": "Close: #174 \r\n\r\n安野様以外の貢献者の一覧について、コミットログにおいて表記することとされているとのことでしたので、それをREADMEへ反映いたしました。また表現を若干変更しています。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/203",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "ありがとうございます！！"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 204,
+    "createdAt": "2024-06-27T11:52:58Z",
+    "title": "issueテンプレートの更新に伴い、不要となってしまった操作tipsの削除",
+    "body": "表題通りです。\r\nせっかく追加頂いたので名残惜しいですが、不慣れな方を混乱させるおそれがあるため、泣く泣く削除いたします。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/204",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 216,
+    "createdAt": "2024-06-28T04:14:27Z",
+    "title": "CIでpipインストールのキャッシュ有効化",
+    "body": "# 概要\r\nCIでキャッシュが使われてないが、setup-pythonにpipキャッシュ機能があるのでそれを使う\r\nhttps://github.com/actions/setup-python?tab=readme-ov-file#caching-packages-dependencies\r\n\r\n# 現状\r\n- 現状キャッシュが使われていない\r\n![image](https://github.com/takahiroanno2024/election2024/assets/239667/3aecaef4-29b4-4b0b-8217-4ab7b05fb91c)\r\n\r\n- main.ymlではキャッシュを使う設定があるが、有効なパスではないエラーで動いてない\r\n![image](https://github.com/takahiroanno2024/election2024/assets/239667/f0495074-02d7-422e-b677-9020ed2be813)\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/216",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 220,
+    "createdAt": "2024-06-28T06:37:11Z",
+    "title": "医療パートのブロードリスニング取込み",
+    "body": "医療パートのブロードリスニングの結果を取り込むもの。\r\n様々意見はあるが、都として実施する内容としては #6 のデータの取得と可視化が基礎であるという点を反映するもの。 他の認知症初期症状の発症に関する深掘りやコロナ後遺症の実態もまずは可視化することが重要。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/220",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "#6 を見て検討していただいたようで、ありがとうございます。コメントで施策の案を出したものの一意見として、ここで出していただいた文案は、ひとまずいいのではないかと思います。もちろん個人的にはもっと踏み込んだ施策が入ればと思ってはいますが、少なくとも前進ではありますので。 (できれば #6 は閉じずに、都知事選が終わってからも議論が続くようなら嬉しく思います)\r\n\r\n2点ほど、いちおう追加の提案といたしまして :\r\n\r\n1. #74 も関連としてリンクしておいていいように思います。\r\n2. https://github.com/takahiroanno2024/election2024/blob/91af15c7b0a91356a79156bebbc03e9df01ac688/docs/index.md#L28 にて「先輩世代：とことん安心の医療・防災」となっているのですが、感染症についてさえも「先輩世代」のみの問題ではなさそうですし、さらに防災については言わずもがなです。ここを「先輩世代」に限定する必要はあるでしょうか?\r\n    * また、その前後の「現役世代：新産業で所得倍増」や「未来世代：世界一の子育て・教育環境」についても、世代で区切る必要はあるでしょうか? 所得は全世代に関係する話ですし、子育てはともかく「教育」はリスキリングも含めて「現役世代」にも関係する話です。ここであえて世代を限定する必要はないように思います。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": [
+        {
+          "subject": {
+            "number": 6,
+            "title": "これからの感染症対応",
+            "url": "https://github.com/takahiroanno2024/election2024/issues/6"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "number": 221,
+    "createdAt": "2024-06-28T09:34:03Z",
+    "title": "子育てにかかる経済的負担への支援の見直し（所得制限の見直し） ",
+    "body": "issue #212 を踏まえて、政策マニフェストへの変更提案をいたします。\r\n\r\n### 政策\r\n１）民間の教育費負担（塾代や課外活動など）に対する5000円/月の教育バウチャーを実施（中学3年生・高校生3年生など対象時期を区切る）\r\n２）高校受験料を助成する\r\n３）所得制限の言及は削除\r\n４）第一子保育料無償化（0-2歳も含む）\r\n５）018サポート（月5000円の手当）などは踏襲\r\n\r\n### 必要だと思ったきっかけ\r\nTalk to the cityから、所得制限に対する懸念が見られました。\r\n\r\n#元のコメント:\"安野たかひろ氏のマニフェストを見た。 教育についてはインター中高一貫、トップ大学誘致とか大規模なものより公立校のエアコンやトイレ改修、教職員待遇改善を行ってほしい。教師のリスキリングは皆さん過労死寸前で無理じゃないかな。 あと絶対所得制限はやめてほしい #TOKYOAI\"\r\nhttps://x.com/shirai3des/status/1806259942749520376\r\n\r\n#また、類似のイシュー（https://github.com/takahiroanno2024/election2024/issues/202, https://github.com/takahiroanno2024/election2024/issues/32 ）も見られる\r\n\r\n### なぜ必要か\r\n安野たかひろの公約においては、東京での子育てにかかる費用を問題としている。\r\n全国比2.3倍ある開きを是正する政策は必要と考えている。\r\nまた、所得制限は誤解を招く表現だったため、削除する。\r\n加えて、第一子の保育料無償化や018サポートなど、現知事による政策や公約は踏襲する。\r\n\r\nまた、所得制限なく施策を実施することで行政事務が大幅に減る副次的効果も期待できる。\r\n\r\n### 調べたこと（裏付けとなる事実・ファクト）\r\n元となる声\r\n- https://x.com/shirai3des/status/1806259942749520376\r\n- https://github.com/takahiroanno2024/election2024/issues/202\r\n- https://github.com/takahiroanno2024/election2024/issues/32\r\n\r\n018サポート\r\n\r\n- https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/018/index.html\r\n\r\n\r\n小池都知事公約\r\n\r\n- https://www.tokyo-np.co.jp/article/334293",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/221",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "018サポートのサイトめちゃくちゃ使いづらかったです。私の名前（母親）で申請しようとすると世帯主との関係を証明する戸籍謄本が必要だったり、知り合いのお母さんは面倒すぎて申請やめたと言ってる人もいました。スピーキングテストは絶対やめて欲しいです。ベネと現職の癒着な気がするので。都立受験の内申制度もやめて欲しいです。大学受験のように試験一発で良い気がします。都立に誰でも入れるようにしてほしい。都立落ちたら私立とかお金が怖すぎて。みんなギリギリです。優秀な子ばかりじゃないです。"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 226,
+    "createdAt": "2024-06-28T14:27:38Z",
+    "title": "add workflow to publish mkdocs",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/226",
+    "state": "CLOSED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 229,
+    "createdAt": "2024-06-29T04:28:18Z",
+    "title": "男性のHPVワクチン任意接種に対する全額助成",
+    "body": " #228 での問題提起を踏まえ、以下の通り変更提案をいたします。\r\n現役世代の健康を守る取り組みとして検討いただければ幸いです。\r\n\r\n\r\n- 前提\r\n    - HPVワクチンは女性の子宮頸がんのみならず、男性の肛門がん・中咽頭がん、尖圭コンジローマに対する予防効果が認められている\r\n    - 男性への公費接種はアメリカ、オーストラリア、イギリスなどで進められている\r\n    - 男性が4価HPVワクチンを任意接種した場合、全額自費であるため5~6万円かかる\r\n- 現状\r\n    - 男性に対しては、国レベルでの定期接種化が進んでいない\r\n    - 市区町村ごとに独自の助成制度の設置が進んでいる（東京都内でも20区市町村）\r\n    -  都道府県レベルでの全額助成制度は、自身の調べの限りでは存在しない\r\n    - 東京都は区市町村を通じて半額助成を今年4月から開始している\r\n- 課題：居住する場所によってHPVワクチンへのアクセスに格差が開いている\r\n- 提案：男性のHPVワクチン任意接種に対して都として**全額助成**を行う",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/229",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 238,
+    "createdAt": "2024-06-29T14:57:50Z",
+    "title": "End of sentence fix",
+    "body": "以下の変更提案です。\r\n - です・ます調をだ・である調または体言止めに統一\r\n - 文末の句点を削除\r\n\r\n#201 にて education.md に対して入れた修正と同じ修正を他のファイルにも適用します。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/238",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 248,
+    "createdAt": "2024-06-30T09:25:06Z",
+    "title": "Update education.md",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/248",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 250,
+    "createdAt": "2024-06-30T12:47:24Z",
+    "title": "📘開発者向けREADMEと貢献ガイドラインの充実",
+    "body": "\r\n### プルリクエストの説明\r\nこのプルリクエストでは、プロジェクトの透明性を高め、新規貢献者が容易にプロジェクトに参加できるように、開発者向けのREADME.md(`.github\\developer\\README.md`)を新しく作成しました。具体的には以下の内容を含んでいます：(#193 )\r\n\r\n- **ローカル開発環境の構築**: 新しい開発者が迅速かつ簡単に環境を設定できるよう、詳細なステップバイステップの指示を提供します。\r\n- **貢献のプロセスの明確化**: リポジトリのフォーク、クローン、およびプルリクエストの作成方法を含む、プロジェクトへの貢献方法を綿密に説明します。\r\n- **環境変数の設定と管理**: セキュリティを考慮した環境変数の設定方法を詳述し、APIキーなどの機密情報の扱いについての指針を提供します。\r\n- **Qdrantデータベースの利用**: Qdrantベクトルデータベースの設定と初期化プロセスについて説明し、効果的なデータ管理とアクセス方法を導入します。\r\n\r\nこのドキュメントの改善により、開発者はプロジェクトにスムーズに取り組むことができ、一貫性のある開発環境を維持することが可能になります。また、新しい貢献者がプロジェクトに参加しやすくなることを期待しています。\r\n\r\n### 変更の目的\r\n- **透明性の向上**: プロジェクトの構造と開発プロセスを明確にして、すべての開発者が同じ情報に基づいて作業できるようにします。\r\n- **貢献の促進**: 貢献のプロセスを簡単にし、新規貢献者がプロジェクトに容易に参加できるようにします。\r\n- **一貫性の確保**: 全開発者が同じ手順でセットアップと開発を行えるようにし、プロジェクトの品質を維持します。\r\n\r\nよろしければ、このプルリクエストに対してフィードバックをいただけますと幸いです。また、追加で必要な情報や改善点がありましたら、お知らせください。\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/250",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 255,
+    "createdAt": "2024-07-01T11:26:53Z",
+    "title": "Update democracy.md　荒らし対策",
+    "body": "Issue #144 の議論を受けて、デジタル民主主義実現に向けた具体的な対策案を追記",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/255",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "> 荒らしに該当するような攻撃的・差別的コメントについては、\r\n\r\n- 「荒らし」が万人には伝わらない表現\r\n- 対象を限定しすぎない方が運用フェーズで柔軟に対応できる\r\n- 文章の最後が「削除する」ではなく「管理する」なので、広めに削除するという意味にはならない\r\n- 投稿者の意図とは関係なくコメントの質で判断せざるを得ない\r\n\r\nので、「著しく不適切なコメントについては、」くらいでどうでしょう"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": [
+        {
+          "subject": {
+            "number": 144,
+            "title": "いたずらや対立潰し、都民であることの確認はどうするのか（荒らし対策について）",
+            "url": "https://github.com/takahiroanno2024/election2024/issues/144"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "number": 256,
+    "createdAt": "2024-07-01T12:54:09Z",
+    "title": "Create Others & Energy",
+    "body": "5本の柱以外の部分に対する政策変更提案を反映するセクションを作成しました。\r\nそのうち、エネルギー政策部分を加筆しています。\r\n\r\n**▼元となった声**\r\nブロードリスニングの結果から、テクノロジーを押し出した今回の政策実現においては、エネルギー政策の言及が不可欠であるというご指摘や具体的ご提案を複数頂きました。\r\n\r\n例１：AI活用の環境への影響を危惧する声\r\n環境への影響         エネルギー消費：AIの運用に伴う高いエネルギー消費が環境に与える負荷。         リソースの浪費：大量のデータ処理に伴う資源の無駄遣い。[#TOKYOAI]\r\nhttps://x.com/298gama/status/1802420896386400324\r\n\r\n例２：匿名フォームからの具体的な政策提案\r\nc) スマートエネルギーマネジメント\r\n   - AIを用いた需要予測システムと連携した、クリーンエネルギーの効率的な供給体制の構築\r\n   - 各家庭やオフィスビルのエネルギー使用状況をリアルタイムで把握し、最適な省エネアドバイスを提供\r\n\r\n例３：匿名フォームからのご指摘\r\n仮に23区を世界有数のIT産業集積地帯にした場合の電力・防災対策をどのようにお考えですか？首都直下地震、南海トラフ地震、富士山の噴火など近い将来に予測されている災害が多い中で、江戸時代は海だった地域もある23区をそのような集積地帯にすることにはリスクがあるように感じます。\r\n\r\n**▼検討内容**\r\n現状の都のエネルギー政策を確認し、目標と大筋の方向性は妥当であると考えます。\r\n一方で今回安野たかひろが提案する政策が実現すれば、より多くの電力が必要となる可能性が高いです。\r\nそのために、更に追加的に都として取り得るエネルギー政策を検討し追加しました。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/256",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 259,
+    "createdAt": "2024-07-01T14:49:32Z",
+    "title": "Update care.md: 防災パートのブロードリスニング反映",
+    "body": "ブロードリスニングの結果を踏まえた修正｡\r\n詳細な議論経緯は#66 を参照いただければ幸いです｡\r\n\r\n(1)テクノロジーだけではない､防災に関する課題の全体感と優先順位を示す\r\n(2)安野候補にフォーカスしてほしい｢テクノロジーによる課題解決の加速｣について施策を追加･深堀り｡具体的には備蓄状況の可視化 \r\n(3)避難所運営→避難所運営･在宅避難者把握/支援 に変更 (政策の実態に即したもの)",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/259",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 260,
+    "createdAt": "2024-07-01T14:56:46Z",
+    "title": "Update care.md: ブロードリスニング反映(2)",
+    "body": "避難所運営･居宅避難者支援の文脈で､要支援者に関する事前把握に関する施策を追加(備蓄と異なり､オープンにするのではなく､プライバシーに配慮したものを想定)",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/260",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 264,
+    "createdAt": "2024-07-02T10:24:34Z",
+    "title": "Update care.md 障害者福祉のデジタル化の追加",
+    "body": "障害者福祉のデジタル化（Issue #234）の追加を提案いたします。\n\n### 政策ビジョン\r\n\r\n医療・防災\r\n\r\n### 政策\r\n\r\n・障害者手帳等のマイナンバーカード搭載\r\n・都・市区町村が実施主体となる医療費助成（指定難病・自立支援医療）に係る医療証等のマイナンバーカード搭載を早期に実施\r\n・都営交通無料乗車券のスマートフォン搭載\r\n\r\n\r\n### なぜ必要か\r\n\r\n現在、障害者の方々が行政・民間の福祉サービスを受けようとする場合、紙書面を複数持ち歩く必要があります。障害を負っている上にこうした書面の管理や持ち運びに労力を割く現状は障害者の方々にとって少なからぬ負担となっています。\r\n\r\nデジタル活用を推進する立場として、こうした部分にこそ光を照らし、東京都が主導して、市区町村や医療機関、民間事業者等を巻き込んで早期の実施を図るべきと考え、提案いたします。\r\r\n\r\n### 調べたこと（裏付けとなる事実・ファクト）\r\n\r\n医療証については、デジタル庁において令和5年度から一部の自治体でマイナンバーカード搭載を先行的に実施しており、令和8年度から全国での運用を開始する見通しとなっています。\r\n\r\n### 自由記述欄\r\n\r\n_No response_",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/264",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 265,
+    "createdAt": "2024-07-02T12:01:19Z",
+    "title": "「障害のある児童生徒及び日本語に通じない児童生徒の支援」を追加",
+    "body": "障害のある児童生徒及び日本語に通じない児童生徒への支援として、教科書バリアフリー法に基づく特定図書等（とくにDAISY教科書）の採用を推進する。\r\n\r\nIssue #257 を参照。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/265",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 267,
+    "createdAt": "2024-07-02T13:25:10Z",
+    "title": "Create budget",
+    "body": "政策実現に必要な追加予算とその財源獲得方針についてのセクションを追加しました。\r\n\r\nIssue #180 および多くのブロードリスニングでご指摘を受けた件です。\r\nなお、マニフェストver1.0時点の政策をベースとしており、ver1.0以降に追加された政策については現時点では記述ができていない点があります。\r\n今後更なるアップデートをかけていきます。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/267",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "@tokshibata デジタル人材の確保については、単価見直し＆法定福利・福利厚生費反映で2.5億円。＋継続欄は書き方に自由度があるのであれば、毎年継続的に募集しエンジニア100人程度を目指すと想定されるので、最大10億円程度という書き方にできますでしょうか・・・？"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": [
+        {
+          "subject": {
+            "number": 180,
+            "title": "取組内容に対する予算とその実行計画及び体制を提示してほしい",
+            "url": "https://github.com/takahiroanno2024/election2024/issues/180"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "number": 268,
+    "createdAt": "2024-07-02T14:50:06Z",
+    "title": "東京都の役割",
+    "body": "様々な場所でみられる「それは東京でできるのか」という疑問に答えるため、現状理解として東京都ができることを追加",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/268",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 270,
+    "createdAt": "2024-07-02T17:04:35Z",
+    "title": "組織強化の明確化",
+    "body": "従前、リーダー・組織強化を一つでくくっていた部分を二つにわけています。\r\nリーダーについては、リーダーだからこそできることというメッセージを詳細化しています。\r\n組織強化については、種々のインタビューを受け、行政の実行力強化のため、組織を強くするというメッセージを厚く書いています。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/270",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 271,
+    "createdAt": "2024-07-02T17:08:46Z",
+    "title": "プッシュ型のメリット追加",
+    "body": "プッシュ型のサービス提案によりこれまで行政サービスの利用に抵抗感のあった方がより使いやすくなるという説明を追加しています。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/271",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 273,
+    "createdAt": "2024-07-03T00:30:31Z",
+    "title": "都独自の教員確保・処遇改善により公教育の質の抜本的改善",
+    "body": "「都独自の教員確保・処遇改善により公教育の質の抜本的改善」を追記してみました",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/273",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 276,
+    "createdAt": "2024-07-03T03:38:49Z",
+    "title": "Fix mkdocs.yml syntax",
+    "body": "- 閉じsingle quotationが2つ連続してしまっていて、GitHub Actionsが走らなくなっていたので修正",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/276",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "早速の修正大変助かりました！"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 285,
+    "createdAt": "2024-07-03T11:31:57Z",
+    "title": "インターナショナルスクールを「誘致」に統一",
+    "body": "・「設置」と「誘致」で表記揺れがあった\r\n・政策の意図を踏まえると、インターナショナルスクールは誘致の方が適切であったため、「誘致」に統一\r\n・ブロードリスニングでも、「都による設置よりも、誘致の方が質の高いインターナショナルスクールに繋がる」というコメントあり",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/285",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 286,
+    "createdAt": "2024-07-03T11:32:09Z",
+    "title": "障害福祉領域での専門職・連携強化・テクノロジー活用の強化",
+    "body": "障害福祉分野のうち、特に児童福祉を対象とした政策案です。\r\n#269 を踏まえて提案をしている。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/286",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "内容は良いと思うのでmergeします。\r\n下記のPRで行われているような財源の検討を継続して行っていただけますでしょうか？\r\nhttps://github.com/takahiroanno2024/election2024/pull/267\r\n\r\n@micthell712 "
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 287,
+    "createdAt": "2024-07-03T11:36:22Z",
+    "title": "フリーランス・起業家の方に向けた、育休相当の支援",
+    "body": "フリーランスの方が出産をするのに不平等感を感じたことについて、働き方の多様性を支援するためにも不安を取り除くための支援を実施すべきという観点からの提案です。\r\n- #32\r\n- #263",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/287",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 288,
+    "createdAt": "2024-07-03T12:21:18Z",
+    "title": "不妊治療における書類提出作業オンライン化",
+    "body": "#248  にて不妊治療におけるオンライン化が提起され、調査開始。\r\n\r\n・診療は、特に女性については現状オフラインで行う必要がある治療が多い。\r\n・また、診断方針相談等オンライン化が可能な治療は、既に一定程度のオンライン化が進んでいる。\r\n・一方で、治療行為全般に通じるものではあるが、直筆サイン付きの各種同意書・戸籍謄本/住民票等によるパートナーの証明書の原本など、**書類については物理的に提出する必要のあるものが多数**。\r\n・特に不妊治療については、パートナー双方の同意が必要であるため、パートナー双方が通院していないとその場で同意書にサインすることができない。片方（主に女性）だけが通院している場合、一度持ち帰ってパートナーのサインをもらい提出のため再度通院する、といったオペレーションが必要になることもある。\r\n・また、不妊治療にはパートナー証明のための戸籍謄本/住民票等が必要であり、それらの書類は自治体によってはコンビニ交付できないところもあるため行政窓口まで行き書類を入手する必要があることも。\r\n・**「1回でも良いので通院/窓口に行く回数を減らす」**ために、上記のような**書類関連作業のオンライン化（オンライン提出/クラウドサイン等の電子契約活用）が必要**。\r\n・不妊治療における書類提出のオンライン化を率先して進めることで、その他の治療についても同様の効率化を進めることができる。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/288",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "@kyo-tamaki こちら議論過程が一部Slackにしか残っておらず、publicなところに残っていないので、一部サマリする形でこちらのPRの上部や元Issueにテキストを残していただけますでしょうか？"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 289,
+    "createdAt": "2024-07-03T12:51:34Z",
+    "title": "自動運転先進都市に、島しょ地域を追加。取り組み内容の具体化。",
+    "body": "・安野が大島を訪れた際にいただいた声として、「島しょ地域での交通課題」があったので、その課題を解決する内容を政策に追加\r\n\r\n・https://github.com/takahiroanno2024/election2024/issues/177 でも議論されている通り、自動運転の実証実験の際は人口過密エリアではないところから開始することが理想的であり、島しょ地域はその観点も相性が良い\r\n\r\n・実運用まで目指した計画を政策に追加することで、課題解決への道筋を明確にする",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/289",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 291,
+    "createdAt": "2024-07-03T15:01:16Z",
+    "title": "Update education.md",
+    "body": "教員志望でしたがあきらめた口です。一週間平均64時間働いている先生の負担を少しでも減らしてほしいです。できれば給特法に対抗する条例も作っていただきたいです。まずは予算の多い東京からできることなのではないでしょうか。 https://www.jtu-net.or.jp/news/2021hatarakikatacyousa/",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/291",
+    "state": "OPEN",
+    "comments": {
+      "nodes": [
+        {
+          "body": "@monami626 ご提案ありがとうございます！\r\n#239 などで議論がスタートされています。\r\nもしよろしければ、@monami626 さんが思われる施策の方向性があれば議論にご参加いただけるとありがたいです！"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 293,
+    "createdAt": "2024-07-04T02:14:06Z",
+    "title": "妊婦へのRSウイルスワクチンの公費助成",
+    "body": "#283 のイシューで提案しました通り、妊婦へのRSウイルスワクチンの公費助成についてプルリクエストを出させていただきます。 お手数ですが、ご確認をお願いいたします。\r\n初めてリクエストを出すため、不備がありましたらお知らせください。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/293",
+    "state": "MERGED",
+    "comments": {
+      "nodes": [
+        {
+          "body": "@summersummer800 \r\n丁寧に整理した上でのプルリクエスト、ありがとうございます。\r\n\r\n@takahiroanno \r\n以下、チーム内の整理もメモとして記載しておきます。\r\n\r\n* RSウイルス感染症についての理解の整理\r\n    * 生後1歳までに半数以上が、2歳までにほぼ100%の児がRSウイルスに少なくとも1度は感染する[1]\r\n    * 乳幼児は重症化リスクが高い\r\n    * 生後6ヶ月以内にRSウイルスに感染した場合には、細気管支炎、肺炎など重症化する場合があります [1]\r\n    * 母体から乳児への移行抗体によって守ることができる\r\n    * 日本でのワクチン承認はつい最近（2024年1月）\r\n        * [1] https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou19/rs_qa.html\r\n* リスクについて整理\r\n    * 乳幼児の死亡についてざっと調べた感じ世界的には多い（疫病負荷が高い）一方で、日本だと医療の質的からなのかそこまで多くない印象でした。\r\n    * 裏取りできてないですが3000人が入院、そのうちの1%が死亡という数字も見られる。\r\n        * https://www.niid.go.jp/niid/ja/kansennohanashi/317-rs-intro.html\r\n* 定性的な声\r\n    * 不安、重篤化した時に大変だったという声はあり。\r\n    * https://x.com/nobuko0902/status/1763931457737904128?s=46&t=8G218r3RuJ_ZTNIN1kKCqw\r\n    * https://x.com/tome_selfcare/status/1808497581271748673?s=46\r\n* 財源観点\r\n    * 10万人（東京都出生数）ｘ３万円ｘ利用率（10％ぐらい？）→３億円ぐらいを予想"
+        }
+      ]
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 301,
+    "createdAt": "2024-07-04T09:22:55Z",
+    "title": "「スタートアップ法人都民税の減税」の予算を追加",
+    "body": "・「スタートアップ法人都民税の減税」の予算として、年間10億円を追加。\r\n\r\n・全体の予算額についても、イニシャル・ランニングともに10億円ずつ追加。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/301",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 305,
+    "createdAt": "2024-07-04T13:38:50Z",
+    "title": "🛠️ 環境変数バリデーションの強化とログ出力の改善",
+    "body": "\r\n## 概要\r\n本プルリクエストでは、`review_issue.py`スクリプトに対して以下の2つの主要な改善を行いました：\r\n\r\n1. pydantic_settingsを用いた環境変数のバリデーション強化\r\n2. loguruライブラリを使用したログ出力の改善\r\n\r\nこれらの変更により、アプリケーションの安定性とデバッグ効率が向上します。\r\n\r\n## 変更内容\r\n\r\n### 1. 環境変数のバリデーション強化\r\n\r\n- `pydantic_settings`を導入し、`Settings`クラスを実装\r\n- 環境変数の型チェックを強化し、設定ミスによるエラーを防止\r\n- 未定義の環境変数を許容するため、`extra = 'ignore'`オプションを追加\r\n\r\n```python\r\nclass Settings(BaseSettings):\r\n    github_token: str\r\n    qd_api_key: str\r\n    qd_url: str\r\n    github_repository: str\r\n    github_event_issue_number: int\r\n    embedding_model: str = \"text-embedding-3-small\"\r\n    collection_name: str = \"issue_collection\"\r\n    gpt_model: str = \"gpt-4\"\r\n    max_results: int = 3\r\n```\r\n\r\n### 2. ログ出力の改善\r\n\r\n- `loguru`ライブラリを導入し、詳細なログ出力を実装\r\n- 各処理ステップでログを出力し、デバッグ作業を効率化\r\n- エラーの迅速な特定と解決をサポート\r\n\r\n▽下記のように可視化されます\r\n![image](https://github.com/takahiroanno2024/election2024/assets/108736814/b2407a85-1b83-4ff9-abda-b5e36b26f3b1)\r\n\r\n\r\n\r\n## 期待される効果\r\n\r\n1. 環境変数の誤設定によるランタイムエラーの減少\r\n2. アプリケーションの動作状況の可視化\r\n3. デバッグ作業の効率化\r\n4. エラーの迅速な特定と解決\r\n5. 開発者間のコミュニケーション促進\r\n\r\n## 注意点\r\n\r\n- 新しい依存関係（`pydantic-settings`、`loguru`）をインストールする必要があります\r\n- 環境変数の名前や型が変更された場合、`Settings`クラスの定義を更新する必要があります\r\n\r\n## 関連Issue\r\n\r\n- #188\r\n- #304\r\n\r\nご確認とレビューをお願いいたします。\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/305",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 307,
+    "createdAt": "2024-07-04T15:41:08Z",
+    "title": "行政パートの構成見直し",
+    "body": "視認性向上のため行政パートの構成を変えています。\r\n①各コンポーネントの中身は基本的に変えていません\r\n②現状認識と施策・方向性パートを明確に分けました\r\n→施策パートにあった、意思決定上の課題・組織上の課題をひとくくりにし、現状認識パートに挿入\r\n→施策・方向性パートは施策・方向性のみの記載にし、視認性向上",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/307",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 308,
+    "createdAt": "2024-07-04T16:55:12Z",
+    "title": "Update others.md: 都市整備セクションを追加、公共ベンチ・デスクの設置について追記",
+    "body": "#251 を踏まえ、一旦PRをオープン。\r\n\r\n検討の余地はあるが、選挙戦も終盤に近いので、一旦PRオープンしようと思います。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/308",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 309,
+    "createdAt": "2024-07-04T17:07:39Z",
+    "title": "障害福祉\\効率的なテクノロジー活用例の追加",
+    "body": "「ろう者の為の3DCG技術を用いた手話翻訳AIツール」を提案させて頂きます。\r\nhttps://github.com/takahiroanno2024/election2024/issues/277",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/309",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 311,
+    "createdAt": "2024-07-04T20:12:17Z",
+    "title": "Update economy.md_スタートアップ企業向け法人都民税の減免",
+    "body": "#298 のIssueで取り上げた減税観点での経済政策案を複数検討、また各所へのヒアリングを行った結果、\r\n「スタートアップ向け法人都民税の創業一定期間（5年間程度）減税」\r\nについては企業誘致・企業成長に資すると判断したためPRとしてあげます。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/311",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 312,
+    "createdAt": "2024-07-04T20:19:59Z",
+    "title": "障害福祉に関する記述の修正",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/312",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  }
+]

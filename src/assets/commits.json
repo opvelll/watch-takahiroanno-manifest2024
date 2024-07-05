@@ -1,5 +1,169 @@
 [
   {
+    "oid": "f1a3a2eafaf1a24bc42924f202cb743d144341a8",
+    "message": "Merge pull request #301 from sawa-h/patch-4",
+    "committedDate": "2024-07-05T01:13:06Z",
+    "author": {
+      "name": "takahiroanno",
+      "email": "annyotaka@gmail.com"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/f1a3a2eafaf1a24bc42924f202cb743d144341a8",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 301,
+            "title": "「スタートアップ法人都民税の減税」の予算を追加",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/301",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "sha": "ed0ce67fad4db4c404f07ab52224bd0a218d1f2b",
+        "filename": "docs/manifest/budget.md",
+        "status": "modified",
+        "additions": 4,
+        "deletions": 3,
+        "changes": 7,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/f1a3a2eafaf1a24bc42924f202cb743d144341a8/docs%2Fmanifest%2Fbudget.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/f1a3a2eafaf1a24bc42924f202cb743d144341a8/docs%2Fmanifest%2Fbudget.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fbudget.md?ref=f1a3a2eafaf1a24bc42924f202cb743d144341a8",
+        "patch": "@@ -10,12 +10,13 @@\n \n ## 政策の5本柱実現にかかる予算規模概算\n \n-- 政策の5本柱で上げた施策の実現は、導入時に約513億円、その後の維持・運営費に最大170億円／年程度がかかる見込み\n+- 政策の5本柱で上げた施策の実現は、導入時に約523億円、その後の維持・運営費に最大180億円／年程度がかかる見込み\n     - 最も予算を要するのは2本目の柱である「とことん安心の医療・防災」で、導入に約275億円、維持・運営に約52.5億円/年を想定\n - 都の一般会計は令和6年度で約8.5兆円。その大きな予算配分を変えることなく、全体の1%未満で現在打ち出している新規政策は実現可能\n-- 経済：新産業で所得倍増　導入2.2億円、維持・運営6億円/年\n-    - 都立インターナショナルスクールの誘致（企画費・授業料補助等）：導入4億円、維持・運営3億円/年\n+- 経済：新産業で所得倍増　導入32億円、維持・運営16億円/年\n     - 自動運転特区の実現：導入18億円、運営3億円/年\n+    - スタートアップの法人都民税減税：10億円/年\n+    - 都立インターナショナルスクールの誘致（企画費・授業料補助等）：導入4億円、維持・運営3億円/年\n     - ほか施策については、追加予算ではなく現行の予算内で取り組み内容を変更\n - 医療・防災：とことん安心の医療・防災　導入272.5億円、維持・運営52.5億円/年\n     - 夜間休日の医療体制構築：導入91.4億円、維持・運営35億円/年"
+      }
+    ]
+  },
+  {
+    "oid": "40f218057998a3ac7c4190cbb044f4671745ea78",
+    "message": "Merge pull request #311 from takahiroanno2024/hiro4nemo10-patch-1",
+    "committedDate": "2024-07-05T01:11:34Z",
+    "author": {
+      "name": "takahiroanno",
+      "email": "annyotaka@gmail.com"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/40f218057998a3ac7c4190cbb044f4671745ea78",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 311,
+            "title": "Update economy.md_スタートアップ企業向け法人都民税の減免",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/311",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "sha": "bdb658f7ba235ec9ba03661c52940910975a57f7",
+        "filename": "docs/manifest/economy.md",
+        "status": "modified",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/40f218057998a3ac7c4190cbb044f4671745ea78/docs%2Fmanifest%2Feconomy.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/40f218057998a3ac7c4190cbb044f4671745ea78/docs%2Fmanifest%2Feconomy.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Feconomy.md?ref=40f218057998a3ac7c4190cbb044f4671745ea78",
+        "patch": "@@ -88,6 +88,7 @@\n     - 研究開発機関/スタートアップ拠点を集積\n         - 東京都内の既存の大学や研究機関と連携\n         - スタートアップグローバルキャンパス構想＠恵比寿との連携\n+        - スタートアップ企業向け法人都民税の一定期間減免\n     - 東京を国際的な技術革新の中心地とする\n         - スタートアップや成長産業の関係者が、世界中から東京に集まるイベントの開催\n     - 上記の結果として、都内の企業の全体的なレベルアップ＆海外投資家の誘致（ミドル/レイターステージでの資金注入）を実現"
+      }
+    ]
+  },
+  {
+    "oid": "c388f154e8ee94cdc2c83aeec05c2deae43cc21b",
+    "message": "障害福祉に関する記述の修正",
+    "committedDate": "2024-07-04T20:19:54Z",
+    "author": {
+      "name": "micthell712",
+      "email": "llehctim.k@gmail.com"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/c388f154e8ee94cdc2c83aeec05c2deae43cc21b",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 312,
+            "title": "障害福祉に関する記述の修正",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/312",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "sha": "cd74a0c49b756d85899446c1258015c599392dc9",
+        "filename": "docs/manifest/others.md",
+        "status": "modified",
+        "additions": 19,
+        "deletions": 11,
+        "changes": 30,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/c388f154e8ee94cdc2c83aeec05c2deae43cc21b/docs%2Fmanifest%2Fothers.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/c388f154e8ee94cdc2c83aeec05c2deae43cc21b/docs%2Fmanifest%2Fothers.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fothers.md?ref=c388f154e8ee94cdc2c83aeec05c2deae43cc21b",
+        "patch": "@@ -35,27 +35,35 @@\n \n ## 障害福祉\n - 特別な配慮が必要な児童の数は増えてきている\n-    - 通級による指導を受けている児童も増加傾向にあり、現在は134,185人（令和1年時点）\n-    - 通常の学級に在籍する小中学生の8.8%に学習や行動に困難のある発達障害の可能性がある\n-- 社会側の障害をなくしていくために、専門職の方々の生産性向上・ステークホルダーの連携強化・テクノロジーの活用を進める必要がある\n+    - 小中学校で通級指導教室（通常の授業のなかで困難を感じる児童に対し、特性などに配慮した指導を受けることができる制度）に通う生徒は増加し続け、現在は164,697人いる\n+    - 学習や行動に困難のある発達障害の可能性がある小中学生の割合は増加し、2022年には8.8%に。\n+35人学級に3人いる計算に。\n+- 社会側の障害をなくすために、人・テクノロジーの相乗効果を目指す\n     - 一人ひとりの特性やお困りに合わせて、どのような支援が必要かを見立てること・心理面も含めた支援に対しては、専門職の力が不可欠\n-        - 福祉従事者の方の待遇改善\n+        - エッセンシャルワーカーの方の待遇改善\n         - 手続き面でのさらなるDXの検討\n-    - ステークホルダーの連携強化\n+    - 福祉に閉じず障害のある子を支えるステークホルダーの連携を強化することで、より効果的な支援を実現\n         - 学校現場での支援者を増やすため、「特別支援教育支援員」の採用に対して補助\n         - 学校・福祉事業所・医療機関等、関係機関間での連携強化を支援\n-    - テクノロジーの活用\n+    - 困りごとを減らしたり、自分の興味を追求するために効果的なテクノロジーとの出会いの実現\n+        -　　障害者手帳のデジタル化\n         - 効果的なツールのデータベース化\n         - 活用方法や、キャリアづくりのためのロールモデルとのマッチング\n - 福祉事業者を含むエッセンシャルワーカーの待遇改善\n     - 処遇改善加算算定時に、都からさらに助成金を追加する\n     - 住宅補助の拡充\n     - DXの一層の進展のために、導入時にICT支援を派遣する    \n - テクノロジーは、マッチング・ロールモデルとセットで届けていく\n-    - 効果的なテクノロジー活用例\n-        - 場面緘黙の方に向けて会話支援AIツール Be Free\n-        - 発達障害の方に向けたサポートツール goblin.tools\n+    -　障害者手帳のデジタル化\n+        -　障害者手帳等のマイナンバーカード搭載\n+        - 都・市区町村が実施主体となる医療費助成（指定難病・自立支援医療等）に係る医療証等のマイナンバーカード搭載を早期に実施\n+        - 都営交通無料乗車券のスマートフォン搭載\n+    - 効果的なテクノロジーデータベース化\n+        - 以下のようなツールを、それぞれの特性・困りごとに応じて検索できるようにする\n+            - 場面緘黙の方に向けて会話支援AIツール Be Free\n+            - 発達障害の方に向けたサポートツール goblin.tools\n     - それぞれの特性・困りごとに検索ができるデータベースを都のイニシアチブで整理\n         - 助成事業として実施されたことはあるが継続性が担保されないので、都として支援\n-    - ツールの活用しながら、どのようにキャリアを積んできたかについて見通し不安をなくすロールモデルとの出会い\n-        - オンラインでのメンタリングを支援\n+    - ロールモデルとのマッチング\n+        - 「特性に応じて、どのようなツールを使うといいか」「どうやって自分の関心を深めたか」について相談できるロールモデルとのマッチング\n+        - オンラインでのメンタリングを支援していく"
+      }
+    ]
+  },
+  {
+    "oid": "bb7676f9ab80855732c90a722f53bf92374aab69",
+    "message": "Update economy.md_スタートアップ企業向け法人都民税の減免\n\n減税観点での経済政策案を複数検討した結果、\r\n「スタートアップ向け法人都民税の創業一定期間（5年間程度）減税」\r\nについては企業誘致・企業成長に資すると判断したため提案します。",
+    "committedDate": "2024-07-04T19:50:33Z",
+    "author": {
+      "name": "hiro4nemo10",
+      "email": "52875812+hiro4nemo10@users.noreply.github.com"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/bb7676f9ab80855732c90a722f53bf92374aab69",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 311,
+            "title": "Update economy.md_スタートアップ企業向け法人都民税の減免",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/311",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "sha": "bdb658f7ba235ec9ba03661c52940910975a57f7",
+        "filename": "docs/manifest/economy.md",
+        "status": "modified",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/bb7676f9ab80855732c90a722f53bf92374aab69/docs%2Fmanifest%2Feconomy.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/bb7676f9ab80855732c90a722f53bf92374aab69/docs%2Fmanifest%2Feconomy.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Feconomy.md?ref=bb7676f9ab80855732c90a722f53bf92374aab69",
+        "patch": "@@ -88,6 +88,7 @@\n     - 研究開発機関/スタートアップ拠点を集積\n         - 東京都内の既存の大学や研究機関と連携\n         - スタートアップグローバルキャンパス構想＠恵比寿との連携\n+        - スタートアップ企業向け法人都民税の一定期間減免\n     - 東京を国際的な技術革新の中心地とする\n         - スタートアップや成長産業の関係者が、世界中から東京に集まるイベントの開催\n     - 上記の結果として、都内の企業の全体的なレベルアップ＆海外投資家の誘致（ミドル/レイターステージでの資金注入）を実現"
+      }
+    ]
+  },
+  {
     "oid": "ff90e0d8ec39cee3f5c5e815052d85942b426c1c",
     "message": "行政パートの構成見直し\n\n視認性向上のため行政パートの構成を変えています。\r\n①各コンポーネントの中身は基本的に変えていません\r\n②現状認識と施策・方向性パートを明確に分けました\r\n→施策パートにあった、意思決定上の課題・組織上の課題をひとくくりにし、現状認識パートに挿入\r\n→施策・方向性パートは施策・方向性のみの記載にし、視認性向上",
     "committedDate": "2024-07-04T15:40:56Z",
@@ -37,6 +201,47 @@
         "raw_url": "https://github.com/takahiroanno2024/election2024/raw/ff90e0d8ec39cee3f5c5e815052d85942b426c1c/docs%2Fmanifest%2Fadministration.md",
         "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fadministration.md?ref=ff90e0d8ec39cee3f5c5e815052d85942b426c1c",
         "patch": "@@ -35,6 +35,26 @@\n - 各行政分野でもデジタル化の取り組みが進められている\n     - 都庁各局では[シン・トセイ](https://shintosei.metro.tokyo.lg.jp/)により現場レベルでのDXが推進。子育て、教育、防災など様々な分野でデジタル技術を活用したサービスの開発が進められている\n \n+## 他方、行政運営上の課題は残っている\n+\n+- 意思決定上の課題\n+    - 行政DX\n+        - 都として様々な取組が実施されているものの課題は残存\n+        - インタビューした都庁職員の声：GovTech全体の組織は大きくなっているが、エンジニアの比重は少なく、絶対数が足りていない\n+        - インタビューした都庁職員の声：内部手続きが多く、政策を考える十分な時間が確保できていない。また、整備された基盤に都政のトップの理解が追いついていない\n+    - 意思決定プロセス\n+        - 住民意思の汲み取りは4年に1回の選挙が中心\n+        - 住民の思いを幅広く拾い意思決定に反映する仕組みはない\n+    - 予算や人員の配分\n+        - 現都政では行革により財源をねん出。子育て施策をはじめ様々な施策を実施\n+        - 他方、都民の満足度、実感には上手く繋がっていない\n+- 組織上の課題：必要なところに十分な人員を配置できていない。\n+    - インタビューした都庁職員の声：デジタル化は進んでいるが、決裁・レクなど内部手続の負担が大きい\n+    - インタビューした都庁職員の声：組織階層が深く(局の下に部がある構成)意思決定のスピードが遅い\n+    - インタビューした都庁職員の声：政策立案に十分なリソースを割けていない。政策立案自体よりもバックデータ作りや裏付け(都民の声、報道など)探しの作業に忙殺。\n+    - 結果、職場としての魅力がうすれ、東京都の採用試験の応募者数は2015年の2024人から、2022年委は697人にまで大幅に減少\n+    - 政策立案や住民福祉の向上など必要な部門に十分な人員配置ができていない可能性\n+ \n ## これまでの取組を前に進め、住民満足を更に高めることが重要\n \n - デジタル化を更に進める上での課題\n@@ -158,22 +178,11 @@\n \n ## 技術に精通したリーダーによる行政運営の高度化\n \n-- 東京都の前進のためには更なる行政運営の高度化が必要\n-    - 行政DX\n-        - 都として様々な取組が実施されているものの課題は残存\n-        - インタビューした都庁職員の声：GovTech全体の組織は大きくなっているが、エンジニアの比重は少なく、絶対数が足りていない\n-        - インタビューした都庁職員の声：内部手続きが多く、政策を考える十分な時間が確保できていない。また、整備された基盤に都政のトップの理解が追いついていない\n-    - 意思決定プロセス\n-        - 住民意思の汲み取りは4年に1回の選挙が中心\n-        - 住民の思いを幅広く拾い意思決定に反映する仕組みはない\n-    - 予算や人員の配分\n-        - 現都政では行革により財源をねん出。子育て施策をはじめ様々な施策を実施\n-        - 他方、都民の満足度、実感には上手く繋がっていない\n - デジタルに精通したリーダーだから取り組めること\n     - テクノロジーの実装の一層の推進\n         - テクノロジーの実装は大きな変革を生む\n         - テクノロジーのに精通したリーダーだからこそ一層の社会実装が可能に\n-- デジタル人材の活用、例えば元都庁職員の出戻り推進  \n+        - デジタル人材の活用、例えば元都庁職員の出戻り推進  \n     - 意思決定プロセスの変革\n         - 政策の決定方法(＝意思決定プロセス)の見直しはトップだからこそ可能\n         - ブロードリスニングによる住民意思の汲み取りと政策決定への反映の仕組み化\n@@ -185,13 +194,9 @@\n \n ## 構造改革の推進による実行力のある組織づくり\n \n-- 現状、都の構造改革は未徹底。必要なところに十分な人員を配置できていない。\n-    - インタビューした都庁職員の声：デジタル化は進んでいるが、決裁・レクなど内部手続の負担が大きい\n-    - インタビューした都庁職員の声：組織階層が深く(局の下に部がある構成)意思決定のスピードが遅い\n-    - インタビューした都庁職員の声：政策立案に十分なリソースを割けていない。政策立案自体よりもバックデータ作りや裏付け(都民の声、報道など)探しの作業に忙殺。\n-    - 結果、職場としての魅力がうすれ、東京都の採用試験の応募者数は2015年の2024人から、2022年委は697人にまで大幅に減少\n-    - 政策立案や住民福祉の向上など必要な部門に十分な人員配置ができていない可能性\n-- 更なる働き方改革、業務効率化、組織の見直しによる魅力ある職場づくりと実行体制の充実\n-    - データ基盤の整備やブロードリスニングによる恒常的な住民意思の汲み取りにより突発的ななリサーチ業務を減らす\n-    - 業務状況の可視化を行った上で、組織・権限範囲の見直しを行うことによる意思決定のスピード向上\n-    - デジタル化の徹底による内部手続の効率化推進\n+- 構造改革・働き方改革の更なる徹底\n+    - 情報の流れの見直し：データ基盤の整備やブロードリスニングによる恒常的な住民意思の汲み取りにより突発的ななリサーチ業務を減らす\n+    - 組織の見直し：業務状況の可視化を行った上で、組織・権限範囲の見直しを行うことによる意思決定のスピード向上\n+    - 内部手続デジタル化：デジタル化の徹底による内部手続の効率化推進\n+- 構造改革の成果を住民福祉の向上に配分\n+    - 構造改革・働き方改革の成果を教育・子育て、福祉、災害対応、住民対応など「誰も取り残さない」施策に配分"
+      }
+    ]
+  },
+  {
+    "oid": "dc2d73096190c59df6d68c50a47cad947d630217",
+    "message": "「スタートアップ法人都民税の減税」の予算を追加\n\n・「スタートアップ法人都民税の減税」の予算として、年間10億円を追加。\r\n\r\n・全体の予算額についても、イニシャル・ランニングともに10億円ずつ追加。",
+    "committedDate": "2024-07-04T09:22:34Z",
+    "author": {
+      "name": "sawa",
+      "email": "sawako.hamamichi@gmail.com"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/dc2d73096190c59df6d68c50a47cad947d630217",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 301,
+            "title": "「スタートアップ法人都民税の減税」の予算を追加",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/301",
+            "comments": {
+              "nodes": []
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "sha": "ed0ce67fad4db4c404f07ab52224bd0a218d1f2b",
+        "filename": "docs/manifest/budget.md",
+        "status": "modified",
+        "additions": 4,
+        "deletions": 3,
+        "changes": 7,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/dc2d73096190c59df6d68c50a47cad947d630217/docs%2Fmanifest%2Fbudget.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/dc2d73096190c59df6d68c50a47cad947d630217/docs%2Fmanifest%2Fbudget.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fbudget.md?ref=dc2d73096190c59df6d68c50a47cad947d630217",
+        "patch": "@@ -10,12 +10,13 @@\n \n ## 政策の5本柱実現にかかる予算規模概算\n \n-- 政策の5本柱で上げた施策の実現は、導入時に約513億円、その後の維持・運営費に最大170億円／年程度がかかる見込み\n+- 政策の5本柱で上げた施策の実現は、導入時に約523億円、その後の維持・運営費に最大180億円／年程度がかかる見込み\n     - 最も予算を要するのは2本目の柱である「とことん安心の医療・防災」で、導入に約275億円、維持・運営に約52.5億円/年を想定\n - 都の一般会計は令和6年度で約8.5兆円。その大きな予算配分を変えることなく、全体の1%未満で現在打ち出している新規政策は実現可能\n-- 経済：新産業で所得倍増　導入2.2億円、維持・運営6億円/年\n-    - 都立インターナショナルスクールの誘致（企画費・授業料補助等）：導入4億円、維持・運営3億円/年\n+- 経済：新産業で所得倍増　導入32億円、維持・運営16億円/年\n     - 自動運転特区の実現：導入18億円、運営3億円/年\n+    - スタートアップの法人都民税減税：10億円/年\n+    - 都立インターナショナルスクールの誘致（企画費・授業料補助等）：導入4億円、維持・運営3億円/年\n     - ほか施策については、追加予算ではなく現行の予算内で取り組み内容を変更\n - 医療・防災：とことん安心の医療・防災　導入272.5億円、維持・運営52.5億円/年\n     - 夜間休日の医療体制構築：導入91.4億円、維持・運営35億円/年"
       }
     ]
   },

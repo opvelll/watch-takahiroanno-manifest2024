@@ -11547,7 +11547,7 @@ _No response_
 - [性の話 楽しく正しく　専門家らの「ユースクリニック」来月1周年　悩み相談や教育　埼玉県内イベントで実施](https://www.tokyo-np.co.jp/article/320334)\r
 - [【取材記事】緊急避妊薬と性知識で若者の望まぬ妊娠を防ぐ　誰もが自分の選択を尊重される社会を目指して](https://note.com/mysdg/n/ncba0943dbd12)\r
 - ["しあわせのありか"をさぐる北欧+α旅](https://pilcon-wellbeing.studio.site/)\r
-`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]},updatedAt:"2024-07-04T14:31:04Z"},{title:"同性パートナーシップの価値向上（住民税軽減、事実婚と同等の各種契約のワンストップサービスを無償提供（婚姻届に近づける）など）",number:310,createdAt:"2024-07-04T17:08:03Z",url:"https://github.com/takahiroanno2024/election2024/issues/310",state:"OPEN",body:`### 政策ビジョン\r
+`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"教育・子育て"},{name:"医療・防災"}]},updatedAt:"2024-07-04T14:31:04Z"},{title:"同性パートナーシップの価値向上（住民税軽減、事実婚と同等の各種契約のワンストップサービスを無償提供（婚姻届に近づける）など）",number:310,createdAt:"2024-07-04T17:08:03Z",url:"https://github.com/takahiroanno2024/election2024/issues/310",state:"OPEN",body:`### 政策ビジョン\r
 \r
 その他\r
 \r

@@ -7389,7 +7389,7 @@ https://www.nhk.or.jp/senkyo/database/togisen/2021/questionnaire/
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-06-24T02:58:01Z"},{title:"いたずらや対立潰し、都民であることの確認はどうするのか（荒らし対策について）",number:144,createdAt:"2024-06-24T00:52:40Z",url:"https://github.com/takahiroanno2024/election2024/issues/144",state:"CLOSED",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-05T11:57:20Z"},{title:"いたずらや対立潰し、都民であることの確認はどうするのか（荒らし対策について）",number:144,createdAt:"2024-06-24T00:52:40Z",url:"https://github.com/takahiroanno2024/election2024/issues/144",state:"CLOSED",body:`### 政策ビジョン
 
 民主主義
 
@@ -10110,7 +10110,7 @@ _No response_\r
 ### 自由記述欄\r
 \r
 類似のツイートがあったので置いておきます\r
-https://x.com/yanpoyan/status/1807282292764835963?s=46&t=lMNf_ULI7YQKyuYMSSXqRg`,comments:{totalCount:7},reactions:{totalCount:6},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-04T16:40:43Z"},{title:"LGBTQ＋カップルにおける妊娠時の助成について",number:252,createdAt:"2024-06-30T17:04:44Z",url:"https://github.com/takahiroanno2024/election2024/issues/252",state:"OPEN",body:`### 政策ビジョン\r
+https://x.com/yanpoyan/status/1807282292764835963?s=46&t=lMNf_ULI7YQKyuYMSSXqRg`,comments:{totalCount:7},reactions:{totalCount:7},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-04T16:40:43Z"},{title:"LGBTQ＋カップルにおける妊娠時の助成について",number:252,createdAt:"2024-06-30T17:04:44Z",url:"https://github.com/takahiroanno2024/election2024/issues/252",state:"OPEN",body:`### 政策ビジョン\r
 \r
 教育・子育て\r
 \r
@@ -10305,7 +10305,7 @@ https://emergency.heralbony.jp/
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"医療・防災"}]},updatedAt:"2024-07-01T14:07:06Z"},{title:"エッセンシャルワーカーの待遇改善・業務効率化に向けた施策について",number:261,createdAt:"2024-07-02T08:49:19Z",url:"https://github.com/takahiroanno2024/election2024/issues/261",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{name:"医療・防災"}]},updatedAt:"2024-07-01T14:07:06Z"},{title:"エッセンシャルワーカーの待遇改善・業務効率化に向けた施策について",number:261,createdAt:"2024-07-02T08:49:19Z",url:"https://github.com/takahiroanno2024/election2024/issues/261",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 
@@ -10513,7 +10513,7 @@ _No response_`,comments:{totalCount:2},reactions:{totalCount:9},labels:{nodes:[{
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:4},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-02T16:14:37Z"},{title:"都政参加プラットフォームにて、「本人確認された都民である属性」の表示",number:272,createdAt:"2024-07-02T17:34:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/272",state:"OPEN",body:`### 政策ビジョン\r
+_No response_`,comments:{totalCount:1},reactions:{totalCount:4},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-05T11:40:47Z"},{title:"都政参加プラットフォームにて、「本人確認された都民である属性」の表示",number:272,createdAt:"2024-07-02T17:34:52Z",url:"https://github.com/takahiroanno2024/election2024/issues/272",state:"OPEN",body:`### 政策ビジョン\r
 \r
 民主主義\r
 \r
@@ -11482,7 +11482,7 @@ https://ten-navi.com/hacks/article-31-11273
 
 ### 自由記述欄
 
-初めての投稿です。よろしくお願いします。`,comments:{totalCount:2},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-05T10:55:24Z"},{title:"障碍者や高齢者が住みやすい都営住宅の改良と拡充",number:303,createdAt:"2024-07-04T11:55:55Z",url:"https://github.com/takahiroanno2024/election2024/issues/303",state:"OPEN",body:`### 政策ビジョン
+初めての投稿です。よろしくお願いします。`,comments:{totalCount:3},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-05T11:46:14Z"},{title:"障碍者や高齢者が住みやすい都営住宅の改良と拡充",number:303,createdAt:"2024-07-04T11:55:55Z",url:"https://github.com/takahiroanno2024/election2024/issues/303",state:"OPEN",body:`### 政策ビジョン
 
 行政
 

@@ -11034,7 +11034,7 @@ https://note.com/hal_sk/n/nc9df8b8fd765
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:8},reactions:{totalCount:8},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-05T10:57:41Z"},{title:"妊婦へのRSウイルスワクチンの公費助成",number:283,createdAt:"2024-07-03T10:53:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/283",state:"CLOSED",body:`### 政策ビジョン\r
+_No response_`,comments:{totalCount:9},reactions:{totalCount:8},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-05T12:06:58Z"},{title:"妊婦へのRSウイルスワクチンの公費助成",number:283,createdAt:"2024-07-03T10:53:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/283",state:"CLOSED",body:`### 政策ビジョン\r
 \r
 医療・防災, 教育・子育て\r
 \r

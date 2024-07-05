@@ -6,7 +6,7 @@ import ErrorPage from "./pages/ErrorPage";
 import HeaderMenu from "./pages/HeaderMenu";
 import Issues from "./pages/Issues";
 import PullRequests from "./pages/PullRequests";
-
+import MargedPullRequests from "./pages/MergedPullRequests";
 
 function App() {
 
@@ -28,6 +28,10 @@ function App() {
         {
           path: '/pullRequests',
           element: <PullRequests />,
+        },
+        {
+          path: '/mergedPullRequests',
+          element: <MargedPullRequests />,
         },
         {
           path: '/commits',

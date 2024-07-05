@@ -11696,7 +11696,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"民主主義"}]},updatedAt:"2024-07-05T06:02:00Z"},{title:"選挙権年齢の引き下げ",number:314,createdAt:"2024-07-05T08:38:42Z",url:"https://github.com/takahiroanno2024/election2024/issues/314",state:"CLOSED",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"民主主義"}]},updatedAt:"2024-07-05T06:02:00Z"},{title:"選挙権年齢の引き下げ",number:314,createdAt:"2024-07-05T08:38:42Z",url:"https://github.com/takahiroanno2024/election2024/issues/314",state:"CLOSED",body:`### 政策ビジョン
 
 民主主義
 

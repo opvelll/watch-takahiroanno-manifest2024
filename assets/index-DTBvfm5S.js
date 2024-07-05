@@ -7059,7 +7059,7 @@ https://www.sankei.com/article/20240313-RERF3SDMLZOP7PNDTVOVNXXX24/`,comments:{t
 https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-children.html\r
 家賃の高騰について\r
 https://www.nhk.or.jp/shutoken/wr/20230307a.html\r
-`,comments:{totalCount:3},reactions:{totalCount:0},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-05T10:56:12Z"},{title:"諸外国からの投資と高度技能人材の誘致",number:132,createdAt:"2024-06-23T11:05:51Z",url:"https://github.com/takahiroanno2024/election2024/issues/132",state:"OPEN",body:`## 政策ビジョン\r
+`,comments:{totalCount:4},reactions:{totalCount:0},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-05T11:06:27Z"},{title:"諸外国からの投資と高度技能人材の誘致",number:132,createdAt:"2024-06-23T11:05:51Z",url:"https://github.com/takahiroanno2024/election2024/issues/132",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!--\r
 該当する政策カテゴリを一つ選んで、[X]のように括弧内にXと入力してください。\r
@@ -11261,7 +11261,7 @@ https://100nen-jikkoui.blogspot.com/2024/06/2024.html?m=1\r
 \r
 これは、式典への追悼文の送付ではない方法も含めて、就任後に都民や関係者とも議論しながら形づくっていく考え（その結果として追悼文送付の方法をとる可能性も排除しない）であると理解しています。\r
 \r
-特定の思想をもっている候補者や政治家として関係者との接触をもってきた小池氏や蓮舫氏であれば、すでにそれぞれの「結論」に達しているのでしょう。しかし、安野氏による関係者との折衝はこれからであり、是非を問う形式のアンケートは、答えづらいものや字数制限から真意が伝わりづらいものもあるかと思います。このため、アンケートへの回答内容に加えて、その補足や背景説明等も掲載できれば、より良いのではないかと思います。`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"その他"}]},updatedAt:"2024-07-04T06:59:49Z"},{title:"子育て支援について",number:296,createdAt:"2024-07-04T03:36:58Z",url:"https://github.com/takahiroanno2024/election2024/issues/296",state:"OPEN",body:`### 政策ビジョン\r
+特定の思想をもっている候補者や政治家として関係者との接触をもってきた小池氏や蓮舫氏であれば、すでにそれぞれの「結論」に達しているのでしょう。しかし、安野氏による関係者との折衝はこれからであり、是非を問う形式のアンケートは、答えづらいものや字数制限から真意が伝わりづらいものもあるかと思います。このため、アンケートへの回答内容に加えて、その補足や背景説明等も掲載できれば、より良いのではないかと思います。`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{name:"その他"}]},updatedAt:"2024-07-04T06:59:49Z"},{title:"子育て支援について",number:296,createdAt:"2024-07-04T03:36:58Z",url:"https://github.com/takahiroanno2024/election2024/issues/296",state:"OPEN",body:`### 政策ビジョン\r
 \r
 教育・子育て\r
 \r

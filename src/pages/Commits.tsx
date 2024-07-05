@@ -21,10 +21,6 @@ export default function Commits() {
                 <ExternalLinkButton
                     url="https://manifest.takahiroanno.com/"
                     text="安野たかひろ：都知事選2024マニフェスト" />
-                <ExternalLinkButton
-                    url='https://github.com/takahiroanno2024/election2024/blob/main/docs/manual_pull_request.md'
-                    text='変更提案(Pull Request)の仕方はこちら' />
-
             </div>
 
             <div className="p-4 bg-white rounded-8">

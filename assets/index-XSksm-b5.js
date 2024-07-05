@@ -11670,7 +11670,7 @@ _No response_
 \r
 ### 必要だと思ったきっかけ\r
 \r
-私自身が当事者として、切実に困っているから`,comments:{totalCount:1},reactions:{totalCount:3},labels:{nodes:[{name:"その他"}]},updatedAt:"2024-07-05T01:22:04Z"},{title:"都知事選の当落にかかわらず、本レポ、あるいは相当するものの運営を続けて欲しい",number:313,createdAt:"2024-07-05T06:01:48Z",url:"https://github.com/takahiroanno2024/election2024/issues/313",state:"OPEN",body:`### 政策ビジョン
+私自身が当事者として、切実に困っているから`,comments:{totalCount:1},reactions:{totalCount:4},labels:{nodes:[{name:"その他"}]},updatedAt:"2024-07-05T01:22:04Z"},{title:"都知事選の当落にかかわらず、本レポ、あるいは相当するものの運営を続けて欲しい",number:313,createdAt:"2024-07-05T06:01:48Z",url:"https://github.com/takahiroanno2024/election2024/issues/313",state:"OPEN",body:`### 政策ビジョン
 
 民主主義
 

@@ -24,7 +24,7 @@ export default function Home() {
             </div>
             <div className="space-y-6">
                 <div className="bg-white rounded-8  space-y-8 p-6  flex flex-col items-center">
-                    <div className="text-std-32B-5">
+                    <div className="text-std-28B-5 md:text-std-32B-5">
                         安野たかひろのマニフェストGitHubを眺めるサイト
                     </div>
                     <div>
@@ -61,7 +61,7 @@ export default function Home() {
                             href="https://github.com/takahiroanno2024/election2024/issues?q=is%3Aopen+label%3A%E7%B5%8C%E6%B8%88%2C%E5%8C%BB%E7%99%82%E3%83%BB%E9%98%B2%E7%81%BD%2C%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%90%E8%82%B2%E3%81%A6%2C%E8%A1%8C%E6%94%BF%2C%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%2C%E3%81%9D%E3%81%AE%E4%BB%96" target="_blank" rel="noopener noreferrer"
                             className="text-primary underline">最新のIssue</a>
                     </div>
-                    <div className="space-y-2">
+                    <div className="space-y-0 md:space-y-2">
                         {latestIssues.map((issue, idx) => (
                             <Fragment key={idx}>
                                 <IssueCard key={idx} issue={issue} />

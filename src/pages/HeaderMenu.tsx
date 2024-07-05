@@ -8,10 +8,11 @@ export default function HeaderMenu() {
     const navigate = useNavigate();
 
     const items = [
-        { key: '/', label: 'このサイトについて' },
-        { key: '/issues', label: '課題提起一覧(Issues)' },
-        // { key: '/pullRequests', label: '変更提案一覧(PullRequests)' },
-        { key: '/commits', label: '反映履歴一覧(Commits)' },
+        { key: '/', label: 'サイトについて' },
+        { key: '/issues', label: '課題提起(Issues)' },
+        { key: '/pullRequests', label: '変更提案(PullRequests)' },
+        { key: '/mergedPullRequests', label: '取り込み済み提案' },
+        { key: '/commits', label: '反映履歴(Commits)' },
     ]
 
     const handleMenuClick: MenuProps['onClick'] = (e) => {

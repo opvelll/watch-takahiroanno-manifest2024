@@ -2,13 +2,27 @@
 import DiffViewer, { DiffMethod } from 'react-diff-viewer';
 import { formatDate } from '../lib/formatData';
 import { Fragment } from 'react/jsx-runtime';
+import { openInNewTab } from '../lib/openInNewTab';
+import { useEffect, useState } from 'react';
 // import issues from '../assets/issues.json';
+
+const isMobile = () => window.innerWidth <= 768;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default function CommitCard({ commit }: { commit: any }) {
-    const openInNewTab = (url: string) => {
-        window.open(url, '_blank', 'noopener,noreferrer');
-    };
+    // splitViewの状態を管理
+    const [splitView, setSplitView] = useState(!isMobile());
 
+    useEffect(() => {
+        // 画面サイズが変わった時にsplitViewを更新
+        const handleResize = () => {
+            setSplitView(!isMobile());
+        };
+
+        window.addEventListener('resize', handleResize);
+
+        // コンポーネントがアンマウントされた時にイベントリスナーを削除
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
     // const getIssues = (commitMessage: string) => {
     //     const issueNumbers = commitMessage.match(/#[0-9]+/g);
     //     if (issueNumbers) {
@@ -27,7 +41,7 @@ export default function CommitCard({ commit }: { commit: any }) {
                     <div className='text-mono-14N-5 text-slate-500'>
                         {formatDate(commit.committedDate)}
                     </div>
-                    <div className="text-std-16N-7 py-1 hover:text-std-16M-7 hover:cursor-pointer">
+                    <div className="text-std-16N-7 py-1 hover:text-std-16B-7 hover:cursor-pointer">
                         {commit.message}
                     </div>
                 </div>
@@ -74,7 +88,7 @@ export default function CommitCard({ commit }: { commit: any }) {
                             {file.patch && <DiffViewer
                                 oldValue={file.patch.split('\n').filter((line: string) => line.startsWith('-')).join('\n')}
                                 newValue={file.patch.split('\n').filter((line: string) => line.startsWith('+')).join('\n')}
-                                splitView={true}
+                                splitView={splitView}
                                 hideLineNumbers={true}
                                 compareMethod={DiffMethod.WORDS}
                                 styles={{

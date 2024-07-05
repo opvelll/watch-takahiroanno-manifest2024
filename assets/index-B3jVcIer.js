@@ -4752,7 +4752,7 @@ https://woman.nikkei.com/atcltrc/blog/inouemegumu/post/ea463b99fd0e40a3863b99fd0
 https://toyokeizai.net/articles/-/170881\r
 \r
 住居高騰、東京去る子育て世帯　公営活用も募集枠に限り\r
-https://www.nikkei.com/article/DGXZQOCC235HE0T20C24A5000000/`,comments:{totalCount:6},reactions:{totalCount:25},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-05T09:23:13Z"},{title:"先端技術と伝統文化の調和",number:39,createdAt:"2024-06-21T15:36:32Z",url:"https://github.com/takahiroanno2024/election2024/issues/39",state:"OPEN",body:`## 政策ビジョン\r
+https://www.nikkei.com/article/DGXZQOCC235HE0T20C24A5000000/`,comments:{totalCount:6},reactions:{totalCount:25},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-05T10:43:25Z"},{title:"先端技術と伝統文化の調和",number:39,createdAt:"2024-06-21T15:36:32Z",url:"https://github.com/takahiroanno2024/election2024/issues/39",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!-- 一つ選んでください -->\r
 \r
@@ -7059,7 +7059,7 @@ https://www.sankei.com/article/20240313-RERF3SDMLZOP7PNDTVOVNXXX24/`,comments:{t
 https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-children.html\r
 家賃の高騰について\r
 https://www.nhk.or.jp/shutoken/wr/20230307a.html\r
-`,comments:{totalCount:2},reactions:{totalCount:0},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-05T10:29:49Z"},{title:"諸外国からの投資と高度技能人材の誘致",number:132,createdAt:"2024-06-23T11:05:51Z",url:"https://github.com/takahiroanno2024/election2024/issues/132",state:"OPEN",body:`## 政策ビジョン\r
+`,comments:{totalCount:3},reactions:{totalCount:0},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-05T10:56:12Z"},{title:"諸外国からの投資と高度技能人材の誘致",number:132,createdAt:"2024-06-23T11:05:51Z",url:"https://github.com/takahiroanno2024/election2024/issues/132",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!--\r
 該当する政策カテゴリを一つ選んで、[X]のように括弧内にXと入力してください。\r
@@ -10456,7 +10456,7 @@ _No response_`,comments:{totalCount:2},reactions:{totalCount:9},labels:{nodes:[{
 ### 自由記述欄
 
 初めて投稿するのでこのような形でいいのかわかりません\r
-至らない点があったら申し訳ありません`,comments:{totalCount:3},reactions:{totalCount:0},labels:{nodes:[{name:"duplicated"},{name:"医療・防災"},{name:"その他"}]},updatedAt:"2024-07-02T15:20:57Z"},{title:"特別な支援が必要な児童・生徒への支援のあり方",number:269,createdAt:"2024-07-02T16:14:25Z",url:"https://github.com/takahiroanno2024/election2024/issues/269",state:"OPEN",body:`### 政策ビジョン
+至らない点があったら申し訳ありません`,comments:{totalCount:3},reactions:{totalCount:1},labels:{nodes:[{name:"duplicated"},{name:"医療・防災"},{name:"その他"}]},updatedAt:"2024-07-02T15:20:57Z"},{title:"特別な支援が必要な児童・生徒への支援のあり方",number:269,createdAt:"2024-07-02T16:14:25Z",url:"https://github.com/takahiroanno2024/election2024/issues/269",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 
@@ -11034,7 +11034,7 @@ https://note.com/hal_sk/n/nc9df8b8fd765
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:7},reactions:{totalCount:8},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-05T10:32:04Z"},{title:"妊婦へのRSウイルスワクチンの公費助成",number:283,createdAt:"2024-07-03T10:53:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/283",state:"CLOSED",body:`### 政策ビジョン\r
+_No response_`,comments:{totalCount:8},reactions:{totalCount:8},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-05T10:57:41Z"},{title:"妊婦へのRSウイルスワクチンの公費助成",number:283,createdAt:"2024-07-03T10:53:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/283",state:"CLOSED",body:`### 政策ビジョン\r
 \r
 医療・防災, 教育・子育て\r
 \r
@@ -11482,7 +11482,7 @@ https://ten-navi.com/hacks/article-31-11273
 
 ### 自由記述欄
 
-初めての投稿です。よろしくお願いします。`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-05T08:55:11Z"},{title:"障碍者や高齢者が住みやすい都営住宅の改良と拡充",number:303,createdAt:"2024-07-04T11:55:55Z",url:"https://github.com/takahiroanno2024/election2024/issues/303",state:"OPEN",body:`### 政策ビジョン
+初めての投稿です。よろしくお願いします。`,comments:{totalCount:2},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-05T10:55:24Z"},{title:"障碍者や高齢者が住みやすい都営住宅の改良と拡充",number:303,createdAt:"2024-07-04T11:55:55Z",url:"https://github.com/takahiroanno2024/election2024/issues/303",state:"OPEN",body:`### 政策ビジョン
 
 行政
 

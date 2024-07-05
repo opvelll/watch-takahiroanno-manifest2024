@@ -11343,7 +11343,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T07:03:53Z"},{title:"経済政策、減税観点での提案",number:298,createdAt:"2024-07-04T07:39:07Z",url:"https://github.com/takahiroanno2024/election2024/issues/298",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:4},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T07:03:53Z"},{title:"経済政策、減税観点での提案",number:298,createdAt:"2024-07-04T07:39:07Z",url:"https://github.com/takahiroanno2024/election2024/issues/298",state:"OPEN",body:`### 政策ビジョン
 
 経済
 
@@ -11509,7 +11509,7 @@ _No response_
 
 ### 自由記述欄
 
-問題提起だけにとどまっています。すみません。`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-05T06:13:27Z"},{title:"都内23区を含む主要自治体へのユースクリニックの常設設置",number:306,createdAt:"2024-07-04T14:30:50Z",url:"https://github.com/takahiroanno2024/election2024/issues/306",state:"OPEN",body:`### 政策ビジョン
+問題提起だけにとどまっています。すみません。`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"行政"}]},updatedAt:"2024-07-05T08:03:07Z"},{title:"都内23区を含む主要自治体へのユースクリニックの常設設置",number:306,createdAt:"2024-07-04T14:30:50Z",url:"https://github.com/takahiroanno2024/election2024/issues/306",state:"OPEN",body:`### 政策ビジョン
 
 医療・防災, 教育・子育て
 

@@ -5946,7 +5946,7 @@ https://ja.wikipedia.org/wiki/3S%E6%94%BF%E7%AD%96\r
 \r
 ### 調べたこと（裏付けとなる事実・ファクト）\r
 　　　東京の最低時給　1113円　厚労省サイトよりhttps://jsite.mhlw.go.jp/tokyo-roudoukyoku/hourei_seido_tetsuzuki/_110744/conttop_00001.html\r
-`,comments:{totalCount:0},reactions:{totalCount:9},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-06-22T22:00:50Z"},{title:"東京の道路交通状況を改善する現実的施策",number:101,createdAt:"2024-06-22T22:52:51Z",url:"https://github.com/takahiroanno2024/election2024/issues/101",state:"OPEN",body:`## 政策ビジョン\r
+`,comments:{totalCount:0},reactions:{totalCount:10},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-06-22T22:00:50Z"},{title:"東京の道路交通状況を改善する現実的施策",number:101,createdAt:"2024-06-22T22:52:51Z",url:"https://github.com/takahiroanno2024/election2024/issues/101",state:"OPEN",body:`## 政策ビジョン\r
 \r
 東京の道路交通状況を改善する現実的施策。\r
 \r
@@ -11482,7 +11482,7 @@ https://ten-navi.com/hacks/article-31-11273
 
 ### 自由記述欄
 
-初めての投稿です。よろしくお願いします。`,comments:{totalCount:0},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T09:49:06Z"},{title:"障碍者や高齢者が住みやすい都営住宅の改良と拡充",number:303,createdAt:"2024-07-04T11:55:55Z",url:"https://github.com/takahiroanno2024/election2024/issues/303",state:"OPEN",body:`### 政策ビジョン
+初めての投稿です。よろしくお願いします。`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-05T08:13:09Z"},{title:"障碍者や高齢者が住みやすい都営住宅の改良と拡充",number:303,createdAt:"2024-07-04T11:55:55Z",url:"https://github.com/takahiroanno2024/election2024/issues/303",state:"OPEN",body:`### 政策ビジョン
 
 行政
 

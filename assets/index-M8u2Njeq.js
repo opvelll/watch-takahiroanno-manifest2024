@@ -9855,7 +9855,7 @@ _No response_`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{
 
 ### 自由記述欄
 
-東京都中央区にて区議会議員をやっている者です。新たな選挙戦の取組について、非常に興味深く拝見していただいております。暑い中本当に大変かと思いますが、残りの選挙戦頑張ってください。`,comments:{totalCount:5},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T23:21:32Z"},{title:"海洋資源活用の促進",number:240,createdAt:"2024-06-29T23:45:34Z",url:"https://github.com/takahiroanno2024/election2024/issues/240",state:"OPEN",body:`### 政策ビジョン
+東京都中央区にて区議会議員をやっている者です。新たな選挙戦の取組について、非常に興味深く拝見していただいております。暑い中本当に大変かと思いますが、残りの選挙戦頑張ってください。`,comments:{totalCount:5},reactions:{totalCount:3},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T23:21:32Z"},{title:"海洋資源活用の促進",number:240,createdAt:"2024-06-29T23:45:34Z",url:"https://github.com/takahiroanno2024/election2024/issues/240",state:"OPEN",body:`### 政策ビジョン
 
 経済
 

@@ -10502,7 +10502,7 @@ _No response_`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:2},reactions:{totalCount:10},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T07:21:45Z"},{title:"心療にまつわる雇用や相談できる相談窓口の人員増加、リスキリングの対象にすること",number:266,createdAt:"2024-07-02T12:55:46Z",url:"https://github.com/takahiroanno2024/election2024/issues/266",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:2},reactions:{totalCount:11},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T07:21:45Z"},{title:"心療にまつわる雇用や相談できる相談窓口の人員増加、リスキリングの対象にすること",number:266,createdAt:"2024-07-02T12:55:46Z",url:"https://github.com/takahiroanno2024/election2024/issues/266",state:"OPEN",body:`### 政策ビジョン
 
 医療・防災, その他
 
@@ -10926,7 +10926,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:1},reactions:{totalCount:0},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-06T04:49:19Z"},{title:"安野さんの服装について",number:279,createdAt:"2024-07-03T07:07:47Z",url:"https://github.com/takahiroanno2024/election2024/issues/279",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:2},reactions:{totalCount:0},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-07-06T08:17:51Z"},{title:"安野さんの服装について",number:279,createdAt:"2024-07-03T07:07:47Z",url:"https://github.com/takahiroanno2024/election2024/issues/279",state:"OPEN",body:`### 政策ビジョン
 
 その他
 
@@ -11696,7 +11696,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:4},labels:{nodes:[{name:"民主主義"}]},updatedAt:"2024-07-05T06:02:00Z"},{title:"選挙権年齢の引き下げ",number:314,createdAt:"2024-07-05T08:38:42Z",url:"https://github.com/takahiroanno2024/election2024/issues/314",state:"CLOSED",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:1},reactions:{totalCount:4},labels:{nodes:[{name:"民主主義"}]},updatedAt:"2024-07-06T08:17:56Z"},{title:"選挙権年齢の引き下げ",number:314,createdAt:"2024-07-05T08:38:42Z",url:"https://github.com/takahiroanno2024/election2024/issues/314",state:"CLOSED",body:`### 政策ビジョン
 
 民主主義
 

@@ -11696,7 +11696,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"民主主義"}]},updatedAt:"2024-07-05T06:02:00Z"},{title:"選挙権年齢の引き下げ",number:314,createdAt:"2024-07-05T08:38:42Z",url:"https://github.com/takahiroanno2024/election2024/issues/314",state:"CLOSED",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{name:"民主主義"}]},updatedAt:"2024-07-05T06:02:00Z"},{title:"選挙権年齢の引き下げ",number:314,createdAt:"2024-07-05T08:38:42Z",url:"https://github.com/takahiroanno2024/election2024/issues/314",state:"CLOSED",body:`### 政策ビジョン
 
 民主主義
 
@@ -12125,7 +12125,7 @@ Issue フォームの詳細は GitHub Docs をご覧いただければと思い�
 エンコーディングされていないURLを認識してくれないmarkdownの処理系もありそうだったので、名前付きリンクとして見た目だけデコードした状態にしました。`,url:"https://github.com/takahiroanno2024/election2024/pull/145",state:"MERGED",comments:{nodes:[]},timelineItems:{nodes:[]}},{number:148,createdAt:"2024-06-24T02:47:17Z",title:"ラベル付与判定の正規表現を更新",body:"Issueテンプレートが使用されるようになった (https://github.com/takahiroanno2024/election2024/pull/138) ため、ラベル付与判定の正規表現を更新",url:"https://github.com/takahiroanno2024/election2024/pull/148",state:"MERGED",comments:{nodes:[]},timelineItems:{nodes:[]}},{number:151,createdAt:"2024-06-24T06:01:05Z",title:"ギガスクールで使うPCやデバイスのスペック目安の策定と入れ替え実施[Update education.md]",body:`linked below issue\r
 \r
 ギガスクールで配布しているPCをもっと現実的なスペックやメーカのものに入れ替えてほしい #10\r
-https://github.com/takahiroanno2024/election2024/issues/10`,url:"https://github.com/takahiroanno2024/election2024/pull/151",state:"CLOSED",comments:{nodes:[]},timelineItems:{nodes:[]}},{number:154,createdAt:"2024-06-24T07:56:12Z",title:"東京都の少子化要因の多くが有配偶率低下であることの説明追加。",body:`こちらのIssueでの議論を踏まえてPR。\r
+https://github.com/takahiroanno2024/election2024/issues/10`,url:"https://github.com/takahiroanno2024/election2024/pull/151",state:"OPEN",comments:{nodes:[]},timelineItems:{nodes:[]}},{number:154,createdAt:"2024-06-24T07:56:12Z",title:"東京都の少子化要因の多くが有配偶率低下であることの説明追加。",body:`こちらのIssueでの議論を踏まえてPR。\r
 https://github.com/takahiroanno2024/election2024/issues/26\r
 まず、現状説明の部分。\r
 エビデンスは、内閣府の令和5年度「年次経済財政報告」の「第2-2-18図」。\r

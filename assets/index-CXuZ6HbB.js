@@ -10386,7 +10386,7 @@ https://emergency.heralbony.jp/
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:3},labels:{nodes:[{name:"医療・防災"}]},updatedAt:"2024-07-01T14:07:06Z"},{title:"エッセンシャルワーカーの待遇改善・業務効率化に向けた施策について",number:261,createdAt:"2024-07-02T08:49:19Z",url:"https://github.com/takahiroanno2024/election2024/issues/261",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:4},labels:{nodes:[{name:"医療・防災"}]},updatedAt:"2024-07-01T14:07:06Z"},{title:"エッセンシャルワーカーの待遇改善・業務効率化に向けた施策について",number:261,createdAt:"2024-07-02T08:49:19Z",url:"https://github.com/takahiroanno2024/election2024/issues/261",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 
@@ -11424,7 +11424,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:5},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T07:03:53Z"},{title:"経済政策、減税観点での提案",number:298,createdAt:"2024-07-04T07:39:07Z",url:"https://github.com/takahiroanno2024/election2024/issues/298",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:0},reactions:{totalCount:6},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T07:03:53Z"},{title:"経済政策、減税観点での提案",number:298,createdAt:"2024-07-04T07:39:07Z",url:"https://github.com/takahiroanno2024/election2024/issues/298",state:"OPEN",body:`### 政策ビジョン
 
 経済
 

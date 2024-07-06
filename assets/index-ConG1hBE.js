@@ -4371,7 +4371,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 \r
 ### 調べたこと（裏付けとなる事実・ファクト）\r
 \r
-特にありません。`,comments:{totalCount:2},reactions:{totalCount:6},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-06-22T08:48:26Z"},{title:"公的な情報発信用のWEBサイトやモバイルアプリに都政に対する意見表明への導線を追加してほしい",number:8,createdAt:"2024-06-21T09:30:17Z",url:"https://github.com/takahiroanno2024/election2024/issues/8",state:"CLOSED",body:`## 政策ビジョン\r
+特にありません。`,comments:{totalCount:2},reactions:{totalCount:7},labels:{nodes:[{name:"経済"}]},updatedAt:"2024-06-22T08:48:26Z"},{title:"公的な情報発信用のWEBサイトやモバイルアプリに都政に対する意見表明への導線を追加してほしい",number:8,createdAt:"2024-06-21T09:30:17Z",url:"https://github.com/takahiroanno2024/election2024/issues/8",state:"CLOSED",body:`## 政策ビジョン\r
 - [ ] 経済\r
 - [ ] 医療・防災\r
 - [ ] 教育・子育て\r
@@ -5341,7 +5341,7 @@ https://www.sangiin.go.jp/japanese/annai/chousa/keizai_prism/backnumber/r03pdf/2
 \r
 - 年金受給可能な60歳以上であっても就労に向けた支援が必要。\r
   - 鬱病に特化したリワークだけでなく、MCI（軽度認知障害）にも特化したリワークが必要（全数を調べてない）\r
-  - https://utsu-rework.org/list/`,comments:{totalCount:5},reactions:{totalCount:4},labels:{nodes:[{name:"医療・防災"}]},updatedAt:"2024-06-27T19:58:27Z"},{title:"環七・環八・首都高の平日渋滞の緩和〜深夜配達 | 東京外かく道路早期開通 | 環七・八高架化 | 首都高6車線化〜",number:64,createdAt:"2024-06-22T03:27:23Z",url:"https://github.com/takahiroanno2024/election2024/issues/64",state:"OPEN",body:`## 政策ビジョン\r
+  - https://utsu-rework.org/list/`,comments:{totalCount:5},reactions:{totalCount:5},labels:{nodes:[{name:"医療・防災"}]},updatedAt:"2024-06-27T19:58:27Z"},{title:"環七・環八・首都高の平日渋滞の緩和〜深夜配達 | 東京外かく道路早期開通 | 環七・八高架化 | 首都高6車線化〜",number:64,createdAt:"2024-06-22T03:27:23Z",url:"https://github.com/takahiroanno2024/election2024/issues/64",state:"OPEN",body:`## 政策ビジョン\r
 \r
 <!-- 一つ選んでください -->\r
 \r
@@ -7442,7 +7442,7 @@ https://honichi.com/news/2020/07/13/touristsxsurvey/
 
 ### 自由記述欄
 
-何千億円使って箱物を増やすよりは直接都民の利益につながるように思える`,comments:{totalCount:14},reactions:{totalCount:28},labels:{nodes:[{name:"医療・防災"},{name:"経済"}]},updatedAt:"2024-07-01T23:52:01Z"},{title:"東京と地方が連携し、日本全体の発展につなげる",number:143,createdAt:"2024-06-24T00:23:10Z",url:"https://github.com/takahiroanno2024/election2024/issues/143",state:"OPEN",body:`### 政策ビジョン
+何千億円使って箱物を増やすよりは直接都民の利益につながるように思える`,comments:{totalCount:14},reactions:{totalCount:29},labels:{nodes:[{name:"医療・防災"},{name:"経済"}]},updatedAt:"2024-07-01T23:52:01Z"},{title:"東京と地方が連携し、日本全体の発展につなげる",number:143,createdAt:"2024-06-24T00:23:10Z",url:"https://github.com/takahiroanno2024/election2024/issues/143",state:"OPEN",body:`### 政策ビジョン
 
 行政
 

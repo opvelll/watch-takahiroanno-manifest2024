@@ -12035,7 +12035,7 @@ _No response_
 
 ### 自由記述欄
 
-_No response_`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"民主主義"}]},updatedAt:"2024-07-06T06:57:03Z"},{title:"情報公開の位置付けの修正",number:325,createdAt:"2024-07-06T07:11:49Z",url:"https://github.com/takahiroanno2024/election2024/issues/325",state:"OPEN",body:`### 政策ビジョン
+_No response_`,comments:{totalCount:2},reactions:{totalCount:1},labels:{nodes:[{name:"民主主義"}]},updatedAt:"2024-07-06T10:02:39Z"},{title:"情報公開の位置付けの修正",number:325,createdAt:"2024-07-06T07:11:49Z",url:"https://github.com/takahiroanno2024/election2024/issues/325",state:"OPEN",body:`### 政策ビジョン
 
 民主主義
 

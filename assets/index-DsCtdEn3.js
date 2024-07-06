@@ -11391,7 +11391,7 @@ https://toyokeizai.net/articles/-/313404\r
 \r
 ### 自由記述欄\r
 \r
-とても良い取り組みなのでせっかくなので投稿させていただきました，よろしくお願いします`,comments:{totalCount:0},reactions:{totalCount:1},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T04:01:59Z"},{title:"性風俗産業で働く個人事業主への社会的補償について",number:297,createdAt:"2024-07-04T07:03:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/297",state:"OPEN",body:`### 政策ビジョン
+とても良い取り組みなのでせっかくなので投稿させていただきました，よろしくお願いします`,comments:{totalCount:0},reactions:{totalCount:2},labels:{nodes:[{name:"教育・子育て"}]},updatedAt:"2024-07-04T04:01:59Z"},{title:"性風俗産業で働く個人事業主への社会的補償について",number:297,createdAt:"2024-07-04T07:03:43Z",url:"https://github.com/takahiroanno2024/election2024/issues/297",state:"OPEN",body:`### 政策ビジョン
 
 教育・子育て
 

@@ -1,5 +1,74 @@
 [
   {
+    "oid": "3d63742cffbd884ba14396d6fc5e7f5d1326ca38",
+    "message": "Merge branch 'main' into patch-2",
+    "committedDate": "2024-07-05T03:22:13Z",
+    "author": {
+      "name": "Imaizumi Takatsugu",
+      "email": "49748966+TakatsuguImaizumi@users.noreply.github.com"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/3d63742cffbd884ba14396d6fc5e7f5d1326ca38",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 309,
+            "title": "障害福祉\\効率的なテクノロジー活用例の追加",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/309",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "コンフリクト解消しました"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "sha": "ed0ce67fad4db4c404f07ab52224bd0a218d1f2b",
+        "filename": "docs/manifest/budget.md",
+        "status": "modified",
+        "additions": 4,
+        "deletions": 3,
+        "changes": 7,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/3d63742cffbd884ba14396d6fc5e7f5d1326ca38/docs%2Fmanifest%2Fbudget.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/3d63742cffbd884ba14396d6fc5e7f5d1326ca38/docs%2Fmanifest%2Fbudget.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fbudget.md?ref=3d63742cffbd884ba14396d6fc5e7f5d1326ca38",
+        "patch": "@@ -10,12 +10,13 @@\n \n ## 政策の5本柱実現にかかる予算規模概算\n \n-- 政策の5本柱で上げた施策の実現は、導入時に約513億円、その後の維持・運営費に最大170億円／年程度がかかる見込み\n+- 政策の5本柱で上げた施策の実現は、導入時に約523億円、その後の維持・運営費に最大180億円／年程度がかかる見込み\n     - 最も予算を要するのは2本目の柱である「とことん安心の医療・防災」で、導入に約275億円、維持・運営に約52.5億円/年を想定\n - 都の一般会計は令和6年度で約8.5兆円。その大きな予算配分を変えることなく、全体の1%未満で現在打ち出している新規政策は実現可能\n-- 経済：新産業で所得倍増　導入2.2億円、維持・運営6億円/年\n-    - 都立インターナショナルスクールの誘致（企画費・授業料補助等）：導入4億円、維持・運営3億円/年\n+- 経済：新産業で所得倍増　導入32億円、維持・運営16億円/年\n     - 自動運転特区の実現：導入18億円、運営3億円/年\n+    - スタートアップの法人都民税減税：10億円/年\n+    - 都立インターナショナルスクールの誘致（企画費・授業料補助等）：導入4億円、維持・運営3億円/年\n     - ほか施策については、追加予算ではなく現行の予算内で取り組み内容を変更\n - 医療・防災：とことん安心の医療・防災　導入272.5億円、維持・運営52.5億円/年\n     - 夜間休日の医療体制構築：導入91.4億円、維持・運営35億円/年"
+      },
+      {
+        "sha": "bdb658f7ba235ec9ba03661c52940910975a57f7",
+        "filename": "docs/manifest/economy.md",
+        "status": "modified",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/3d63742cffbd884ba14396d6fc5e7f5d1326ca38/docs%2Fmanifest%2Feconomy.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/3d63742cffbd884ba14396d6fc5e7f5d1326ca38/docs%2Fmanifest%2Feconomy.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Feconomy.md?ref=3d63742cffbd884ba14396d6fc5e7f5d1326ca38",
+        "patch": "@@ -88,6 +88,7 @@\n     - 研究開発機関/スタートアップ拠点を集積\n         - 東京都内の既存の大学や研究機関と連携\n         - スタートアップグローバルキャンパス構想＠恵比寿との連携\n+        - スタートアップ企業向け法人都民税の一定期間減免\n     - 東京を国際的な技術革新の中心地とする\n         - スタートアップや成長産業の関係者が、世界中から東京に集まるイベントの開催\n     - 上記の結果として、都内の企業の全体的なレベルアップ＆海外投資家の誘致（ミドル/レイターステージでの資金注入）を実現"
+      },
+      {
+        "sha": "90d64c6378a4e962ca7b37b201aa0a6c6a8e68a1",
+        "filename": "docs/manifest/others.md",
+        "status": "modified",
+        "additions": 20,
+        "deletions": 12,
+        "changes": 32,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/3d63742cffbd884ba14396d6fc5e7f5d1326ca38/docs%2Fmanifest%2Fothers.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/3d63742cffbd884ba14396d6fc5e7f5d1326ca38/docs%2Fmanifest%2Fothers.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fothers.md?ref=3d63742cffbd884ba14396d6fc5e7f5d1326ca38",
+        "patch": "@@ -35,28 +35,36 @@\n \n ## 障害福祉\n - 特別な配慮が必要な児童の数は増えてきている\n-    - 通級による指導を受けている児童も増加傾向にあり、現在は134,185人（令和1年時点）\n-    - 通常の学級に在籍する小中学生の8.8%に学習や行動に困難のある発達障害の可能性がある\n-- 社会側の障害をなくしていくために、専門職の方々の生産性向上・ステークホルダーの連携強化・テクノロジーの活用を進める必要がある\n+    - 小中学校で通級指導教室（通常の授業のなかで困難を感じる児童に対し、特性などに配慮した指導を受けることができる制度）に通う生徒は増加し続け、現在は164,697人いる\n+    - 学習や行動に困難のある発達障害の可能性がある小中学生の割合は増加し、2022年には8.8%に。\n+35人学級に3人いる計算に。\n+- 社会側の障害をなくすために、人・テクノロジーの相乗効果を目指す\n     - 一人ひとりの特性やお困りに合わせて、どのような支援が必要かを見立てること・心理面も含めた支援に対しては、専門職の力が不可欠\n-        - 福祉従事者の方の待遇改善\n+        - エッセンシャルワーカーの方の待遇改善\n         - 手続き面でのさらなるDXの検討\n-    - ステークホルダーの連携強化\n+    - 福祉に閉じず障害のある子を支えるステークホルダーの連携を強化することで、より効果的な支援を実現\n         - 学校現場での支援者を増やすため、「特別支援教育支援員」の採用に対して補助\n         - 学校・福祉事業所・医療機関等、関係機関間での連携強化を支援\n-    - テクノロジーの活用\n+    - 困りごとを減らしたり、自分の興味を追求するために効果的なテクノロジーとの出会いの実現\n+        - 障害者手帳のデジタル化\n         - 効果的なツールのデータベース化\n         - 活用方法や、キャリアづくりのためのロールモデルとのマッチング\n - 福祉事業者を含むエッセンシャルワーカーの待遇改善\n     - 処遇改善加算算定時に、都からさらに助成金を追加する\n     - 住宅補助の拡充\n     - DXの一層の進展のために、導入時にICT支援を派遣する    \n - テクノロジーは、マッチング・ロールモデルとセットで届けていく\n-    - 効果的なテクノロジー活用例\n-        - 場面緘黙の方に向けて会話支援AIツール Be Free\n-        - 発達障害の方に向けたサポートツール goblin.tools\n-        - ろう者の為の3DCG技術を用いた手話翻訳AIツール\n+    -　障害者手帳のデジタル化\n+        -　障害者手帳等のマイナンバーカード搭載\n+        - 都・市区町村が実施主体となる医療費助成（指定難病・自立支援医療等）に係る医療証等のマイナンバーカード搭載を早期に実施\n+        - 都営交通無料乗車券のスマートフォン搭載\n+    - 効果的なテクノロジーデータベース化\n+        - 以下のようなツールを、それぞれの特性・困りごとに応じて検索できるようにする\n+            - 場面緘黙の方に向けて会話支援AIツール Be Free\n+            - 発達障害の方に向けたサポートツール goblin.tools\n+            - ろう者の為の3DCG技術を用いた手話翻訳AIツール\n     - それぞれの特性・困りごとに検索ができるデータベースを都のイニシアチブで整理\n         - 助成事業として実施されたことはあるが継続性が担保されないので、都として支援\n-    - ツールの活用しながら、どのようにキャリアを積んできたかについて見通し不安をなくすロールモデルとの出会い\n-        - オンラインでのメンタリングを支援\n+    - ロールモデルとのマッチング\n+        - 「特性に応じて、どのようなツールを使うといいか」「どうやって自分の関心を深めたか」について相談できるロールモデルとのマッチング\n+        - オンラインでのメンタリングを支援していく"
+      }
+    ]
+  },
+  {
     "oid": "f1a3a2eafaf1a24bc42924f202cb743d144341a8",
     "message": "Merge pull request #301 from sawa-h/patch-4",
     "committedDate": "2024-07-05T01:13:06Z",
@@ -160,6 +229,51 @@
         "raw_url": "https://github.com/takahiroanno2024/election2024/raw/bb7676f9ab80855732c90a722f53bf92374aab69/docs%2Fmanifest%2Feconomy.md",
         "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Feconomy.md?ref=bb7676f9ab80855732c90a722f53bf92374aab69",
         "patch": "@@ -88,6 +88,7 @@\n     - 研究開発機関/スタートアップ拠点を集積\n         - 東京都内の既存の大学や研究機関と連携\n         - スタートアップグローバルキャンパス構想＠恵比寿との連携\n+        - スタートアップ企業向け法人都民税の一定期間減免\n     - 東京を国際的な技術革新の中心地とする\n         - スタートアップや成長産業の関係者が、世界中から東京に集まるイベントの開催\n     - 上記の結果として、都内の企業の全体的なレベルアップ＆海外投資家の誘致（ミドル/レイターステージでの資金注入）を実現"
+      }
+    ]
+  },
+  {
+    "oid": "fdfb5436b88060cb15d0ff1d2c84eff27401bde1",
+    "message": "障害福祉\\効率的なテクノロジー活用例の追加\n\n「ろう者の為の3DCG技術を用いた手話翻訳AIツール」を提案させて頂きます。\r\nhttps://github.com/takahiroanno2024/election2024/issues/277",
+    "committedDate": "2024-07-04T17:07:17Z",
+    "author": {
+      "name": "tamura2175",
+      "email": "no.2175@gmail.com"
+    },
+    "url": "https://github.com/takahiroanno2024/election2024/commit/fdfb5436b88060cb15d0ff1d2c84eff27401bde1",
+    "associatedPullRequests": {
+      "edges": [
+        {
+          "node": {
+            "number": 309,
+            "title": "障害福祉\\効率的なテクノロジー活用例の追加",
+            "url": "https://github.com/takahiroanno2024/election2024/pull/309",
+            "comments": {
+              "nodes": [
+                {
+                  "body": "コンフリクト解消しました"
+                }
+              ]
+            },
+            "timelineItems": {
+              "nodes": []
+            }
+          }
+        }
+      ]
+    },
+    "files": [
+      {
+        "sha": "de9964ea2ccd7882f27ba24194f3278d851c7569",
+        "filename": "docs/manifest/others.md",
+        "status": "modified",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/takahiroanno2024/election2024/blob/fdfb5436b88060cb15d0ff1d2c84eff27401bde1/docs%2Fmanifest%2Fothers.md",
+        "raw_url": "https://github.com/takahiroanno2024/election2024/raw/fdfb5436b88060cb15d0ff1d2c84eff27401bde1/docs%2Fmanifest%2Fothers.md",
+        "contents_url": "https://api.github.com/repos/takahiroanno2024/election2024/contents/docs%2Fmanifest%2Fothers.md?ref=fdfb5436b88060cb15d0ff1d2c84eff27401bde1",
+        "patch": "@@ -55,6 +55,7 @@\n     - 効果的なテクノロジー活用例\n         - 場面緘黙の方に向けて会話支援AIツール Be Free\n         - 発達障害の方に向けたサポートツール goblin.tools\n+        - ろう者の為の3DCG技術を用いた手話翻訳AIツール\n     - それぞれの特性・困りごとに検索ができるデータベースを都のイニシアチブで整理\n         - 助成事業として実施されたことはあるが継続性が担保されないので、都として支援\n     - ツールの活用しながら、どのようにキャリアを積んできたかについて見通し不安をなくすロールモデルとの出会い"
       }
     ]
   },

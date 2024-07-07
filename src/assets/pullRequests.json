@@ -795,7 +795,7 @@
     "title": "ギガスクールで使うPCやデバイスのスペック目安の策定と入れ替え実施[Update education.md]",
     "body": "linked below issue\r\n\r\nギガスクールで配布しているPCをもっと現実的なスペックやメーカのものに入れ替えてほしい #10\r\nhttps://github.com/takahiroanno2024/election2024/issues/10",
     "url": "https://github.com/takahiroanno2024/election2024/pull/151",
-    "state": "CLOSED",
+    "state": "OPEN",
     "comments": {
       "nodes": []
     },
@@ -1233,7 +1233,11 @@
     "url": "https://github.com/takahiroanno2024/election2024/pull/265",
     "state": "OPEN",
     "comments": {
-      "nodes": []
+      "nodes": [
+        {
+          "body": "Ping @takahiroanno "
+        }
+      ]
     },
     "timelineItems": {
       "nodes": []
@@ -1515,9 +1519,13 @@
     "title": "障害福祉\\効率的なテクノロジー活用例の追加",
     "body": "「ろう者の為の3DCG技術を用いた手話翻訳AIツール」を提案させて頂きます。\r\nhttps://github.com/takahiroanno2024/election2024/issues/277",
     "url": "https://github.com/takahiroanno2024/election2024/pull/309",
-    "state": "OPEN",
+    "state": "MERGED",
     "comments": {
-      "nodes": []
+      "nodes": [
+        {
+          "body": "コンフリクト解消しました"
+        }
+      ]
     },
     "timelineItems": {
       "nodes": []
@@ -1544,6 +1552,62 @@
     "body": "",
     "url": "https://github.com/takahiroanno2024/election2024/pull/312",
     "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 316,
+    "createdAt": "2024-07-05T13:06:34Z",
+    "title": "有配偶率向上のための非正規雇用対策と家賃高対策を追加",
+    "body": "こちらでの議論を踏まえてPR\r\nhttps://github.com/takahiroanno2024/election2024/issues/26\r\n\r\n有配偶率低下に影響した要因の順位のエビデンスは、以下リンク内のCSVの「（２）有配偶率要因への影響推計」の「推定値」を絶対値に変換して降順にしたもの。\r\n内閣府 令和5年度 年次経済財政報告 第2-2-18図 都道府県別にみた有配偶率・有配偶出生率の決定要因\r\nhttps://www5.cao.go.jp/j-j/wp/wp-je23/h06_hz020218.html\r\n\r\n東京都の家賃高のエビデンスは、\r\n全国賃貸管理ビジネス協会 全国家賃動向 2024年5月調査\r\nhttps://www.pbn.jp/yachin/2024/05/\r\n\r\n具体的な施策は、Perplexityに「同一労働同一賃金を推進するのに東京都が行政としてできることは何ですか。」「再契約型定期借家契約を普及させるために東京都が行政としてできることは何ですか。」と尋ねて返ってきた答えをもとに記述した。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/316",
+    "state": "OPEN",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 317,
+    "createdAt": "2024-07-05T14:07:01Z",
+    "title": "7/6をもってアーカイブする旨の注意書きを記載",
+    "body": "選挙運動は選挙期日の前日まで許されており（公職選挙法129条）、本リポジトリを通じた双方向のコミュニケーションは選挙活動に該当しうるものと認識しております。\r\n疑義を避けるため、issueやPRの起票やコメントを行えなくする措置を行います。ご了承ください。",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/317",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 323,
+    "createdAt": "2024-07-06T06:06:32Z",
+    "title": "Refactor method names to improve clarity and reduce ambiguity",
+    "body": "スクリプトの一部のメソッド名が曖昧に感じましたのと、本日中にアーカイブされるとのことでしたので、プルリクさせていただきました。\r\n一応エラーなく動作することはWindows11ローカル環境にて確認しております。\r\nご検討いただければ幸いです。\r\n",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/323",
+    "state": "MERGED",
+    "comments": {
+      "nodes": []
+    },
+    "timelineItems": {
+      "nodes": []
+    }
+  },
+  {
+    "number": 334,
+    "createdAt": "2024-07-06T13:41:35Z",
+    "title": "Update care.md",
+    "body": "",
+    "url": "https://github.com/takahiroanno2024/election2024/pull/334",
+    "state": "OPEN",
     "comments": {
       "nodes": []
     },

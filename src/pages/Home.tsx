@@ -36,7 +36,7 @@ export default function Home() {
                             このサイトでは、安野氏のGitHubからマニフェストに関わるIssueと実際に取り込まれたコミットをAPIで取得し表示します。
                         </div>
                         <div className="text-std-16N-7">
-                            情報は30分ごとに更新されます。
+                            <span className="line-through">情報は30分ごとに更新されます。</span>（選挙活動期間が終わり、マニュフェストレポジトリがアーカイブされたため、更新は行われません。）
                         </div>
                     </div>
                     <div>

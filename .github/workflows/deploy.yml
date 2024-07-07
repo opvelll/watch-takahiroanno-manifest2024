@@ -1,8 +1,6 @@
 name: Deploy GitHub Pages
 
 on:
-  schedule:
-    - cron: '*/30 * * * *' # 30分毎に実行
   push:
     branches:
       - main # メインブランチへのプッシュ時にも実行

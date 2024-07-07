@@ -10,7 +10,6 @@
 
 このサイトでは、安野氏のGitHubから、マニフェストに関わるIssueと実際に取り込まれたコミットをAPIで取得し表示します。
 
-情報は30分ごとにGitHubから自動的に取得され、更新されます。
 ![スクリーンショット](<docs/スクリーンショット 2024-07-01 223209.png>)
 ![スクリーンショット](<docs/スクリーンショット 2024-07-01 001422.png>)
 ![スクリーンショット](<docs/スクリーンショット 2024-07-01 001453.png>)
@@ -27,7 +26,6 @@ Takahiro Anno, a candidate for the Tokyo gubernatorial election, is undertaking 
 
 This site retrieves and displays issues related to Anno's manifesto and the commits that have been incorporated from his GitHub using the GitHub API.
 
-The information is automatically retrieved and updated from GitHub every 30 minutes.
 
 ![スクリーンショット](<docs/スクリーンショット 2024-07-01 223209.png>)
 ![スクリーンショット](<docs/スクリーンショット 2024-07-01 001422.png>)

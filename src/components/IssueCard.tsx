@@ -8,12 +8,12 @@ export default function IssueCard({ issue }: { issue: { title: string, body: str
         window.open(url, '_blank', 'noopener,noreferrer');
     };
     return (
-        <div className="cursor-pointer p-2" onClick={() => openInNewTab(issue.url)}>
+        <div className="cursor-pointer p-2 w-full" onClick={() => openInNewTab(issue.url)}>
             <div className="rounded-8 border hover:border-slate-700 hover:shadow bg-white">
-                <div className="p-2">
+                <div className="p-4">
                     <div className="pl-2 pb-2 pr-2 border-b flex justify-stretch">
                         <div className="flex-1">
-                            <div className="text-std-16B-7 md:text-std-18B-6">
+                            <div className="text-std-16B-7 md:text-std-18B-6 pb-2">
                                 {issue.title}
                             </div>
                             <div className="text-dns-14N-2 flex flex-row space-x-2">
@@ -28,7 +28,7 @@ export default function IssueCard({ issue }: { issue: { title: string, body: str
                         </div>
                     </div>
                     <div className="p-2">
-                        <div className="scroll-auto overflow-y-auto max-h-32">
+                        <div className="scroll-auto overflow-y-auto max-h-44 min-w-64">
                             <Markdown remarkPlugins={[remarkGfm]}>{issue.body}</Markdown>
                         </div>
                     </div>

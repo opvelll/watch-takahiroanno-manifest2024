@@ -1,4 +1,5 @@
 // IssueLink.tsx
+
 import React from 'react';
 
 interface ExternalLinkProps {
@@ -11,7 +12,7 @@ const ExternalLink: React.FC<ExternalLinkProps> = ({ href, children }) => {
     <a href={href}
       target="_blank"
       rel="noopener noreferrer"
-      className="text-black underline visited:underline visited:text-primary">
+      className="text-primary underline visited:underline visited:text-primary">
       {children}
     </a>
   );

@@ -15,7 +15,7 @@
     "@digital-go-jp/tailwind-theme-plugin": "^0.1.15",
     "@octokit/types": "^13.5.0",
     "@types/node": "^20.14.9",
-    "antd": "^5.18.3",
+    "antd": "^5.21.6",
     "dotenv": "^16.4.5",
     "octokit": "^4.0.2",
     "react": "^18.3.1",

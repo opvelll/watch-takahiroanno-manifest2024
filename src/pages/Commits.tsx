@@ -4,6 +4,7 @@ import { Timeline, TimelineItemProps } from "antd"
 import CommitCard from "../components/CommitCard";
 import ExternalLinkButton from "../components/ExternalLinkButton";
 import ExternalLink from "../components/ExternalLink";
+import ExternalLinkBlock from "../components/ExternalLinkBlock";
 
 
 export default function Commits() {
@@ -18,11 +19,11 @@ export default function Commits() {
 
     return (
         <>
-            <div className='bg-white rounded-8 mb-4 flex flex-row justify-center items-center space-x-4 py-2'>
+            <ExternalLinkBlock>
                 <ExternalLinkButton
                     url="https://manifest.takahiroanno.com/"
                     text="安野たかひろ：都知事選2024マニフェスト" />
-            </div>
+            </ExternalLinkBlock>
 
             <div className="p-4 bg-white rounded-8">
                 <div className="text-std-20B-5 pb-8">

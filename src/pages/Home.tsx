@@ -1,5 +1,6 @@
 import { Anchor, Divider } from "antd";
 import issues from "../assets/issues.json"
+import ExternalLink from "../components/ExternalLink";
 import ExternalLinkButton from "../components/ExternalLinkButton";
 import IssueCard from "../components/IssueCard";
 import { Fragment } from "react/jsx-runtime";
@@ -12,7 +13,7 @@ export default function Home() {
     //コメントがついているIssue5件
     const issuesWithMostComments = issues.sort((a, b) => b.comments.totalCount - a.comments.totalCount).slice(0, 5);
     return (
-        <div className="flex flex-col">
+        <div className="flex flex-col px-2 md:pt-8">
             <div className="space-y-6 md:px-28 lg:px-44 mb-10">
                 <div className=" rounded-8  space-y-8 p-6  flex flex-col items-center">
                     <div className="text-std-28B-5 md:text-std-32B-5 lg:text-std-45B-4">
@@ -20,29 +21,19 @@ export default function Home() {
                     </div>
                     <div className="text-center lg:max-w-3xl ">
                         <div className="text-std-16N-7">
-                            東京都知事選挙の立候補者である安野たかひろ氏は、<a href="https://github.com/takahiroanno2024/election2024" target="_blank" rel="noopener noreferrer" className="text-primary underline">GitHub上でマニフェストを公開</a>し、
-                            一般からの意見や提案を募るという取り組みを行っています。
+                            このサイトは、2024年東京都知事選挙の候補者である安野たかひろ氏が公開している<a href="https://github.com/takahiroanno2024/election2024" target="_blank" rel="noopener noreferrer" className="text-primary underline">マニフェストGitHubリポジトリ</a>の変化を追跡し、一般の方々にもわかりやすい形式で情報を提供するためのものです。
                         </div>
                         <div className="text-std-16N-7">
-                            このサイトは、それを見やすくする試みです。
-                        </div>
-                        <div className="text-std-16N-7">
-                            <span className="line-through">情報は30分ごとに更新されます。</span>（選挙活動期間が終わり、マニフェストレポジトリがアーカイブされたため、更新は行われません。）
+                            <span className="line-through">・情報は30分ごとに更新されます。</span>（選挙活動期間が終わり、マニフェストレポジトリがアーカイブされたため、更新は行われません。）
                         </div>
                     </div>
                     <div>
                         <div className="flex flex-col space-y-4 justify-center items-center text-std-16N-7">
 
-                            <div className="flex flex-row space-x-2">
-                                <ExternalLinkButton
-                                    url="https://github.com/takahiroanno2024/election2024"
-                                    text="安野たかひろGitHubリポジトリ" />
-
-                            </div>
-
                             <ExternalLinkButton
-                                url="https://manifest.takahiroanno.com/"
-                                text="安野たかひろ：都知事選2024マニフェスト" />
+                                url="https://github.com/takahiroanno2024/election2024"
+                                text="本家様 : 安野たかひろGitHubリポジトリ" />
+                            <ExternalLink href="https://github.com/opvelll/watch-takahiroanno-manifest2024">このサイトのGitHubリポジトリ</ExternalLink>
                         </div>
                     </div>
                 </div>
@@ -55,7 +46,7 @@ export default function Home() {
                             <a href="https://github.com/takahiroanno2024/election2024/issues?q=is%3Aissue+label%3A%E7%B5%8C%E6%B8%88%2C%E5%8C%BB%E7%99%82%E3%83%BB%E9%98%B2%E7%81%BD%2C%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%90%E8%82%B2%E3%81%A6%2C%E8%A1%8C%E6%94%BF%2C%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%2C%E3%81%9D%E3%81%AE%E4%BB%96+sort%3Areactions-%2B1-desc+"
                                 target="_blank" rel="noopener noreferrer"
                                 className="text-primary underline">
-                                👍️の多いIssue
+                                👍️の多い提案
                             </a>
                         </div>
                         <div className="space-y-2">
@@ -72,7 +63,7 @@ export default function Home() {
                             <a href="https://github.com/takahiroanno2024/election2024/issues?q=is%3Aissue+label%3A%E7%B5%8C%E6%B8%88%2C%E5%8C%BB%E7%99%82%E3%83%BB%E9%98%B2%E7%81%BD%2C%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%90%E8%82%B2%E3%81%A6%2C%E8%A1%8C%E6%94%BF%2C%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%2C%E3%81%9D%E3%81%AE%E4%BB%96+sort%3Acomments-desc"
                                 target="_blank" rel="noopener noreferrer"
                                 className="text-primary underline">
-                                コメントの多いIssue
+                                コメントの多い提案
                             </a>
                         </div>
                         <div className="space-y-2">
@@ -88,7 +79,7 @@ export default function Home() {
                         <div className="text-std-20B-5 pb-4 text-center" id="latestIssues">
                             <a
                                 href="https://github.com/takahiroanno2024/election2024/issues?q=is%3Aopen+label%3A%E7%B5%8C%E6%B8%88%2C%E5%8C%BB%E7%99%82%E3%83%BB%E9%98%B2%E7%81%BD%2C%E6%95%99%E8%82%B2%E3%83%BB%E5%AD%90%E8%82%B2%E3%81%A6%2C%E8%A1%8C%E6%94%BF%2C%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%2C%E3%81%9D%E3%81%AE%E4%BB%96" target="_blank" rel="noopener noreferrer"
-                                className="text-primary underline">最新のIssue</a>
+                                className="text-primary underline">最新の提案</a>
                         </div>
                         <div className="space-y-0 md:space-y-2">
                             {latestIssues.map((issue, idx) => (
@@ -105,9 +96,9 @@ export default function Home() {
                 </div>
                 <div className="hidden md:inline-block p-4">
                     <Anchor offsetTop={10} items={[
-                        { key: "mostReaction", href: "#mostReactionIssues", title: "👍️の多いIssue" },
-                        { key: "mostComments", href: "#mostCommentsIssues", title: "コメントの多いIssue" },
-                        { key: "latest", href: "#latestIssues", title: "最新のIssue" },
+                        { key: "mostReaction", href: "#mostReactionIssues", title: "👍️の多い提案" },
+                        { key: "mostComments", href: "#mostCommentsIssues", title: "コメントの多い提案" },
+                        { key: "latest", href: "#latestIssues", title: "最新の提案" },
 
                     ]} />
                 </div>

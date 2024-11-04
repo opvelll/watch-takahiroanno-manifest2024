@@ -8,11 +8,12 @@ export default function HeaderMenu() {
     const navigate = useNavigate();
 
     const items = [
-        { key: '/', label: 'サイトについて' },
-        { key: '/issues', label: '課題提起(Issues)' },
-        { key: '/pullRequests', label: '変更提案(PullRequests)' },
-        { key: '/mergedPullRequests', label: '取り込み済み提案' },
-        { key: '/commits', label: '反映履歴(Commits)' },
+        { key: '/', label: 'WTAM2024' },
+        { key: '/manifest', label: 'マニフェスト' },
+        { key: '/issues', label: '課題提起' },
+        { key: '/pullRequests', label: '変更提案' },
+        { key: '/mergedPullRequests', label: '取り込まれた提案' },
+        { key: '/commits', label: '反映履歴' },
     ]
 
     const handleMenuClick: MenuProps['onClick'] = (e) => {
@@ -31,7 +32,7 @@ export default function HeaderMenu() {
                         style={{ flex: 1, minWidth: 0 }}
                     />
                 </Header>
-                <Content className="p-2 md:px-12 md:py-8">
+                <Content className="md:px-12 md:pb-8">
                     <Outlet />
                 </Content>
                 <Footer style={{ textAlign: 'center' }}>

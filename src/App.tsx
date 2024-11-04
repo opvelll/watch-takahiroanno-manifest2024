@@ -7,6 +7,7 @@ import HeaderMenu from "./pages/HeaderMenu";
 import Issues from "./pages/Issues";
 import PullRequests from "./pages/PullRequests";
 import MargedPullRequests from "./pages/MergedPullRequests";
+import Manifest from "./pages/Manifest";
 
 function App() {
 
@@ -20,7 +21,10 @@ function App() {
           path: '/',
           element: <Home />,
         },
-
+        {
+          path: '/manifest',
+          element: <Manifest />,
+        },
         {
           path: '/issues',
           element: <Issues />,

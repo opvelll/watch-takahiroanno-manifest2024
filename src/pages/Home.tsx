@@ -21,7 +21,9 @@ export default function Home() {
                     </div>
                     <div className="text-center lg:max-w-3xl ">
                         <div className="text-std-16N-7">
-                            このサイトは、2024年東京都知事選挙の候補者である安野たかひろ氏が公開している<a href="https://github.com/takahiroanno2024/election2024" target="_blank" rel="noopener noreferrer" className="text-primary underline">マニフェストGitHubリポジトリ</a>の変化を追跡し、一般の方々にもわかりやすい形式で情報を提供するためのものです。
+                            <p>
+                                このサイトは、2024年東京都知事選挙の候補者である安野たかひろ氏が公開している<a href="https://github.com/takahiroanno2024/election2024" target="_blank" rel="noopener noreferrer" className="text-primary underline">マニフェストGitHubリポジトリ</a>の変化を追跡し、
+                            </p><p>一般の方々にもわかりやすい形式で情報を提供するためのものです。</p>
                         </div>
                         <div className="text-std-16N-7">
                             <span className="line-through">・情報は30分ごとに更新されます。</span>（選挙活動期間が終わり、マニフェストレポジトリがアーカイブされたため、更新は行われません。）
